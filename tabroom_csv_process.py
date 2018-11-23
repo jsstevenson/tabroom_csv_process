@@ -3,7 +3,7 @@ import csv
 import os
 
 
-def open_ndt(fpath):
+def open_csv(fpath):
     file = open(fpath, 'r')
     try:
         reader = csv.reader(file)
@@ -11,6 +11,8 @@ def open_ndt(fpath):
         writer = csv.writer(outfile)
         next(reader, None)  # skip header
         meta = os.path.basename(fpath)[:-4].split('-')
+        if len(meta) == 3:
+            meta.append('open')
         debates = []
         for debate_raw in reader:
             debate = []
@@ -96,7 +98,7 @@ def open_ndt(fpath):
                 debate += decisions
                 debate = meta + debate
 
-                status_check(debate, 27)
+                status_check(debate, 28)
 
             # status check
             # print(debate)
@@ -110,7 +112,7 @@ def open_ndt(fpath):
     finally:
         file.close()
         outfile.close()
-        # os.rename(fpath, 'processed/' + os.path.basename)
+        os.rename(fpath, 'processed/' + os.path.basename(fpath))
 
 
 def status_check(row, length):
@@ -123,9 +125,8 @@ def status_check(row, length):
 def open_multiple(path):
     files = [f for f in os.listdir(path) if f.endswith('.csv')]
     for file in files:
-        open_ndt(path + '/' + file)
+        open_csv(path + '/' + file)
 
 
 if __name__ == '__main__':
-    # debates = open_ndt(sys.argv[1])
     open_multiple(sys.argv[1])
