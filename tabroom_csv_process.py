@@ -13,7 +13,10 @@ def standardize(i):
     i = i.replace('MisSta', 'Missouri State')
     i = i.replace('Concor', 'Concordia')
     i = i.replace('EmpSta', 'Emporia State')
-    i = i.replace('J. ', '')
+    i = i.replace(' J.', '')
+    i = i.replace('Cram Helwich', 'Cram-Helwich')
+    i = i.replace('David Michael', 'David-Michael')
+    return i
 
 
 def open_csv(fpath):
@@ -140,7 +143,7 @@ def open_csv(fpath):
     finally:
         file.close()
         outfile.close()
-        # os.rename(fpath, 'processed/' + os.path.basename(fpath))
+        os.rename(fpath, 'processed/' + os.path.basename(fpath))
 
 
 def status_check(row, num_judges):
