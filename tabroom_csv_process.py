@@ -1,6 +1,7 @@
 import sys
 import csv
 import os
+import re
 
 
 def standardize(i):
@@ -16,6 +17,13 @@ def standardize(i):
     i = i.replace(' J.', '')
     i = i.replace('Cram Helwich', 'Cram-Helwich')
     i = i.replace('David Michael', 'David-Michael')
+    i = i.replace('Dehmlow Dunne', 'Dehmlow-Dunne')
+    i = i.replace('Van Schenck', 'Van-Schenck')
+    i = i.replace('Wisconsin- Madison', 'Wisconsin-Madison')
+    i = i.replace('Puget Sound', 'UPS')
+    i = i.replace('Van Luvanee', 'Van-Luvanee')
+    i = i.replace('CSU Long Beach', 'CSU-Long-Beach')
+    i = i.replace('Rodriguez Salcedo', 'Rodriguez-Salcedo')
     return i
 
 
@@ -40,7 +48,6 @@ def open_csv(fpath):
                 j = standardize(i)
                 debate_split = j.split()
                 debate += debate_split
-
             # handle multi-word school names
             school_fix_1 = ['George', 'UC', 'Southern', 'United', 'Wayne',
                             'James', 'Wichita', 'Michigan', 'Missouri', 'Mary',
@@ -70,10 +77,14 @@ def open_csv(fpath):
                         end = i + 1
                     debate[i:end] = [' '.join(debate[i:end])]
 
-            # delete punctuation
-            del debate[1]
+            # delete punctuation & initials
+            initials = re.compile('^[A-Z][A-Z]')
+            initials_long = re.compile('^[A-Z][a-z][A-Z][a-z]')
+            if initials.match(debate[1]) or initials_long.match(debate[1]):
+                del debate[1]
             del debate[2]
-            del debate[4]
+            if initials.match(debate[4]) or initials_long.match(debate[4]):
+                del debate[4]
             del debate[5]
 
             elim_names = ['dubs', 'finals', 'octs', 'quarters', 'semis']
@@ -143,7 +154,7 @@ def open_csv(fpath):
     finally:
         file.close()
         outfile.close()
-        os.rename(fpath, 'processed/' + os.path.basename(fpath))
+        # os.rename(fpath, 'processed/' + os.path.basename(fpath))
 
 
 def status_check(row, num_judges):
