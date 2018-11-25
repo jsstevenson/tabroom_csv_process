@@ -6,12 +6,21 @@ import re
 
 def standardize(i):
     i = i.replace('"', '')
+    i = i.replace('West Georgia', 'UWG')
     i = i.replace('Van Buren', 'Van-Buren')
     i = i.replace('De Los Santos', 'De-Los-Santos')
     i = i.replace('Nevada Las Vegas', 'UNLV')
-    i = i.replace('Mis-', 'Missouri - Kansas City')
+    i = i.replace('Mis-', 'UMKC')
     i = i.replace('Minnes', 'Minnesota')
+    i = i.replace('MisSta/Vander', 'Missouri-State/Vanderbilt')
     i = i.replace('MisSta', 'Missouri State')
+    i = i.replace('Missouri State', 'Missouri-State')
+    i = i.replace('Samfor', 'Samford')
+    i = i.replace('WaySta', 'Wayne-State')
+    i = i.replace('Wayne State', 'Wayne-State')
+    i = i.replace('GeoSta', 'GSU')
+    i = i.replace('Georgi', 'Georgia')
+    i = i.replace('Louisv', 'Louisville')
     i = i.replace('Concor', 'Concordia')
     i = i.replace('EmpSta', 'Emporia State')
     i = i.replace(' J.', '')
@@ -24,6 +33,14 @@ def standardize(i):
     i = i.replace('Van Luvanee', 'Van-Luvanee')
     i = i.replace('CSU Long Beach', 'CSU-Long-Beach')
     i = i.replace('Rodriguez Salcedo', 'Rodriguez-Salcedo')
+    i = i.replace('CSU - Northridge', 'CSU-Northridge')
+    i = i.replace("St Mary's", "St-Marys")
+    i = i.replace('Webster Dunn', 'Webster-Dunn')
+    i = i.replace('Boston College', 'BostonCollege')
+    i = i.replace('Cavanaugh II', 'CavanaughII')
+    i = i.replace('Georgia State', 'GSU')
+    i = i.replace('Missouri - Kansas City', 'UMKC')
+
     return i
 
 
@@ -49,8 +66,8 @@ def open_csv(fpath):
                 debate_split = j.split()
                 debate += debate_split
             # handle multi-word school names
-            school_fix_1 = ['George', 'UC', 'Southern', 'United', 'Wayne',
-                            'James', 'Wichita', 'Michigan', 'Missouri', 'Mary',
+            school_fix_1 = ['George', 'UC', 'Southern', 'United',
+                            'James', 'Wichita', 'Michigan', 'Mary',
                             'Central', 'West', 'Wake', 'Arizona', 'Emporia',
                             'Johnson', 'UT', 'Fresno', 'Cal',
                             'Weber', 'States', 'Kansas']
@@ -108,6 +125,7 @@ def open_csv(fpath):
                         print(debate)
                         print(reader.line_num)
                         print(decisions[-1])
+                        print(fpath)
                         raise Exception('Decision invalid - check')
                     decisions += [-1, -1, -1, -1]
                 debate = debate[:6]
@@ -127,7 +145,8 @@ def open_csv(fpath):
                     else:
                         debate[6 + i:8 + i] = [' '.join(debate[6 + i:8 + i])]
                 # clear out ranks (ranks???? why???)
-                debate = [i for i in debate if i not in ['1', '2', '3', '4']]
+                debate = [i for i in debate if i not in ['0', '1', '2', '3',
+                                                         '4']]
                 # rearrange decision data
                 decisions = []
                 dec_start = 6 + num_judges * 2
@@ -143,7 +162,7 @@ def open_csv(fpath):
 
             # status check
             # print(debate)
-            status_check(debate, num_judges)
+            status_check(debate, num_judges, fpath)
 
             # add debate to round
             debates.append(debate)
@@ -154,10 +173,10 @@ def open_csv(fpath):
     finally:
         file.close()
         outfile.close()
-        # os.rename(fpath, 'processed/' + os.path.basename(fpath))
+        os.rename(fpath, 'processed/' + os.path.basename(fpath))
 
 
-def status_check(row, num_judges):
+def status_check(row, num_judges, fpath):
     if num_judges == 0:  # bye
         correct_length = 10 + 5
     else:
@@ -165,6 +184,7 @@ def status_check(row, num_judges):
     if len(row) != correct_length:
         print(row)
         print(len(row))
+        print(fpath)
         raise Exception('Inconsistent line length -- check raw data')
 
 
