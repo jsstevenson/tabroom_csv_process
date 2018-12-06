@@ -1,5 +1,11 @@
 # README
 
+## Usage
+
+```bash
+$ python3 tabroom_csv_process [path-to-folder-to-process]
+```
+
 ## Omissions/Working
 
 ### 2017-2018
