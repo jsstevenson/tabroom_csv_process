@@ -16,58 +16,80 @@ def standardize(i):
     i = i.replace('Arizona State', 'ASU')
     i = i.replace('Boston College', 'BostonCollege')
     i = i.replace('BosCol', 'BostonCollege')
+    i = i.replace('Cal State Fullerton', 'CSUF')
     i = i.replace('Cavanaugh II', 'CavanaughII')
     i = i.replace('CenOkl', 'UCO')
     i = i.replace('Central Oklahoma', 'UCO')
     i = i.replace('Central Florida', 'UCF')
+    i = i.replace('City College of San Francisco', 'CCSF')
     i = i.replace('Concor', 'Concordia')
     i = i.replace('Cram Helwich', 'Cram-Helwich')
     i = i.replace('CSU - Northridge', 'CSU-Northridge')
     i = i.replace('CSU Long Beach', 'CSU-Long-Beach')
     i = i.replace('David Michael', 'David-Michael')
     i = i.replace('De Los Santos', 'De-Los-Santos')
+    i = i.replace('De La Rosa', 'De-La-Rosa')
     i = i.replace('Dehmlow Dunne', 'Dehmlow-Dunne')
     i = i.replace('EmpSta', 'Emporia-State')
+    i = i.replace('Emporia State', 'Emporia-State')
+    i = i.replace('Florida State', 'FSU')
     i = i.replace('George Mason', 'GMU')
     i = i.replace('GeoMas', 'GMU')
     i = i.replace('George Washington', 'GWU')
     i = i.replace('Georgi', 'Georgia')
     i = i.replace(' J.', '')
+    i = i.replace('James Madison', 'JMU')
     i = i.replace('JohCou', 'JCCC')
-    i = i.replace('Libert', 'Liberty')
+    i = i.replace('K-State', 'KSU')
+    i = i.replace('Kansas State', 'KSU')
+    i = i.replace('Libert ', 'Liberty')
     i = i.replace('LoBuono Gonzalez', 'LoBuono-Gonzalez')
     i = i.replace('Louisv', 'Louisville')
+    i = i.replace('Michigan State', 'MSU')
     i = i.replace('Minnes', 'Minnesota')
     i = i.replace('Mis-', 'UMKC')
     i = i.replace('Missouri - Kansas City', 'UMKC')
     i = i.replace('Missouri State', 'Missouri-State')
     i = i.replace('MisSta', 'Missouri-State')
     i = i.replace('Nevada Las Vegas', 'UNLV')
+    i = i.replace('Northern Iowa', 'UNI')
+    i = i.replace('Oklaho ', 'Oklahoma ')
     i = i.replace('Puget Sound', 'UPS')
     i = i.replace('Rodriguez Salcedo', 'Rodriguez-Salcedo')
     i = i.replace('Samfor', 'Samford')
+    i = i.replace('San Diego State', 'SDSU')
     i = i.replace('San Francisco State', 'SFSU')
-    i = i.replace("St Mary's", "St-Marys")
+    i = i.replace('San Francisco', 'SFSU')
+    i = i.replace('Southern California', 'USC')
+    i = i.replace("St Mary's", "StMarys")
+    i = i.replace('UC Berkeley', 'Cal')
     i = i.replace('UTSan', 'UTSA')
+    i = i.replace('UT San Antonio', 'UTSA')
+    i = i.replace('UT Dallas', 'UTD')
+    i = i.replace('United States Military', 'Army')
+    i = i.replace('Van Alstine', 'Van-Alstine')
     i = i.replace('Van Buren', 'Van-Buren')
     i = i.replace('Van Luvanee', 'Van-Luvanee')
     i = i.replace('Van Schenck', 'Van-Schenck')
+    i = i.replace('Wake Forest', 'Wake')
     i = i.replace('Washto', 'UW')
     i = i.replace('WaySta', 'Wayne-State')
     i = i.replace('Wayne State', 'Wayne-State')
     i = i.replace('West Georgia', 'UWG')
+    i = i.replace('West Virginia', 'WVU')
     i = i.replace('WicSta', 'Wichita')
+    i = i.replace('Wichita State', 'Wichita')
     i = i.replace('Wisconsin- Madison', 'Wisconsin-Madison')
     i = i.replace('Webster Dunn', 'Webster-Dunn')
 
     return i
 
 
-def open_csv(fpath):
+def open_csv(fpath, outfilename='rounds.csv'):
     file = open(fpath, 'r')
     try:
         reader = csv.reader(file)
-        outfile = open('rounds.csv', 'a')
+        outfile = open(outfilename, 'a')
         writer = csv.writer(outfile)
         next(reader, None)  # skip header
         meta = os.path.basename(fpath)[:-4].split('-')
@@ -86,33 +108,32 @@ def open_csv(fpath):
                 debate += debate_split
             # handle multi-word school names
             # Eventually getting rid of this and doing brute replacements
-            school_fix_1 = ['George', 'UC', 'Southern', 'United',
-                            'James', 'Wichita', 'Michigan', 'Mary',
-                            'Central', 'West', 'Wake', 'Arizona', 'Emporia',
-                            'Johnson', 'UT', 'Fresno', 'Cal',
-                            'Weber', 'States', 'Kansas']
-            school_fix_2 = ['Mason', 'Berkeley', 'California', 'State',
-                            'Madison', 'Washington', 'Oklahoma', 'Virginia',
-                            'Forest', 'Georgia', 'States', 'University',
-                            'Methodist', 'Dallas', 'San', '-', 'County',
-                            'Dallas']
-            school_fix_3 = ['Antonio', 'Military', 'Kansas', 'Community',
-                            'Fullerton']
-            school_fix_4 = ['City']
+            # school_fix_1 = ['George', 'Southern', 'United',
+            #                 'James', 'Wichita', 'Michigan', 'Mary',
+            #                 'Central', 'West', 'Wake', 'Arizona', 'Emporia',
+            #                 'Johnson', 'UT', 'Fresno', 'Cal',
+            #                 'Weber', 'States', 'Kansas']
+            # school_fix_2 = ['Mason', 'California', 'State',
+            #                 'Madison', 'Washington', 'Oklahoma', 'Virginia',
+            #                 'Forest', 'Georgia', 'States', 'University',
+            #                 'Methodist', 'Dallas', 'San', '-', 'County',
+            #                 'Dallas']
+            # school_fix_3 = ['Antonio', 'Military', 'Kansas', 'Community']
+            # school_fix_4 = ['City']
 
-            for i in [0, 5]:
-                if debate[i] in school_fix_1:
-                    if debate[i + 1] in school_fix_2:
-                        if debate[i + 2] in school_fix_3:
-                            if debate[i + 3] in school_fix_4:
-                                end = i + 4
-                            else:
-                                end = i + 3
-                        else:
-                            end = i + 2
-                    else:
-                        end = i + 1
-                    debate[i:end] = [' '.join(debate[i:end])]
+            # for i in [0, 5]:
+            #     if debate[i] in school_fix_1:
+            #         if debate[i + 1] in school_fix_2:
+            #             if debate[i + 2] in school_fix_3:
+            #                 if debate[i + 3] in school_fix_4:
+            #                     end = i + 4
+            #                 else:
+            #                     end = i + 3
+            #             else:
+            #                 end = i + 2
+            #         else:
+            #             end = i + 1
+            #         debate[i:end] = [' '.join(debate[i:end])]
 
             # delete punctuation & initials
             initials = re.compile('^[A-Z][A-Z]')
@@ -215,4 +236,7 @@ def open_multiple(path):
 
 
 if __name__ == '__main__':
-    open_multiple(sys.argv[1])
+    if len(sys.argv) == 3:
+        open_multiple(sys.argv[1], sys.argv[2])
+    else:
+        open_multiple(sys.argv[1])
