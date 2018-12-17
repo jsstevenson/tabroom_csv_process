@@ -39,6 +39,7 @@ def standardize(i):
     i = i.replace('Florida State', 'FSU')
     i = i.replace('FloSta', 'FSU')
     i = i.replace('Fresno State', 'Fresno')
+    i = i.replace('Fullerton', 'CSUF')
     i = i.replace('George Mason', 'GMU')
     i = i.replace('GeoMas', 'GMU')
     i = i.replace('George Washington', 'GWU')

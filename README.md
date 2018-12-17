@@ -15,6 +15,8 @@ $ python3 tabroom_csv_process [path-to-folder-to-process]
 - NW Fall Champs: novice speaks not posted
 - Cal Swing 1: Open finals missing 1 vote
 - Miami: Novice breakout finals results look wonky (judge decisions appear differently on each team's results page). Not included.
+- Pitt RR: Results posted to CEDA forums don't list sides -- waiting to include until that can be dug up
+
 
 ## Ideas for running data
 
