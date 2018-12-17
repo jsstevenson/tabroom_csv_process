@@ -18,6 +18,7 @@ def main():
     rounds = open('rounds-completed.csv')
     reader = csv.reader(rounds)
     points_histo(reader)
+    rounds.close()
 
 
 if __name__ == '__main__':
