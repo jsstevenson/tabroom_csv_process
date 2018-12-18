@@ -142,34 +142,6 @@ def open_csv(fpath, outfilename='rounds.csv'):
                 j = standardize(i)
                 debate_split = j.split()
                 debate += debate_split
-            # handle multi-word school names
-            # Eventually getting rid of this and doing brute replacements
-            # school_fix_1 = ['George', 'Southern', 'United',
-            #                 'James', 'Wichita', 'Michigan', 'Mary',
-            #                 'Central', 'West', 'Wake', 'Arizona', 'Emporia',
-            #                 'Johnson', 'UT', 'Fresno', 'Cal',
-            #                 'Weber', 'States', 'Kansas']
-            # school_fix_2 = ['Mason', 'California', 'State',
-            #                 'Madison', 'Washington', 'Oklahoma', 'Virginia',
-            #                 'Forest', 'Georgia', 'States', 'University',
-            #                 'Methodist', 'Dallas', 'San', '-', 'County',
-            #                 'Dallas']
-            # school_fix_3 = ['Antonio', 'Military', 'Kansas', 'Community']
-            # school_fix_4 = ['City']
-
-            # for i in [0, 5]:
-            #     if debate[i] in school_fix_1:
-            #         if debate[i + 1] in school_fix_2:
-            #             if debate[i + 2] in school_fix_3:
-            #                 if debate[i + 3] in school_fix_4:
-            #                     end = i + 4
-            #                 else:
-            #                     end = i + 3
-            #             else:
-            #                 end = i + 2
-            #         else:
-            #             end = i + 1
-            #         debate[i:end] = [' '.join(debate[i:end])]
 
             # delete punctuation & initials
             initials = re.compile('^[A-Z][A-Z]')
@@ -181,7 +153,8 @@ def open_csv(fpath, outfilename='rounds.csv'):
                 del debate[4]
             del debate[5]
 
-            elim_names = ['dubs', 'finals', 'octs', 'quarters', 'semis']
+            elim_names = ['trips', 'dubs', 'finals', 'octs', 'quarters',
+                          'semis']
             judge_fix = ['Helwich,']
             possible_decisions = ['Aff', 'Neg']
             num_judges = 0

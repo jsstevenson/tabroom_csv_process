@@ -15,7 +15,12 @@ $ python3 tabroom_csv_process [path-to-folder-to-process]
 - NW Fall Champs: novice speaks not posted
 - Cal Swing 1: Open finals missing 1 vote
 - Miami: Novice breakout finals results look wonky (judge decisions appear differently on each team's results page). Not included.
-- Pitt RR: Results posted to CEDA forums don't list sides -- waiting to include until that can be dug up
+- Pitt RR: Results posted to CEDA forums don't list sides -- waiting to include until that can be dug up. Would also appreciate a more digestable format.
+- New School: Open finals don't list complete ballot results
+- D6: Results don't list speaks; holding off on adding them until that's filled in.
+- D4: basically no results
+- D8: No speaks!
+- ADA: No speaks in open and jv (but yes for novice?)
 
 
 ## Ideas for running data
@@ -23,4 +28,5 @@ $ python3 tabroom_csv_process [path-to-folder-to-process]
 * Most pref'd judges: gather round commitment data (eugh) and divide by rounds judged
 * 1st round voting stuff
 * ELO stuff
+  * Likelihood of upsets dependent on various factors? Sides? location? Length of tournament
 * Tournament distance/travel stuff
