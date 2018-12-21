@@ -2,6 +2,7 @@ import sys
 import csv
 import os
 import re
+import json
 
 
 def standardize(i):
@@ -123,22 +124,30 @@ def standardize(i):
     return i
 
 
-def open_csv(fpath, outfilename='rounds.csv'):
+def open_csv(fpath, outfilename='rounds.json'):
     file = open(fpath, 'r')
     try:
         reader = csv.reader(file)
-        outfile = open(outfilename, 'a')
+        outfile = open(outfilename, 'r+')
+        data = json.load(outfile)
         writer = csv.writer(outfile)
         next(reader, None)  # skip header
+
+        # gather meta stuff from infile name
         meta = os.path.basename(fpath)[:-4].split('-')
         if len(meta) == 3:
             meta.append('open')
         if len(meta) != 4:
             print(meta)
             raise Exception('File named wrong?')
-        debates = []
+        year = meta[0]
+        tourney = meta[1]
+        rd = meta[2]
+        div = meta[3]
+
+
         for debate_raw in reader:
-            debate = []
+            debate = {}
 
             for i in debate_raw:
                 j = standardize(i)

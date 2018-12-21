@@ -1,0 +1,34 @@
+{
+    "year": {
+        "tournament": {
+            "round": {
+                "division": [
+                    {
+                        "aff_school": "school1",
+                        "aff_1": "debater1",
+                        "aff_2": "debater2",
+                        "neg_school": "school2",
+                        "neg_1": "debater3",
+                        "neg_4": "debater4",
+                        "decisions": {
+                            "judge1": {
+                                "winner": "aff/neg/none",
+                                "aff_1_pts": 30,
+                                "aff_2_pts": 27.5,
+                                "aff_3_pts": -1,
+                                "aff_4_pts": 29.5
+                            },
+                            "judge2": {
+                                "winner": "aff/neg/none",
+                                "aff_1_pts": 30,
+                                "aff_2_pts": 27.5,
+                                "aff_3_pts": -1,
+                                "aff_4_pts": 29.5
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
