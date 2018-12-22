@@ -22,6 +22,11 @@ $ python3 tabroom_csv_process [path-to-folder-to-process]
 - D8: No speaks!
 - ADA: No speaks in open and jv (but yes for novice?)
 
+### 2016-2017
+- Rochester: no speaker points, not included for now.
+- UNI: no speaker points, not included for now.
+- Rutgers: no speaker points
+- Golden Gate Opener: no speaker points
 
 ## Ideas for running data
 
