@@ -14,6 +14,7 @@ def standardize(i):
     # the rest
     i = i.replace('"', '')
     i = i.replace('Arizona State', 'ASU')
+    i = i.replace('Arizona Competitive Speech and Debate Club', 'ACSDC')
     i = i.replace('Boston College', 'BostonCollege')
     i = i.replace('BosCol', 'BostonCollege')
     i = i.replace('Cal State Fullerton', 'CSUF')
@@ -28,11 +29,15 @@ def standardize(i):
     i = i.replace('Cram Helwich', 'Cram-Helwich')
     i = i.replace('CSU - Northridge', 'CSU-Northridge')
     i = i.replace('CSU Long Beach', 'CSULB')
+    i = i.replace('CSU Northridge', 'CSUN')
     i = i.replace('Dartmo ', 'Dartmouth ')
     i = i.replace('David Michael', 'David-Michael')
     i = i.replace('De Los Santos', 'De-Los-Santos')
     i = i.replace('De La Huerta', 'De-La-Huerta')
     i = i.replace('De La Rosa', 'De-La-Rosa')
+    i = i.replace('De Ruyter', 'De-Ruyter')
+    i = i.replace('Dela Cruz', 'Dela-Cruz')
+    i = i.replace('Del Rosario', 'Del-Rosario')
     i = i.replace('Dehmlow Dunne', 'Dehmlow-Dunne')
     i = i.replace('EmpSta', 'EmporiaState')
     i = i.replace('Emporia State', 'EmporiaState')
@@ -46,6 +51,7 @@ def standardize(i):
     i = i.replace('George Washington', 'GWU')
     i = i.replace('Georgi ', 'Georgia ')
     i = i.replace('Housto ', 'Houston ')
+    i = i.replace('IL College', 'Illinois')
     i = i.replace('Indian ', 'IU ')
     i = i.replace('Indiana', 'IU')
     i = i.replace(' J.', '')
@@ -56,12 +62,16 @@ def standardize(i):
     i = i.replace('K-State', 'KSU')
     i = i.replace('Kansas State', 'KSU')
     i = i.replace('KanSta', 'KSU')
+    i = i.replace('KSU State', 'KSU')
+    i = i.replace('KSU EPAW', 'KSU')
     i = i.replace('Kansas City Kansas CC', 'KCKCC')
     i = i.replace('Kentuc ', 'Kentucky ')
+    i = i.replace('Kephart III', 'KephartIII')
     i = i.replace('Lee, Jr', 'LeeJr')
     i = i.replace('Libert ', 'Liberty ')
     i = i.replace('LoBuono Gonzalez', 'LoBuono-Gonzalez')
     i = i.replace('Louisv ', 'Louisville ')
+    i = i.replace('Loy Jr.', 'LoyJr.')
     i = i.replace('Mary Washington', 'UMW')
     i = i.replace('Michig ', 'Michigan ')
     i = i.replace('M-LS', 'MS')  # really Dustin?
@@ -73,6 +83,7 @@ def standardize(i):
     i = i.replace('Missouri State', 'MoState')
     i = i.replace('MisSta', 'MoState')
     i = i.replace('MoSt ', 'MoState ')
+    i = i.replace('MO State', 'MoState')
     i = i.replace('Monmou ', 'Monmouth ')
     i = i.replace('NewSch ', 'NewSchool ')
     i = i.replace('Nevada Las Vegas', 'UNLV')
@@ -81,6 +92,7 @@ def standardize(i):
     i = i.replace('North Texas', 'UNT')
     i = i.replace('Oklaho ', 'Oklahoma ')
     i = i.replace('Puget Sound', 'UPS')
+    i = i.replace('Richard Ryan', 'Richard')
     i = i.replace('Roches ', 'Rochester ')
     i = i.replace('Roches/', 'Rochester/')
     i = i.replace('Rodriguez Salcedo', 'Rodriguez-Salcedo')
@@ -102,10 +114,12 @@ def standardize(i):
     i = i.replace('UTDal', 'UTD')
     i = i.replace('United States Military', 'Army')
     i = i.replace('UniSta', 'Army')
+    i = i.replace('Utah State University Eastern', 'USU-E')
     i = i.replace('Van Alstine', 'Van-Alstine')
     i = i.replace('Van Buren', 'Van-Buren')
     i = i.replace('Van Luvanee', 'Van-Luvanee')
     i = i.replace('Van Schenck', 'Van-Schenck')
+    i = i.replace('Van Quakebeke', 'Van-Quakebeke')
     i = i.replace('Vander ', 'Vandy ')
     i = i.replace('Vanderbilt ', 'Vandy ')
     i = i.replace('Wake Forest', 'Wake')
@@ -153,13 +167,15 @@ def open_csv(fpath, outfilename='rounds.csv'):
             # delete punctuation & initials
             initials = re.compile('^[A-Z][A-Z|a-z]')
             initials_long = re.compile('^[A-Z][a-z][A-Z][a-z]')
-            if initials.fullmatch(debate[1]) or initials_long.fullmatch(debate[1]):
+            if initials.fullmatch(debate[1]) or \
+                    initials_long.fullmatch(debate[1]):
                 del debate[1]
             else:
                 for i in range(3):
                     del debate[1]
             del debate[2]
-            if initials.fullmatch(debate[4]) or initials_long.fullmatch(debate[4]):
+            if initials.fullmatch(debate[4]) or \
+                    initials_long.fullmatch(debate[4]):
                 del debate[4]
             else:
                 for i in range(3):
@@ -218,7 +234,7 @@ def open_csv(fpath, outfilename='rounds.csv'):
 
             # status check
             # print(debate)
-            status_check(debate, num_judges, fpath)
+            # status_check(debate, num_judges, fpath)
 
             # add debate to round
             debates.append(debate)
@@ -229,7 +245,7 @@ def open_csv(fpath, outfilename='rounds.csv'):
     finally:
         file.close()
         outfile.close()
-        os.rename(fpath, 'processed/' + os.path.basename(fpath))
+        # os.rename(fpath, 'processed/' + os.path.basename(fpath))
 
 
 def status_check(row, num_judges, fpath):

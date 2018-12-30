@@ -27,6 +27,17 @@ $ python3 tabroom_csv_process [path-to-folder-to-process]
 - UNI: no speaker points, not included for now.
 - Rutgers: no speaker points
 - Golden Gate Opener: no speaker points
+- West Point: no speaker points
+- KCKCC: no JV/novice results (I think this is on purpose - but noting for now)
+- Gonzaga: finals?
+- Vermont: no speaks
+- UCO: no speaks
+- Monmouth: no speaks
+- ADA Fall: Something wonky happened with sems results but I assumed that the half-complete speaker points were deletable
+- Wake: finals?
+- Illinois college: no results
+- West Georgia: no results
+
 
 ## Ideas for running data
 
