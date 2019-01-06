@@ -1,6 +1,7 @@
 import csv
 import matplotlib as mpl
 import sys
+import json
 mpl.use('TkAgg')  # seems necessary to run matploblib on Mac OS from Bash?
 
 
@@ -79,13 +80,12 @@ def aff_win_at_tournament(file, tournament):
                     current += 6
     return (aff, total)
 
-
 def main():
     rounds = open(sys.argv[1])
     # run calculations
     # aff_win_by_division(rounds)
     # aff_win_at_tournament(rounds, 'ceda')
-    tourneys_by_aff_win(rounds)
+    # tourneys_by_aff_win(rounds)
     rounds.close()
 
 

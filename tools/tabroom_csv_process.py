@@ -2,6 +2,7 @@ import sys
 import csv
 import os
 import re
+import authenticate_results
 
 
 def standardize(i):
@@ -245,7 +246,7 @@ def open_csv(fpath, outfilename='rounds.csv'):
     finally:
         file.close()
         outfile.close()
-        # os.rename(fpath, 'processed/' + os.path.basename(fpath))
+        os.rename(fpath, 'processed/' + os.path.basename(fpath))
 
 
 def status_check(row, num_judges, fpath):
@@ -271,3 +272,4 @@ if __name__ == '__main__':
         open_multiple(sys.argv[1], sys.argv[2])
     else:
         open_multiple(sys.argv[1])
+    authenticate_results.read_file('rounds.csv')
