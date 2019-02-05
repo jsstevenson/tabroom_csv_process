@@ -19,6 +19,7 @@ def standardize(i):
     i = i.replace('Boston College', 'BostonCollege')
     i = i.replace('BosCol', 'BostonCollege')
     i = i.replace('Cal State Fullerton', 'CSUF')
+    i = i.replace('California, Berkeley', 'Cal')
     i = i.replace('Cavanaugh II', 'CavanaughII')
     i = i.replace('CenOkl', 'UCO')
     i = i.replace('Central Oklahoma', 'UCO')
@@ -26,12 +27,14 @@ def standardize(i):
     i = i.replace('CenFlo', 'UCF')
     i = i.replace('City College of San Francisco', 'CCSF')
     i = i.replace('Concor ', 'Concordia ')
+    i = i.replace('Concordia College', 'Concordia')
     i = i.replace('Cornel ', 'Cornell ')
     i = i.replace('Cram Helwich', 'Cram-Helwich')
     i = i.replace('CSU - Northridge', 'CSU-Northridge')
     i = i.replace('CSU Long Beach', 'CSULB')
     i = i.replace('CSU Northridge', 'CSUN')
     i = i.replace('Dartmo ', 'Dartmouth ')
+    i = i.replace('Dartmouth College', 'Dartmouth')
     i = i.replace('David Michael', 'David-Michael')
     i = i.replace('De Los Santos', 'De-Los-Santos')
     i = i.replace('De La Huerta', 'De-La-Huerta')
@@ -59,6 +62,7 @@ def standardize(i):
     i = i.replace('James Madison', 'JMU')
     i = i.replace('JamMad', 'JMU')
     i = i.replace('JohCou', 'JCCC')
+    i = i.replace('Johnson County Community College', 'JCCC')
     i = i.replace('Johnson County Community', 'JCCC')
     i = i.replace('K-State', 'KSU')
     i = i.replace('Kansas State', 'KSU')
@@ -87,11 +91,13 @@ def standardize(i):
     i = i.replace('MO State', 'MoState')
     i = i.replace('Monmou ', 'Monmouth ')
     i = i.replace('NewSch ', 'NewSchool ')
+    i = i.replace('New York ', 'NYU ')
     i = i.replace('Nevada Las Vegas', 'UNLV')
     i = i.replace('Northern Iowa', 'UNI')
     i = i.replace('NorIow ', 'UNI ')
     i = i.replace('North Texas', 'UNT')
     i = i.replace('Oklaho ', 'Oklahoma ')
+    i = i.replace('Pittman III', 'PittmanIII')
     i = i.replace('Puget Sound', 'UPS')
     i = i.replace('Richard Ryan', 'Richard')
     i = i.replace('Roches ', 'Rochester ')
@@ -151,6 +157,7 @@ def open_csv(fpath, outfilename='rounds.csv'):
         writer = csv.writer(outfile)
         next(reader, None)  # skip header
         meta = os.path.basename(fpath)[:-4].split('-')
+        # print(meta)
         if len(meta) == 3:
             meta.append('open')
         if len(meta) != 4:
@@ -182,6 +189,7 @@ def open_csv(fpath, outfilename='rounds.csv'):
                 for i in range(3):
                     del debate[4]
             del debate[5]
+            # print(debate)
 
             elim_names = ['trips', 'dubs', 'finals', 'octs', 'quarters',
                           'semis']

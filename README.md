@@ -45,4 +45,5 @@ $ python3 tabroom_csv_process [path-to-folder-to-process]
 * 1st round voting stuff
 * ELO stuff
   * Likelihood of upsets dependent on various factors? Sides? location? Length of tournament
+  * PageRank/Eigenvalue stuff vs ELO (recency bias good/bad?)
 * Tournament distance/travel stuff
