@@ -91,6 +91,8 @@ def standardize(i):
     i = i.replace('MO State', 'MoState')
     i = i.replace('Monmou ', 'Monmouth ')
     i = i.replace('NewSch ', 'NewSchool ')
+    i = i.replace('New School', 'NewSchool')
+    i = i.replace('New ', 'NewSchool ')
     i = i.replace('New York ', 'NYU ')
     i = i.replace('Nevada Las Vegas', 'UNLV')
     i = i.replace('Northern Iowa', 'UNI')
@@ -113,6 +115,7 @@ def standardize(i):
     i = i.replace('Sara Beth', 'Sara-Beth')
     i = i.replace('Southern California', 'USC')
     i = i.replace('Southern Methodist', 'SMU')
+    i = i.replace('Southwestern College', 'Southwestern')
     i = i.replace("St Mary's", "StMarys")
     i = i.replace('UC Berkeley', 'Cal')
     i = i.replace('UTSan', 'UTSA')
@@ -150,6 +153,7 @@ def standardize(i):
 
 
 def open_csv(fpath, outfilename='rounds.csv'):
+    # print(fpath)
     file = open(fpath, 'r')
     try:
         reader = csv.reader(file)
@@ -157,7 +161,7 @@ def open_csv(fpath, outfilename='rounds.csv'):
         writer = csv.writer(outfile)
         next(reader, None)  # skip header
         meta = os.path.basename(fpath)[:-4].split('-')
-        # print(meta)
+        print(meta)
         if len(meta) == 3:
             meta.append('open')
         if len(meta) != 4:
@@ -189,7 +193,7 @@ def open_csv(fpath, outfilename='rounds.csv'):
                 for i in range(3):
                     del debate[4]
             del debate[5]
-            # print(debate)
+            print(debate)
 
             elim_names = ['trips', 'dubs', 'finals', 'octs', 'quarters',
                           'semis']

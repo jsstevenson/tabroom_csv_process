@@ -37,6 +37,7 @@ $ python3 tabroom_csv_process [path-to-folder-to-process]
 - Wake: finals?
 - Illinois college: no results
 - West Georgia: no results
+- Southwestern: novice round 4 breaks me for some reason.
 
 
 ## Ideas for running data
