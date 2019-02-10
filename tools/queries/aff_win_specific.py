@@ -1,5 +1,6 @@
 import json
 
+
 def aff_win_by_elim_majors(year):
     with open("rounds-completed.json", "r") as file:
         data = json.load(file)
@@ -120,8 +121,8 @@ def majors_1617():
 
 
 def main():
-    # majors_1617()
-    # majors_1718()
+    majors_1617()
+    majors_1718()
     aff_win_by_elim_majors('1718')
     aff_win_by_elim_majors('1617')
 
