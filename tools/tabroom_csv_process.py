@@ -29,6 +29,7 @@ def standardize(i):
     i = i.replace('Central Florida', 'UCF')
     i = i.replace('CenFlo', 'UCF')
     i = i.replace('City College of San Francisco', 'CCSF')
+    i = i.replace('Clark Villanueva', 'ClarkVillanueva')
     i = i.replace('Concor ', 'Concordia ')
     i = i.replace('Concordia College', 'Concordia')
     i = i.replace('Cornel ', 'Cornell ')
@@ -44,6 +45,7 @@ def standardize(i):
     i = i.replace('De Los Santos', 'De-Los-Santos')
     i = i.replace('De La Huerta', 'De-La-Huerta')
     i = i.replace('De La Rosa', 'De-La-Rosa')
+    i = i.replace('De Leon', 'DeLeon')
     i = i.replace('De Ruyter', 'De-Ruyter')
     i = i.replace('Dela Cruz', 'Dela-Cruz')
     i = i.replace('Del Rosario', 'Del-Rosario')
@@ -116,6 +118,7 @@ def standardize(i):
     i = i.replace('Puget Sound', 'UPS')
     i = i.replace('Puget', 'UPS')
     i = i.replace('Richard Ryan', 'Richard')
+    i = i.replace('Rivas Umana', 'RivasUmana')
     i = i.replace('Roberts, Jeff A', 'Roberts, Jeff')
     i = i.replace('Roches ', 'Rochester ')
     i = i.replace('Roches/', 'Rochester/')
@@ -279,7 +282,7 @@ def open_csv(fpath, outfilename='rounds.csv'):
         file.close()
         outfile.close()
         # comment this line out when testing files
-        os.rename(fpath, 'processed/' + os.path.basename(fpath))
+        # os.rename(fpath, 'processed/' + os.path.basename(fpath))
 
 
 def status_check(row, num_judges, fpath):
