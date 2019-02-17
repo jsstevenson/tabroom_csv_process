@@ -243,6 +243,7 @@ def open_csv(fpath, outfilename='rounds.csv'):
                 for i in range(num_judges):
                     debate[6 + i:8 + i] = [' '.join(debate[6 + i:8 + i])]
                 # clear out ranks (ranks???? why???)
+                # need to be careful about interaction w/ zero speaker points
                 debate = [i for i in debate if i not in ['0', '1', '2', '3',
                                                          '4']]
                 # rearrange decision data
@@ -271,7 +272,8 @@ def open_csv(fpath, outfilename='rounds.csv'):
     finally:
         file.close()
         outfile.close()
-        os.rename(fpath, 'processed/' + os.path.basename(fpath))
+        # comment this line out when testing files
+        # os.rename(fpath, 'processed/' + os.path.basename(fpath))
 
 
 def status_check(row, num_judges, fpath):
