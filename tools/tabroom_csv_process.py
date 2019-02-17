@@ -17,6 +17,8 @@ def standardize(i):
     i = i.replace('Adam R.', 'Adam')
     i = i.replace('Arizona State', 'ASU')
     i = i.replace('Arizona Competitive Speech and Debate Club', 'ACSDC')
+    i = i.replace('Augustana College', 'Augustana')
+    i = i.replace('Augsburg College', 'Augsburg')
     i = i.replace('Binghmtn', 'Binghamton')
     i = i.replace('Boston College', 'BostonCollege')
     i = i.replace('BosCol', 'BostonCollege')
@@ -48,6 +50,8 @@ def standardize(i):
     i = i.replace('De Leon', 'DeLeon')
     i = i.replace('De Ruyter', 'De-Ruyter')
     i = i.replace('Dela Cruz', 'Dela-Cruz')
+    i = i.replace('De La Cruz', 'DeLaCruz')
+    i = i.replace('Del Castillo', 'DelCastillo')
     i = i.replace('Del Rosario', 'Del-Rosario')
     i = i.replace('Dehmlow Dunne', 'Dehmlow-Dunne')
     i = i.replace('EmpSta', 'Emporia')
@@ -126,6 +130,7 @@ def standardize(i):
     i = i.replace('Rutger ', 'Rutgers ')
     i = i.replace('Rutger/', 'Rutgers/')
     i = i.replace('Rutgers-Newark', 'Rutgers')
+    i = i.replace('Sacramento State', 'SacState')
     i = i.replace('Samfor ', 'Samford ')
     i = i.replace('San Diego State', 'SDSU')
     i = i.replace('San Francisco State', 'SFSU')
@@ -175,7 +180,7 @@ def standardize(i):
 
 
 def open_csv(fpath, outfilename='rounds.csv'):
-    # print(fpath)
+    print(fpath)
     file = open(fpath, 'r')
     try:
         reader = csv.reader(file)
@@ -215,7 +220,7 @@ def open_csv(fpath, outfilename='rounds.csv'):
                 for i in range(3):
                     del debate[4]
             del debate[5]
-            # print(debate)
+            print(debate)
 
             elim_names = ['trips', 'dubs', 'finals', 'octs', 'quarters',
                           'semis']
@@ -282,7 +287,7 @@ def open_csv(fpath, outfilename='rounds.csv'):
         file.close()
         outfile.close()
         # comment this line out when testing files
-        # os.rename(fpath, 'processed/' + os.path.basename(fpath))
+        os.rename(fpath, 'processed/' + os.path.basename(fpath))
 
 
 def status_check(row, num_judges, fpath):
