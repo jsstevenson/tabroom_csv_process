@@ -1,6 +1,43 @@
 import json
 
 
+def aff_win_at_nats(year):
+    with open("rounds-completed.json", "r") as file:
+        data = json.load(file)
+        nats = ['ceda', 'ndt', 'adanats']
+        tourneys = data[year]
+        results = {'ceda': [0, 0], 'ndt': [0, 0], 'adanats': [0, 0]}
+        for tourney in nats:
+            if tourney in tourneys:
+                rounds = tourneys[tourney]
+                if 'open' in rounds.keys():
+                    open_rounds = rounds['open']
+                    for rd in open_rounds:
+                        debates = open_rounds[rd]
+                        for debate in debates:
+                            decisions = debate['decisions']
+                            if decisions != ['BYE']:
+                                for judge in decisions:
+                                    results[tourney][1] += 1
+                                    if decisions[judge]['winner'] == 'Aff':
+                                        results[tourney][0] += 1
+
+        print(f'\n{year}')
+
+        if results['adanats'][1] > 0:
+            adapct = results['adanats'][0] / results['adanats'][1]
+            adan = results['adanats'][1]
+            print(f'ADA: {adapct} n={adan}')
+        if results['ceda'][1] > 0:
+            cedapct = results['ceda'][0] / results['ceda'][1]
+            cedan = results['ceda'][1]
+            print(f'CEDA: {cedapct} n={cedan}')
+        if results['ndt'][1] > 0:
+            ndtpct = results['ndt'][0] / results['ndt'][1]
+            ndtn = results['ndt'][1]
+            print(f'NDT: {ndtpct} n={ndtn}')
+
+
 def aff_win_by_elim_majors(year):
     with open("rounds-completed.json", "r") as file:
         data = json.load(file)
@@ -8,7 +45,7 @@ def aff_win_by_elim_majors(year):
                   'tx', 'nu']
         elims = ['dubs', 'octs', 'quarters', 'semis', 'finals']
         tourneys = data[year]
-        results = {'dubs': [0, 0], 'octs': [0, 0], 'quarters': [0, 0], 
+        results = {'dubs': [0, 0], 'octs': [0, 0], 'quarters': [0, 0],
                    'semis': [0, 0], 'finals': [0, 0]}
         for tourney in majors:
             if tourney in tourneys:
@@ -125,6 +162,9 @@ def main():
     majors_1718()
     aff_win_by_elim_majors('1718')
     aff_win_by_elim_majors('1617')
+    print('\nnationals aff win pct')
+    aff_win_at_nats('1617')
+    aff_win_at_nats('1718')
 
 
 if __name__ == '__main__':

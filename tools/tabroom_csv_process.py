@@ -14,6 +14,7 @@ def standardize(i):
 
     # the rest
     i = i.replace('"', '')
+    i = i.replace('Adam R.', 'Adam')
     i = i.replace('Arizona State', 'ASU')
     i = i.replace('Arizona Competitive Speech and Debate Club', 'ACSDC')
     i = i.replace('Binghmtn', 'Binghamton')
@@ -63,6 +64,7 @@ def standardize(i):
     i = i.replace('IL College', 'Illinois')
     i = i.replace('Indian ', 'IU ')
     i = i.replace('Indiana', 'IU')
+    i = i.replace('J.V.', 'JV')
     i = i.replace(' J.', '')
     i = i.replace('James Madison', 'JMU')
     i = i.replace('JamMad', 'JMU')
@@ -114,6 +116,7 @@ def standardize(i):
     i = i.replace('Puget Sound', 'UPS')
     i = i.replace('Puget', 'UPS')
     i = i.replace('Richard Ryan', 'Richard')
+    i = i.replace('Roberts, Jeff A', 'Roberts, Jeff')
     i = i.replace('Roches ', 'Rochester ')
     i = i.replace('Roches/', 'Rochester/')
     i = i.replace('Rodriguez Salcedo', 'Rodriguez-Salcedo')
@@ -126,6 +129,7 @@ def standardize(i):
     i = i.replace('San Francisco', 'SFSU')
     i = i.replace('SFSU/SFSU', 'SFSU')
     i = i.replace('Sara Beth', 'Sara-Beth')
+    i = i.replace(' “;Shooter“;', '')
     i = i.replace('Southern California', 'USC')
     i = i.replace('Southern Methodist', 'SMU')
     i = i.replace('Southwestern College', 'Southwestern')
