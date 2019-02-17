@@ -19,6 +19,7 @@ def standardize(i):
     i = i.replace('Binghmtn', 'Binghamton')
     i = i.replace('Boston College', 'BostonCollege')
     i = i.replace('BosCol', 'BostonCollege')
+    i = i.replace('Boston Coll', 'BostonCollege')
     i = i.replace('Cal State Fullerton', 'CSUF')
     i = i.replace('California, Berkeley', 'Cal')
     i = i.replace('Cavanaugh II', 'CavanaughII')
@@ -52,6 +53,7 @@ def standardize(i):
     i = i.replace('Florida State', 'FSU')
     i = i.replace('FloSta', 'FSU')
     i = i.replace('Fresno State', 'Fresno')
+    i = i.replace('Fullerton Indy', 'CSUF')
     i = i.replace('Fullerton', 'CSUF')
     i = i.replace('George Mason', 'GMU')
     i = i.replace('GeoMas', 'GMU')
@@ -273,7 +275,7 @@ def open_csv(fpath, outfilename='rounds.csv'):
         file.close()
         outfile.close()
         # comment this line out when testing files
-        # os.rename(fpath, 'processed/' + os.path.basename(fpath))
+        os.rename(fpath, 'processed/' + os.path.basename(fpath))
 
 
 def status_check(row, num_judges, fpath):
