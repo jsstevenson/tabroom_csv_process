@@ -1,13 +1,80 @@
 import json
 
 
+def aff_elim_win_at_nats(year):
+    with open("rounds-completed.json", "r") as file:
+        data = json.load(file)
+        tourneys = data[year]
+        results = {'ceda': [0, 0], 'ndt': [0, 0]}
+        elims = ['trips', 'dubs', 'octs', 'quarters', 'semis', 'finals']
+        for tourney in results.keys():
+            if tourney in tourneys:
+                rounds = tourneys[tourney]
+                if 'open' in rounds.keys():
+                    open_rounds = rounds['open']
+                    for rd in open_rounds:
+                        debates = open_rounds[rd]
+                        for debate in debates:
+                            decisions = debate['decisions']
+                            if decisions != ['BYE']:
+                                for judge in decisions:
+                                    if rd in elims:
+                                        results[tourney][1] += 1
+                                        if decisions[judge]['winner'] == 'Aff':
+                                            results[tourney][0] += 1
+
+        print(f'\n{year}')
+
+        if results['ceda'][1] > 0:
+            cedapct = results['ceda'][0] / results['ceda'][1]
+            cedan = results['ceda'][1]
+            print(f'CEDA: {cedapct:.3f} n={cedan}')
+        if results['ndt'][1] > 0:
+            ndtpct = results['ndt'][0] / results['ndt'][1]
+            ndtn = results['ndt'][1]
+            print(f'NDT: {ndtpct:.3f} n={ndtn}')
+
+
+def aff_prelim_win_at_nats(year):
+    with open("rounds-completed.json", "r") as file:
+        data = json.load(file)
+        tourneys = data[year]
+        results = {'ceda': [0, 0], 'ndt': [0, 0]}
+        elims = ['trips', 'dubs', 'octs', 'quarters', 'semis', 'finals']
+        for tourney in results.keys():
+            if tourney in tourneys:
+                rounds = tourneys[tourney]
+                if 'open' in rounds.keys():
+                    open_rounds = rounds['open']
+                    for rd in open_rounds:
+                        debates = open_rounds[rd]
+                        for debate in debates:
+                            decisions = debate['decisions']
+                            if decisions != ['BYE']:
+                                for judge in decisions:
+                                    if rd not in elims:
+                                        results[tourney][1] += 1
+                                        if decisions[judge]['winner'] == 'Aff':
+                                            results[tourney][0] += 1
+
+        print(f'\n{year}')
+
+        if results['ceda'][1] > 0:
+            cedapct = results['ceda'][0] / results['ceda'][1]
+            cedan = results['ceda'][1]
+            print(f'CEDA: {cedapct:.3f} n={cedan}')
+        if results['ndt'][1] > 0:
+            ndtpct = results['ndt'][0] / results['ndt'][1]
+            ndtn = results['ndt'][1]
+            print(f'NDT: {ndtpct:.3f} n={ndtn}')
+
+
 def aff_win_at_nats(year):
     with open("rounds-completed.json", "r") as file:
         data = json.load(file)
-        nats = ['ceda', 'ndt', 'adanats']
         tourneys = data[year]
-        results = {'ceda': [0, 0], 'ndt': [0, 0], 'adanats': [0, 0]}
-        for tourney in nats:
+        results = {'ceda': [0, 0], 'ndt': [0, 0]}
+        for tourney in results.keys():
             if tourney in tourneys:
                 rounds = tourneys[tourney]
                 if 'open' in rounds.keys():
@@ -24,10 +91,6 @@ def aff_win_at_nats(year):
 
         print(f'\n{year}')
 
-        if results['adanats'][1] > 0:
-            adapct = results['adanats'][0] / results['adanats'][1]
-            adan = results['adanats'][1]
-            print(f'ADA: {adapct:.3f} n={adan}')
         if results['ceda'][1] > 0:
             cedapct = results['ceda'][0] / results['ceda'][1]
             cedan = results['ceda'][1]
@@ -120,9 +183,20 @@ def main():
     aff_win_by_elim_majors('1718')
     aff_win_by_elim_majors('1617')
     print('\nnationals aff win pct')
+    aff_win_at_nats('1415')
     aff_win_at_nats('1516')
     aff_win_at_nats('1617')
     aff_win_at_nats('1718')
+    print('\nnationals prelim aff win pct')
+    aff_prelim_win_at_nats('1415')
+    aff_prelim_win_at_nats('1516')
+    aff_prelim_win_at_nats('1617')
+    aff_prelim_win_at_nats('1718')
+    print('\nnationals elim aff win pct')
+    aff_elim_win_at_nats('1415')
+    aff_elim_win_at_nats('1516')
+    aff_elim_win_at_nats('1617')
+    aff_elim_win_at_nats('1718')
 
 
 if __name__ == '__main__':
