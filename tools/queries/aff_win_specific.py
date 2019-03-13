@@ -175,6 +175,40 @@ def majors(year):
         print(f'n = {total_rds_overall}')
 
 
+def aff_win_nats_vs_all(year):
+    with open("rounds-completed.json", "r") as file:
+        data = json.load(file)
+        tourneys = data[year]
+        results = {'ceda': [0, 0], 'ndt': [0, 0], 'regseason': [0, 0]}
+        for tourney in tourneys:
+            rounds = tourneys[tourney]
+            if 'open' in rounds.keys():
+                open_rounds = rounds['open']
+                for rd in open_rounds:
+                    debates = open_rounds[rd]
+                    for debate in debates:
+                        decisions = debate['decisions']
+                        if decisions != ['BYE']:
+                            for judge in decisions:
+                                if tourney == 'ceda' or tourney == 'ndt':
+                                    results[tourney][1] += 1
+                                    if decisions[judge]['winner'] == 'Aff':
+                                        results[tourney][0] += 1
+                                else:
+                                    results['regseason'][1] += 1
+                                    if decisions[judge]['winner'] == 'Aff':
+                                        results['regseason'][0] += 1
+
+        print(f'\n{year}')
+
+        ceda_pct = results['ceda'][0] / results['ceda'][1]
+        ndt_pct = results['ndt'][0] / results['ndt'][1]
+        reg_pct = results['regseason'][0] / results['regseason'][1]
+        print(f'ndt vs reg season: {ndt_pct - reg_pct:.3f}')
+        print(f'ceda vs reg season: {ceda_pct - ndt_pct:.3f}')
+        print(f'ceda vs ndt: {ceda_pct - ndt_pct:.3f}')
+
+
 def main():
     print('\nwin pct @ majors')
     majors('1617')
@@ -183,20 +217,26 @@ def main():
     aff_win_by_elim_majors('1718')
     aff_win_by_elim_majors('1617')
     print('\nnationals aff win pct')
+    aff_win_at_nats('1314')
     aff_win_at_nats('1415')
     aff_win_at_nats('1516')
     aff_win_at_nats('1617')
     aff_win_at_nats('1718')
     print('\nnationals prelim aff win pct')
+    aff_prelim_win_at_nats('1314')
     aff_prelim_win_at_nats('1415')
     aff_prelim_win_at_nats('1516')
     aff_prelim_win_at_nats('1617')
     aff_prelim_win_at_nats('1718')
     print('\nnationals elim aff win pct')
+    aff_elim_win_at_nats('1314')
     aff_elim_win_at_nats('1415')
     aff_elim_win_at_nats('1516')
     aff_elim_win_at_nats('1617')
     aff_elim_win_at_nats('1718')
+    print('\naff win pct during season vs nats')
+    aff_win_nats_vs_all('1617')
+    aff_win_nats_vs_all('1718')
 
 
 if __name__ == '__main__':

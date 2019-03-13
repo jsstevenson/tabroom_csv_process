@@ -54,6 +54,11 @@ $ python3 tabroom_csv_process [path-to-folder-to-process]
 * NJDDT: no novice speaks
 
 
+### 2013-2014
+* NDT: There's some weirdness going on with some Indiana entries (I think drops?). I pulled those rounds out for now.
+
+
+
 ## Ideas for running data
 
 * Most pref'd judges: gather round commitment data (eugh) and divide by rounds judged
