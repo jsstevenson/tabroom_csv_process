@@ -225,7 +225,8 @@ def open_csv(fpath, outfilename='rounds.csv'):
         div = meta[2]
         rd = meta[3]
         meta = [year, tourney, rd, div]
-        # print(meta) # for testing
+        if 'v' in sys.argv[2]:
+            print(meta)
         if len(meta) != 4:
             print(meta)
             raise Exception('File named wrong?')
@@ -255,7 +256,8 @@ def open_csv(fpath, outfilename='rounds.csv'):
                 for i in range(3):
                     del debate[4]
             del debate[5]
-            # print(debate)
+            if 'v' in sys.argv[2]:
+                print(debate)
 
             elim_names = ['trips', 'dubs', 'finals', 'octs', 'quarters',
                           'semis']
@@ -321,7 +323,6 @@ def open_csv(fpath, outfilename='rounds.csv'):
     finally:
         file.close()
         outfile.close()
-        # comment this line out when testing files
         if len(sys.argv) == 3:
             if 'm' in sys.argv[2]:
                 os.rename(fpath, 'processed/' + os.path.basename(fpath))
