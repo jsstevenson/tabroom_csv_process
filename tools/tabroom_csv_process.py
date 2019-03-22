@@ -15,6 +15,7 @@ def standardize(i):
     # the rest
     i = i.replace('"', '')
     i = i.replace('Adam R.', 'Adam')
+    i = i.replace('Alvarado Fierro', 'AlvaradoFierro')
     i = i.replace('Appalachian State', 'AppState')
     i = i.replace('Arizona State', 'ASU')
     i = i.replace('Arizona Competitive Speech and Debate Club', 'ACSDC')
@@ -23,6 +24,7 @@ def standardize(i):
     i = i.replace('Bard College', 'Bard')
     i = i.replace('Beth Brooks', 'Brooks')
     i = i.replace('Binghmtn', 'Binghamton')
+    i = i.replace('Bockmon Solares', 'BockmonSolares')
     i = i.replace('Boston College', 'BostonCollege')
     i = i.replace('BosCol', 'BostonCollege')
     i = i.replace('Boston Coll', 'BostonCollege')
@@ -222,8 +224,8 @@ def open_csv(fpath, outfilename='rounds.csv'):
         tourney = meta[1]
         div = meta[2]
         rd = meta[3]
-        meta = year + tourney + rd + div
-        # print(meta)
+        meta = [year, tourney, rd, div]
+        # print(meta) # for testing
         if len(meta) != 4:
             print(meta)
             raise Exception('File named wrong?')
@@ -320,7 +322,9 @@ def open_csv(fpath, outfilename='rounds.csv'):
         file.close()
         outfile.close()
         # comment this line out when testing files
-        os.rename(fpath, 'processed/' + os.path.basename(fpath))
+        if len(sys.argv) == 3:
+            if 'm' in sys.argv[2]:
+                os.rename(fpath, 'processed/' + os.path.basename(fpath))
 
 
 def status_check(row, num_judges, fpath):
@@ -342,8 +346,7 @@ def open_multiple(path):
 
 
 if __name__ == '__main__':
-    if len(sys.argv) == 3:
-        open_multiple(sys.argv[1], sys.argv[2])
-    else:
-        open_multiple(sys.argv[1])
+    with open('rounds.csv', 'r+') as out:
+        out.truncate(0)  # clear outfile
+    open_multiple(sys.argv[1])
     authenticate_results.read_file('rounds.csv')
