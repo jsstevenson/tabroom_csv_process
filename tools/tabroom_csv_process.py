@@ -218,9 +218,12 @@ def open_csv(fpath, outfilename='rounds.csv'):
         writer = csv.writer(outfile)
         next(reader, None)  # skip header
         meta = os.path.basename(fpath)[:-4].split('-')
+        year = meta[0]
+        tourney = meta[1]
+        div = meta[2]
+        rd = meta[3]
+        meta = year + tourney + rd + div
         # print(meta)
-        if len(meta) == 3:
-            meta.append('open')
         if len(meta) != 4:
             print(meta)
             raise Exception('File named wrong?')
