@@ -105,7 +105,7 @@ def aff_win_by_elim_majors(year):
     with open("rounds-completed.json", "r") as file:
         data = json.load(file)
         majors = ['gsu', 'umkc', 'weber', 'ky', 'gonz', 'wake', 'cal1', 'cal2',
-                  'tx', 'nu']
+                  'tx', 'nu', 'harvard']
         elims = ['dubs', 'octs', 'quarters', 'semis', 'finals']
         tourneys = data[year]
         results = {'dubs': [0, 0], 'octs': [0, 0], 'quarters': [0, 0],
@@ -211,9 +211,11 @@ def aff_win_nats_vs_all(year):
 
 def main():
     print('\nwin pct @ majors')
+    majors('1516')
     majors('1617')
     majors('1718')
     print('\nwin pct by elim @ majors')
+    aff_win_by_elim_majors('1516')
     aff_win_by_elim_majors('1718')
     aff_win_by_elim_majors('1617')
     print('\nnationals aff win pct')

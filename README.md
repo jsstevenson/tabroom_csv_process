@@ -54,7 +54,9 @@ $ python3 tabroom_csv_process [path-to-folder-to-process]
 * NJDDT: no novice speaks
 
 ### 2015-2016
-
+* UNI: no novice results
+* Weber: no JV finals
+* UCF: no results
 
 
 ### 2013-2014
