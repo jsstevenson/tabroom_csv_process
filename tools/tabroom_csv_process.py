@@ -171,6 +171,7 @@ def standardize(i):
     i = i.replace("St Mary's", "StMarys")
     i = i.replace('St. John', 'StJohn')
     i = i.replace('Stone Watt', 'StoneWatt')
+    i = i.replace('SUNY Broome', 'Broome')
     i = i.replace('UC Berkeley', 'Cal')
     i = i.replace('UTSan', 'UTSA')
     i = i.replace('UT San Antonio', 'UTSA')

@@ -57,6 +57,9 @@ $ python3 tabroom_csv_process [path-to-folder-to-process]
 * UNI: no novice results
 * Weber: no JV finals
 * UCF: no results
+* West Point: no speaks
+* Houston: no speaks
+* UNI novice: no results
 
 
 ### 2013-2014

@@ -25357,3 +25357,1328 @@
 1516,umw,4,open,GMU,Ghanem,Melton,BostonCollege,Carelli,Kenner,"Steiner, Rebecca",Aff,28.7,28.6,28.4,28.5
 1516,umw,4,open,Wake,Dahm,Van-Schenck,JMU,Buchholz,Konrad,"McCleary, Patrick",Aff,27.9,28,27.8,27.7
 1516,umw,4,open,GMU,Dailey,Massa,Binghamton,Friedman,Allan,"Ellis, Andy",Aff,29.2,29.5,29.3,29.4
+1516,emporia,quarters,open,UNI,Hites,Shew,Kansas,Katz,Robb,"Vega, Matthew",Neg,-1,-1,-1,-1,"Gonzaba, Brian",Aff,-1,-1,-1,-1,"Regnier, Jason",Neg,-1,-1,-1,-1
+1516,emporia,quarters,open,UMKC,Schartz,Scott,Kansas,Hegna,Walter,"Garcia-Lugo, Juan",Neg,-1,-1,-1,-1,"Maurer, Samuel",Aff,-1,-1,-1,-1,"Tews, Richard",Neg,-1,-1,-1,-1
+1516,emporia,quarters,open,Kansas,Schrag,Woodcock,Concordia,Depass,Robinson,"McFarland, Ryan",Aff,-1,-1,-1,-1,"Makuch, Flynn",Neg,-1,-1,-1,-1,"Stout, Daniel",Neg,-1,-1,-1,-1
+1516,emporia,quarters,open,Wichita,Crane,Welch,JCCC,Getto,Singleton,"Bajorek, Benton",Aff,-1,-1,-1,-1,"Rao, Ravi",Aff,-1,-1,-1,-1,"Stutzman, Jacob",Aff,-1,-1,-1,-1
+1516,emporia,semis,open,Concordia,Depass,Robinson,Kansas,Katz,Robb,"Makuch, Flynn",Aff,-1,-1,-1,-1,"McFarland, Ryan",Neg,-1,-1,-1,-1,"Stout, Daniel",Aff,-1,-1,-1,-1
+1516,emporia,semis,open,Wichita,Crane,Welch,Kansas,Hegna,Walter,"Regnier, Jason",Aff,-1,-1,-1,-1,"Garcia-Lugo, Juan",Aff,-1,-1,-1,-1,"Vega, Matthew",Neg,-1,-1,-1,-1
+1516,emporia,2,open,Wichita,Buchanan,Lefler,Kansas,Hegna,Walter,"Gordon, Malcolm",Neg,27.7,27.9,28.4,28.3
+1516,emporia,2,open,JCCC,Peat,Moore,Kansas,Fry,Philippe,"Tews, Richard",Aff,28.3,28.2,28.1,27.9
+1516,emporia,2,open,Kansas,Katz,Robb,UNI,Miller,Rice,"Garcia-Lugo, Juan",Aff,28.7,28.8,28.5,28.4
+1516,emporia,2,open,Lindenwood,DeLeon,Wingo,Wichita,Crane,Welch,"Goh, Hunter",Neg,28,27.9,28.5,28.6
+1516,emporia,2,open,Emporia,Rickard,Young,Concordia,Depass,Robinson,"McFarland, Ryan",Neg,27.9,28.2,28,28.5
+1516,emporia,2,open,UNI,Hites,Shew,JCCC,Getto,Singleton,"Bajorek, Benton",Neg,28.8,28.7,28.9,29
+1516,emporia,2,open,Wichita,McCorkendale,Roy,Kansas,Schrag,Woodcock,"Stout, Daniel",Neg,27.8,27.9,28.3,28.2
+1516,emporia,2,open,UMKC,Schartz,Scott,JCCC,Owen,Plott,"Regnier, Jason",Neg,28,28.1,28.3,28.2
+1516,emporia,3,open,JCCC,Peat,Moore,Wichita,Crane,Welch,"Gonzaba, Brian",Neg,27.9,28,28.5,29
+1516,emporia,3,open,Lindenwood,DeLeon,Wingo,UNI,Hites,Shew,"Garcia-Lugo, Juan",Neg,28.3,28.2,28.4,28.6
+1516,emporia,3,open,UMKC,Schartz,Scott,UNI,Miller,Rice,"Goh, Hunter",Aff,28.4,28.3,28.2,28.1
+1516,emporia,3,open,Kansas,Katz,Robb,JCCC,Owen,Plott,"Tews, Richard",Aff,28.4,28.5,28.2,28.1
+1516,emporia,3,open,Kansas,Fry,Philippe,Wichita,Buchanan,Lefler,"Stout, Daniel",Aff,28,27.5,27.8,28.6
+1516,emporia,3,open,Emporia,Rickard,Young,Wichita,McCorkendale,Roy,"Bajorek, Benton",Aff,29.1,28.9,28.7,28.6
+1516,emporia,3,open,Kansas,Hegna,Walter,Concordia,Depass,Robinson,"Makuch, Flynn",Neg,28.4,28.5,28.6,28.9
+1516,emporia,3,open,Kansas,Schrag,Woodcock,JCCC,Getto,Singleton,"McFarland, Ryan",Aff,28.5,28.6,28.3,28.4
+1516,emporia,1,open,JCCC,Owen,Plott,Wichita,Buchanan,Lefler,"Goh, Hunter",Aff,28.4,28.3,28,28.2
+1516,emporia,1,open,Wichita,Crane,Welch,Kansas,Katz,Robb,"Stout, Daniel",Neg,28.4,28.5,28.7,28.6
+1516,emporia,1,open,UNI,Miller,Rice,Emporia,Rickard,Young,"Regnier, Jason",Aff,27.8,28,27.9,27.7
+1516,emporia,1,open,Kansas,Fry,Philippe,UMKC,Schartz,Scott,"Garcia-Lugo, Juan",Neg,28.4,28.3,28.2,28.6
+1516,emporia,1,open,Concordia,Depass,Robinson,JCCC,Peat,Moore,"Bajorek, Benton",Aff,28.6,28.5,28,27.5
+1516,emporia,1,open,Kansas,Schrag,Woodcock,Lindenwood,DeLeon,Wingo,"Tews, Richard",Aff,28.4,28.5,27.9,27.8
+1516,emporia,1,open,Kansas,Hegna,Walter,UNI,Hites,Shew,"McFarland, Ryan",Aff,28.8,28.7,27.9,28.3
+1516,emporia,1,open,JCCC,Getto,Singleton,Wichita,McCorkendale,Roy,"Gonzaba, Brian",Aff,28.3,28.5,28,28.1
+1516,emporia,4,open,Wichita,Crane,Welch,UMKC,Schartz,Scott,"Tews, Richard",Aff,28.4,28.5,28.2,28.3
+1516,emporia,4,open,UNI,Miller,Rice,JCCC,Peat,Moore,"McFarland, Ryan",Neg,28.3,28.2,28,28.1
+1516,emporia,4,open,Wichita,McCorkendale,Roy,Kansas,Fry,Philippe,"Regnier, Jason",Neg,28.3,28.2,28.5,28.4
+1516,emporia,4,open,Concordia,Depass,Robinson,Kansas,Katz,Robb,"Maurer, Samuel",Aff,28.4,28.5,28.1,28
+1516,emporia,4,open,JCCC,Getto,Singleton,Kansas,Hegna,Walter,"Garcia-Lugo, Juan",Neg,28.7,28.8,29,28.9
+1516,emporia,4,open,UNI,Hites,Shew,Emporia,Rickard,Young,"Goh, Hunter",Aff,28.3,28.5,28.1,28
+1516,emporia,4,open,JCCC,Owen,Plott,Kansas,Schrag,Woodcock,"Makuch, Flynn",Neg,28,28.5,28.4,28.1
+1516,emporia,4,open,Wichita,Buchanan,Lefler,Lindenwood,DeLeon,Wingo,"Bajorek, Benton",Aff,29.1,28.8,28.4,28
+1516,emporia,5,open,Kansas,Fry,Philippe,Wichita,Crane,Welch,"Vega, Matthew",Aff,28.2,27.8,28,27.9
+1516,emporia,5,open,Lindenwood,DeLeon,Wingo,Wichita,McCorkendale,Roy,"Stout, Daniel",Neg,27.9,27.3,28,28.1
+1516,emporia,5,open,UNI,Miller,Rice,JCCC,Owen,Plott,"Garcia-Lugo, Juan",Aff,28.4,28.2,28.3,28.1
+1516,emporia,5,open,UMKC,Schartz,Scott,Kansas,Hegna,Walter,"Maurer, Samuel",Neg,28.5,28.4,28.8,28.1
+1516,emporia,5,open,Kansas,Katz,Robb,UNI,Hites,Shew,"Gonzaba, Brian",Aff,29.5,29,28.5,28.9
+1516,emporia,5,open,Concordia,Depass,Robinson,Kansas,Schrag,Woodcock,"McFarland, Ryan",Aff,28.8,28.7,28.5,28.6
+1516,emporia,5,open,JCCC,Getto,Singleton,Emporia,Rickard,Young,"Tews, Richard",Aff,28.4,28.5,28.2,28.1
+1516,emporia,5,open,JCCC,Peat,Moore,Wichita,Buchanan,Lefler,"Bajorek, Benton",Aff,28.8,28.6,28.7,28.5
+1516,emporia,6,open,Wichita,Buchanan,Lefler,JCCC,Getto,Singleton,"Tews, Richard",Aff,28.4,28.5,28.2,28.1
+1516,emporia,6,open,Kansas,Hegna,Walter,UNI,Miller,Rice,"Stout, Daniel",Aff,29.3,29.2,28.1,27.8
+1516,emporia,6,open,Kansas,Schrag,Woodcock,JCCC,Peat,Moore,"McFarland, Ryan",Aff,28.6,28.7,28,28.1
+1516,emporia,6,open,JCCC,Owen,Plott,Lindenwood,DeLeon,Wingo,"Maurer, Samuel",Aff,27.9,28.4,27.8,28.3
+1516,emporia,6,open,Wichita,Crane,Welch,Concordia,Depass,Robinson,"Bajorek, Benton",Aff,29.2,29.3,29,29.1
+1516,emporia,6,open,Emporia,Rickard,Young,UMKC,Schartz,Scott,"Goh, Hunter",Neg,28,27.8,28.2,28.3
+1516,emporia,6,open,UNI,Hites,Shew,Kansas,Fry,Philippe,"Makuch, Flynn",Aff,28.3,28.5,28.2,27.8
+1516,emporia,6,open,Wichita,McCorkendale,Roy,Kansas,Katz,Robb,"Garcia-Lugo, Juan",Neg,28.6,28.7,28.9,28.8
+1516,emporia,finals,open,Concordia,Depass,Robinson,Wichita,Crane,Welch,"Goh, Hunter",Neg,-1,-1,-1,-1,"Bajorek, Benton",Neg,-1,-1,-1,-1,"Stutzman, Jacob",Aff,-1,-1,-1,-1
+1516,vandy,finals,open,Georgia,Agarwal,Ramanan,Georgia,Boyce,Rice,BYE,-1,-1,-1,-1
+1516,vandy,quarters,jv,MoState,D'Angelo,Wicks,Samford,Oxley,Reamer,"DeLong, Brian",Neg,-1,-1,-1,-1,"Malsin, Mikaela",Neg,-1,-1,-1,-1,"Sciullo, Nick",Aff,-1,-1,-1,-1
+1516,vandy,quarters,open,Samford,Bennie,Davis,Georgia,Agarwal,Ramanan,"Mathis, Erik",Neg,-1,-1,-1,-1,"Najor, Bruce",Neg,-1,-1,-1,-1,"Stevenson, Ron",Neg,-1,-1,-1,-1
+1516,vandy,quarters,open,Emory,Baker,Gazmararian,Emory,Dean,Fiero,BYE,-1,-1,-1,-1
+1516,vandy,quarters,open,Kentucky,Adam,Martin,Michigan,Pasquinelli,Walrath,"Gramzinski, Logan",Neg,-1,-1,-1,-1,"Meloche, Brad",Aff,-1,-1,-1,-1,"Slattery, Sean",Aff,-1,-1,-1,-1
+1516,vandy,quarters,open,MSU,Brill,Campbell,Georgia,Boyce,Rice,"Gibson, Kirk",Neg,-1,-1,-1,-1,"Herndon, James",Neg,-1,-1,-1,-1,"Hirn, Kevin",Neg,-1,-1,-1,-1
+1516,vandy,semis,jv,WayneState,Anton,Williams,Samford,Oxley,Reamer,"Dillard-Knox, Tiffany",Aff,-1,-1,-1,-1,"Malsin, Mikaela",Aff,-1,-1,-1,-1,"Watson, Hays",Aff,-1,-1,-1,-1
+1516,vandy,semis,jv,Louisville,Tolbert,Wheat,Michigan,Mercado,Love,"Evans, Brandon",Neg,-1,-1,-1,-1,"Galloway, Ryan",Aff,-1,-1,-1,-1,"Newton, Jordon",Aff,-1,-1,-1,-1
+1516,vandy,octs,open,Georgia,Stupek,White,Michigan,Pasquinelli,Walrath,"Bobbitt, Mary",Neg,-1,-1,-1,-1,"Cram-Helwich, David",Neg,-1,-1,-1,-1,"Slattery, Sean",Neg,-1,-1,-1,-1
+1516,vandy,octs,open,MSU,Brown,Runburg,Emory,Dean,Fiero,"Barouch, Tim",Neg,-1,-1,-1,-1,"Najor, Bruce",Aff,-1,-1,-1,-1,"Wilson, Bill",Neg,-1,-1,-1,-1
+1516,vandy,octs,open,Samford,Bennie,Davis,WayneState,Davis,Husic,"Corrigan, Abraham",Aff,-1,-1,-1,-1,"Gibson, Kirk",Aff,-1,-1,-1,-1,"Morris, Eric",Neg,-1,-1,-1,-1
+1516,vandy,octs,open,Kentucky,Adam,Martin,WayneState,Davidson,Sturgis,"Hirn, Kevin",Aff,-1,-1,-1,-1,"Mathis, Erik",Aff,-1,-1,-1,-1,"Parsian, Pouya",Aff,-1,-1,-1,-1
+1516,vandy,octs,open,MSU,Brill,Campbell,Emory,Doshi,Marcus,"Galloway, Ryan",Aff,-1,-1,-1,-1,"Gramzinski, Logan",Aff,-1,-1,-1,-1,"Ridley, Sean",Neg,-1,-1,-1,-1
+1516,vandy,semis,nov,GSU,Hussein,Williams,Emory,Wagmo,Vadapalli,"Gliniecki, Tom",Neg,-1,-1,-1,-1,"Hart, Andrew",Neg,-1,-1,-1,-1,"Meloche, Brad",Neg,-1,-1,-1,-1
+1516,vandy,semis,open,Georgia,Agarwal,Ramanan,Emory,Baker,Gazmararian,"Evans, Brandon",Aff,-1,-1,-1,-1,"Meloche, Brad",Aff,-1,-1,-1,-1,"Stevenson, Ron",Aff,-1,-1,-1,-1
+1516,vandy,semis,open,Kentucky,Adam,Martin,Georgia,Boyce,Rice,"Gibson, Kirk",Neg,-1,-1,-1,-1,"Herndon, James",Neg,-1,-1,-1,-1,"Najor, Bruce",Neg,-1,-1,-1,-1
+1516,vandy,5,jv,WayneState,Branch,Cooper,Samford,Oxley,Reamer,"Stewart, Clay",Neg,27.9,27.8,27.6,28.9
+1516,vandy,5,jv,Minnesota,Feleke,Shevik,Florida,Callaghan,Kizito,"Evans, Brandon",Aff,28.3,28.8,28.5,28.4
+1516,vandy,5,jv,WayneState,Panek,Kornosky,Indian/Vandy,Singer,Markovich,"Barouch, Tim",Neg,28.4,28.6,28.3,28.5
+1516,vandy,5,jv,MoState,D'Angelo,Wicks,Michigan,Mercado,Love,"Newton, Jordon",Neg,27.9,29,29.1,28.4
+1516,vandy,5,jv,Louisville,Hanserd,Thompson,WayneState,Anton,Williams,"Mader, Susan",Neg,28.1,28,28.3,27.9
+1516,vandy,6,nov,Louisville,Brown,Gordon,IllCol,Brooks,Groh,"Walker, Sarah",Aff,29.2,29.4,29.3,29.1
+1516,vandy,6,nov,Indian/Vandy,Njuguna,Du,Emory,Wagmo,Vadapalli,"Galloway, Ryan",Neg,28.4,29.2,28.5,29.3
+1516,vandy,6,nov,GSU,Hussein,Williams,Samfor/IllCol,Staples,Gray,"Bobbitt, Mary",Aff,28.6,28.3,28.5,28.4
+1516,vandy,6,open,WayneState,Davis,Husic,GSU,Hanks,Nails,"Gibson, Kirk",Aff,28.3,28.4,28,28.2
+1516,vandy,6,open,Emory,Baker,Gazmararian,MSU,Brill,Campbell,"Cram-Helwich, David",Aff,28.4,28.5,28.2,28.3
+1516,vandy,6,open,MoState,O'Dell,Gillespie,Minnesota,Asirvatham,Kostelny,"Spivey, Aubrey",Aff,28.5,28.7,28.9,29
+1516,vandy,6,open,Emory,Doshi,Marcus,WayneState,Davidson,Sturgis,"Stewart, Clay",Aff,28.1,28.4,28.6,28.2
+1516,vandy,6,open,Emory,Dean,Fiero,Georgia,Boyce,Rice,"Wilson, Bill",Neg,28.9,29.4,29.6,28.7
+1516,vandy,6,open,Florida,Cartagena,Marchini,WayneState,Barnes,Haidar,"Sciullo, Nick",Aff,28.5,28.1,27.6,28.3
+1516,vandy,6,open,Kentucky,Baller,Rivas,MSU,Wier,McCledon,"Malsin, Mikaela",Aff,28.3,28.2,28.1,28
+1516,vandy,6,open,Georgia,Herrera,Jones,MoState,Brower-Freeman,Cole,"DeLong, Brian",Neg,28,28.1,28.3,28.5
+1516,vandy,6,open,Kentucky,Adam,Martin,Georgia,Agarwal,Ramanan,"Hirn, Kevin",Neg,28.7,28.9,28.8,29
+1516,vandy,6,open,Capita,Council,Lawson,Michigan,Shah,Bowen,"Ridley, Sean",Neg,28.1,27.8,28.5,28.4
+1516,vandy,6,open,Florida,Allums,Scolaro,MSU,Lewis,Oleynik,"Dillard-Knox, Tiffany",Neg,28.4,28.3,28.6,28.5
+1516,vandy,6,open,Georgia,Stupek,White,Samford,Bennie,Davis,"Stevenson, Ron",Neg,28.5,28.6,28.7,28.9
+1516,vandy,6,open,Michigan,Pasquinelli,Walrath,MSU,Brown,Runburg,"Najor, Bruce",Aff,28.7,28.8,28.6,28.9
+1516,vandy,4,jv,Florida,Callaghan,Kizito,Indian/Vandy,Singer,Markovich,"Stewart, Clay",Neg,28.1,27.9,28.2,28.4
+1516,vandy,4,jv,Louisville,Hanserd,Thompson,MoState,D'Angelo,Wicks,"Bobbitt, Mary",Neg,28.5,28.4,27.7,28.6
+1516,vandy,4,jv,Michigan,Mercado,Love,WayneState,Panek,Kornosky,"Bleyle, Brittney",Aff,28.5,28.4,28.2,28.3
+1516,vandy,4,jv,WayneState,Anton,Williams,Minnesota,Feleke,Shevik,"Dillard-Knox, Tiffany",Aff,29,29.1,28.1,28
+1516,vandy,4,jv,Louisville,Tolbert,Wheat,Samford,Oxley,Reamer,"Newton, Jordon",Aff,28.3,28.8,28.5,28.4
+1516,vandy,6,jv,Michigan,Mercado,Love,Louisville,Hanserd,Thompson,"Parsian, Pouya",Aff,28.6,28.5,28.1,28.2
+1516,vandy,6,jv,WayneState,Anton,Williams,Florida,Callaghan,Kizito,"Slattery, Sean",Aff,28.7,28.8,28.5,28.4
+1516,vandy,6,jv,Indian/Vandy,Singer,Markovich,WayneState,Branch,Cooper,"Newton, Jordon",Neg,27.6,27.7,27.8,27.9
+1516,vandy,6,jv,Samford,Oxley,Reamer,WayneState,Panek,Kornosky,"Corrigan, Abraham",Aff,28.3,28.8,28.4,28.5
+1516,vandy,6,jv,Louisville,Tolbert,Wheat,MoState,D'Angelo,Wicks,"Meloche, Brad",Aff,29.3,28.7,28.6,28.8
+1516,vandy,4,open,Georgia,Agarwal,Ramanan,MSU,Brown,Runburg,"Gibson, Kirk",Aff,28.6,28.5,28.3,28.4
+1516,vandy,4,open,Michigan,Shah,Bowen,Emory,Doshi,Marcus,"Najor, Bruce",Neg,28.3,28.2,28.4,28.5
+1516,vandy,4,open,Michigan,Pasquinelli,Walrath,Emory,Dean,Fiero,"Stevenson, Ron",Neg,28.8,28.5,28.4,28.6
+1516,vandy,4,open,WayneState,Barnes,Haidar,MSU,Wier,McCledon,"Parsian, Pouya",Neg,28,28.1,27.8,27.9
+1516,vandy,4,open,WayneState,Davidson,Sturgis,MoState,Brower-Freeman,Cole,"Cram-Helwich, David",Aff,28.2,28.3,28.1,28.4
+1516,vandy,4,open,WayneState,Davis,Husic,Emory,Baker,Gazmararian,"Gramzinski, Logan",Aff,28.2,28.6,28.4,28.1
+1516,vandy,4,open,Florida,Cartagena,Marchini,MSU,Lewis,Oleynik,"Mathis, Erik",Aff,28.7,28.4,28.6,28.2
+1516,vandy,4,open,Kentucky,Baller,Rivas,GSU,Hanks,Nails,"Gliniecki, Tom",Neg,28.5,28.2,28.1,28.6
+1516,vandy,4,open,Georgia,Herrera,Jones,Samford,Bennie,Davis,"Hirn, Kevin",Neg,27.9,27.5,28.5,28.1
+1516,vandy,4,open,Minnesota,Asirvatham,Kostelny,Georgia,Boyce,Rice,"Galloway, Ryan",Neg,28.6,28.7,29.1,28.9
+1516,vandy,4,open,Kentucky,Adam,Martin,MSU,Brill,Campbell,"Malsin, Mikaela",Aff,28.6,28.7,28.4,28.5
+1516,vandy,4,open,Capita,Council,Lawson,MoState,O'Dell,Gillespie,"Corrigan, Abraham",Aff,28.7,28.5,28.2,28.1
+1516,vandy,4,open,Georgia,Stupek,White,Florida,Allums,Scolaro,"Slattery, Sean",Aff,28.7,28.5,28.3,28.4
+1516,vandy,5,nov,IllCol,Brooks,Groh,Louisville,Brown,Gordon,"Bleyle, Brittney",Neg,27.8,27.5,29,29.2
+1516,vandy,5,nov,Emory,Wagmo,Vadapalli,Indian/Vandy,Njuguna,Du,"Walker, Sarah",Aff,28.8,29,28.7,28.9
+1516,vandy,5,nov,Samfor/IllCol,Staples,Gray,GSU,Hussein,Williams,"Najor, Bruce",Neg,29.2,29.1,29.3,29
+1516,vandy,finals,jv,Louisville,Tolbert,Wheat,WayneState,Anton,Williams,"Corrigan, Abraham",Aff,-1,-1,-1,-1,"Malsin, Mikaela",Neg,-1,-1,-1,-1,"Mathis, Erik",Neg,-1,-1,-1,-1
+1516,vandy,4,nov,Emory,Wagmo,Vadapalli,Samfor/IllCol,Staples,Gray,"Meloche, Brad",Aff,28.5,29,28.4,28
+1516,vandy,4,nov,Indian/Vandy,Njuguna,Du,IllCol,Brooks,Groh,"Hachet, Christopher",Aff,28.9,28.2,28.1,27.9
+1516,vandy,4,nov,Louisville,Brown,Gordon,GSU,Hussein,Williams,"Ridley, Sean",Aff,28.2,28,28.1,27.4
+1516,vandy,5,open,Georgia,Agarwal,Ramanan,WayneState,Davis,Husic,"Gliniecki, Tom",Aff,28.7,28.6,28.4,28.5
+1516,vandy,5,open,Minnesota,Asirvatham,Kostelny,Emory,Doshi,Marcus,"Stevenson, Ron",Neg,28.6,28.5,28.7,28.4
+1516,vandy,5,open,MSU,Brill,Campbell,Georgia,Stupek,White,"Morris, Eric",Aff,28.5,28.2,28.1,28.4
+1516,vandy,5,open,WayneState,Davidson,Sturgis,Emory,Baker,Gazmararian,"Hart, Andrew",Neg,28.9,28.7,28.8,29
+1516,vandy,5,open,MSU,Lewis,Oleynik,MoState,O'Dell,Gillespie,"Bobbitt, Mary",Aff,28.5,28.3,28.4,28.2
+1516,vandy,5,open,MSU,Brown,Runburg,Kentucky,Baller,Rivas,"Herndon, James",Aff,28.7,28.5,0.0,28.4
+1516,vandy,5,open,MSU,Wier,McCledon,Michigan,Pasquinelli,Walrath,"Slattery, Sean",Neg,28.4,28.5,28.7,28.8
+1516,vandy,5,open,GSU,Hanks,Nails,Florida,Allums,Scolaro,"Hirn, Kevin",Aff,28.3,28.8,28.4,28.2
+1516,vandy,5,open,Michigan,Shah,Bowen,Florida,Cartagena,Marchini,"Cram-Helwich, David",Aff,28.5,28.4,28.3,28.2
+1516,vandy,5,open,Samford,Bennie,Davis,Capita,Council,Lawson,"Gibson, Kirk",Aff,28.3,28,28.1,28.2
+1516,vandy,5,open,Georgia,Boyce,Rice,Kentucky,Adam,Martin,"DeLong, Brian",Aff,28.8,29,28.9,28.7
+1516,vandy,5,open,MoState,Brower-Freeman,Cole,Emory,Dean,Fiero,"Watson, Hays",Neg,28.3,28.1,28.2,28.4
+1516,vandy,5,open,WayneState,Barnes,Haidar,Georgia,Herrera,Jones,"Corrigan, Abraham",Aff,28.2,28.3,28,28.1
+1516,vandy,3,jv,Minnesota,Feleke,Shevik,WayneState,Branch,Cooper,"Joiner, Brina",Neg,28.5,29,27,28
+1516,vandy,3,jv,Florida,Callaghan,Kizito,Louisville,Tolbert,Wheat,"Bobbitt, Mary",Aff,28.2,28.5,28.3,28.4
+1516,vandy,3,jv,MoState,D'Angelo,Wicks,WayneState,Anton,Williams,"Lyons, Eric",Aff,27.9,28.8,29.3,28.9
+1516,vandy,3,jv,Samford,Oxley,Reamer,Louisville,Hanserd,Thompson,"Ridley, Sean",Neg,27.7,27.9,28.1,28.3
+1516,vandy,3,jv,Indian/Vandy,Singer,Markovich,Michigan,Mercado,Love,"Gliniecki, Tom",Neg,27.5,28.5,28.4,28.2
+1516,vandy,1,open,Georgia,Herrera,Jones,Emory,Dean,Fiero,"Walker, Sarah",Neg,28.6,28.5,28.7,28.8
+1516,vandy,1,open,Minnesota,Asirvatham,Kostelny,MSU,Lewis,Oleynik,"Parsian, Pouya",Aff,28.5,28.3,28.1,28.2
+1516,vandy,1,open,Michigan,Shah,Bowen,MoState,Brower-Freeman,Cole,"Newton, Jordon",Neg,28.1,28,28.2,27.8
+1516,vandy,1,open,Kentucky,Adam,Martin,MoState,O'Dell,Gillespie,"Gibson, Kirk",Aff,28.6,28.7,28,28.2
+1516,vandy,1,open,MSU,Brill,Campbell,WayneState,Davidson,Sturgis,"DeLong, Brian",Aff,28.5,28.4,28.3,28.2
+1516,vandy,1,open,Samford,Bennie,Davis,Michigan,Pasquinelli,Walrath,"Barouch, Tim",Neg,28.7,28.3,28.5,28.8
+1516,vandy,1,open,Georgia,Agarwal,Ramanan,Florida,Allums,Scolaro,"Bobbitt, Mary",Aff,28.7,28.6,28.3,28.4
+1516,vandy,1,open,Georgia,Stupek,White,Kentucky,Baller,Rivas,"Hirn, Kevin",Aff,28.6,28.4,28.7,28.3
+1516,vandy,1,open,Emory,Doshi,Marcus,Florida,Cartagena,Marchini,"Slattery, Sean",Aff,28.5,28.7,28.6,28.4
+1516,vandy,1,open,Georgia,Boyce,Rice,MSU,Wier,McCledon,"Morris, Eric",Aff,29.2,28.9,27.7,27.9
+1516,vandy,1,open,GSU,Hanks,Nails,MSU,Brown,Runburg,"Cram-Helwich, David",Neg,28.6,28.1,28.4,28.5
+1516,vandy,1,open,Emory,Baker,Gazmararian,WayneState,Barnes,Haidar,"Hachet, Christopher",Aff,29.2,28.9,28.7,28.6
+1516,vandy,1,open,WayneState,Davis,Husic,Capita,Council,Lawson,"Galloway, Ryan",Aff,28.2,28.4,28.1,28.3
+1516,vandy,1,nov,IllCol,Brooks,Groh,Samfor/IllCol,Staples,Gray,"Ridley, Sean",Neg,27.2,27.5,27.9,27.6
+1516,vandy,1,nov,Emory,Wagmo,Vadapalli,GSU,Hussein,Williams,"Gliniecki, Tom",Aff,28,28.5,28.2,27
+1516,vandy,1,nov,Indian/Vandy,Njuguna,Du,Louisville,Brown,Gordon,"Stewart, Clay",Neg,27.5,29.3,28.1,28.4
+1516,vandy,2,jv,Florida,Callaghan,Kizito,MoState,D'Angelo,Wicks,"Hart, Andrew",Neg,28.4,28.6,28.5,29.1
+1516,vandy,2,jv,Louisville,Hanserd,Thompson,WayneState,Branch,Cooper,"Sciullo, Nick",Aff,28.5,28.4,28,28.1
+1516,vandy,2,jv,WayneState,Panek,Kornosky,Minnesota,Feleke,Shevik,"Ridley, Sean",Neg,27.5,27.4,27.3,27.2
+1516,vandy,2,jv,Louisville,Tolbert,Wheat,Indian/Vandy,Singer,Markovich,"Walker, Sarah",Aff,28.9,28.7,28.8,28.6
+1516,vandy,2,jv,Michigan,Mercado,Love,WayneState,Anton,Williams,"Stewart, Clay",Neg,28.4,28.1,28.5,28.6
+1516,vandy,2,open,MoState,O'Dell,Gillespie,MSU,Brill,Campbell,"Barouch, Tim",Neg,28.2,28.3,28.5,28.4
+1516,vandy,2,open,MoState,Brower-Freeman,Cole,GSU,Hanks,Nails,"Galloway, Ryan",Neg,28.2,28.3,28,28.5
+1516,vandy,2,open,WayneState,Barnes,Haidar,Georgia,Agarwal,Ramanan,"Slattery, Sean",Neg,28.2,28.3,28.7,28.8
+1516,vandy,2,open,MSU,Wier,McCledon,Emory,Baker,Gazmararian,"Stevenson, Ron",Neg,28.1,28.2,28.3,28.4
+1516,vandy,2,open,MSU,Brown,Runburg,Michigan,Shah,Bowen,"Parsian, Pouya",Aff,28.3,28.5,28.2,28.4
+1516,vandy,2,open,WayneState,Davidson,Sturgis,Georgia,Stupek,White,"Corrigan, Abraham",Aff,28.9,28.8,28.4,28.3
+1516,vandy,2,open,Michigan,Pasquinelli,Walrath,Georgia,Herrera,Jones,"Evans, Brandon",Aff,28.9,29,27,27.1
+1516,vandy,2,open,Capita,Council,Lawson,Kentucky,Adam,Martin,"Cram-Helwich, David",Neg,28.3,28.2,28.7,28.6
+1516,vandy,2,open,Florida,Allums,Scolaro,Minnesota,Asirvatham,Kostelny,"Mathis, Erik",Aff,28.3,28.4,28,28.5
+1516,vandy,2,open,Florida,Cartagena,Marchini,Georgia,Boyce,Rice,"Bobbitt, Mary",Neg,28.6,28.4,28.8,28.5
+1516,vandy,2,open,MSU,Lewis,Oleynik,WayneState,Davis,Husic,"Hirn, Kevin",Neg,28.7,28.2,28.4,28.8
+1516,vandy,2,open,Kentucky,Baller,Rivas,Emory,Doshi,Marcus,"Watson, Hays",Aff,28.4,28,28.2,28.3
+1516,vandy,2,open,Emory,Dean,Fiero,Samford,Bennie,Davis,"Gliniecki, Tom",Aff,28.5,28.7,28.4,28.2
+1516,vandy,finals,nov,Emory,Wagmo,Vadapalli,Louisville,Brown,Gordon,"Corrigan, Abraham",Aff,-1,-1,-1,-1,"Mader, Susan",Neg,-1,-1,-1,-1,"Stewart, Clay",Aff,-1,-1,-1,-1
+1516,vandy,3,nov,IllCol,Brooks,Groh,Emory,Wagmo,Vadapalli,"Mader, Susan",Neg,27.7,27.6,27.8,28.9
+1516,vandy,3,nov,Samfor/IllCol,Staples,Gray,Louisville,Brown,Gordon,"Parsian, Pouya",Neg,27.8,27.9,28.2,28.3
+1516,vandy,3,nov,GSU,Hussein,Williams,Indian/Vandy,Njuguna,Du,"Malsin, Mikaela",Aff,28.7,28.5,28.4,28.6
+1516,vandy,2,nov,Samfor/IllCol,Staples,Gray,Indian/Vandy,Njuguna,Du,"Gramzinski, Logan",Aff,28.5,28,28.1,28.4
+1516,vandy,2,nov,GSU,Hussein,Williams,IllCol,Brooks,Groh,"Meloche, Brad",Aff,28.5,28,28.3,27.8
+1516,vandy,2,nov,Louisville,Brown,Gordon,Emory,Wagmo,Vadapalli,"Newton, Jordon",Aff,28.5,28.7,28.4,28.6
+1516,vandy,3,open,Emory,Baker,Gazmararian,Georgia,Agarwal,Ramanan,"Morris, Eric",Aff,28.8,28.7,28.3,28.5
+1516,vandy,3,open,Emory,Dean,Fiero,Kentucky,Adam,Martin,"Barouch, Tim",Neg,28.6,28.8,28.9,28.7
+1516,vandy,3,open,MSU,Lewis,Oleynik,Capita,Council,Lawson,"Walker, Sarah",Neg,28.8,28.6,28.7,28.9
+1516,vandy,3,open,Emory,Doshi,Marcus,Georgia,Stupek,White,"Cram-Helwich, David",Neg,28.4,28.3,28.5,28.2
+1516,vandy,3,open,MoState,O'Dell,Gillespie,Michigan,Shah,Bowen,"Herndon, James",Neg,27.4,27.6,28.1,28.2
+1516,vandy,3,open,MSU,Brown,Runburg,WayneState,Davidson,Sturgis,"Hirn, Kevin",Neg,28.4,28.6,28.7,28.3
+1516,vandy,3,open,MSU,Brill,Campbell,WayneState,Davis,Husic,"Hart, Andrew",Aff,28.9,28.3,28.4,28.8
+1516,vandy,3,open,MSU,Wier,McCledon,Georgia,Herrera,Jones,"Najor, Bruce",Aff,28,28.3,27.8,27.9
+1516,vandy,3,open,GSU,Hanks,Nails,Minnesota,Asirvatham,Kostelny,"Evans, Brandon",Neg,28.2,28.3,28.7,28.5
+1516,vandy,3,open,MoState,Brower-Freeman,Cole,Florida,Cartagena,Marchini,"Corrigan, Abraham",Aff,28.5,28.6,28.4,28.3
+1516,vandy,3,open,Samford,Bennie,Davis,WayneState,Barnes,Haidar,"DeLong, Brian",Aff,28.5,28.3,28.4,28.2
+1516,vandy,3,open,Florida,Allums,Scolaro,Kentucky,Baller,Rivas,"Stewart, Clay",Neg,28.1,27.6,28.5,28.3
+1516,vandy,3,open,Georgia,Boyce,Rice,Michigan,Pasquinelli,Walrath,"Meloche, Brad",Aff,29,29.1,28.7,28.9
+1516,vandy,1,jv,Samford,Oxley,Reamer,Michigan,Mercado,Love,"Meloche, Brad",Neg,28.6,29,29.3,28.7
+1516,vandy,1,jv,WayneState,Anton,Williams,Louisville,Tolbert,Wheat,"Mathis, Erik",Aff,28.8,28.7,28.6,28.5
+1516,vandy,1,jv,WayneState,Branch,Cooper,Florida,Callaghan,Kizito,"Corrigan, Abraham",Neg,28.6,28.5,28.4,28.8
+1516,vandy,1,jv,Minnesota,Feleke,Shevik,Louisville,Hanserd,Thompson,"Bleyle, Brittney",Neg,28,28.3,28.2,28.4
+1516,vandy,1,jv,MoState,D'Angelo,Wicks,WayneState,Panek,Kornosky,"Gramzinski, Logan",Aff,28.2,29,28.6,28.5
+1516,unlv,4,open,Cal,Walter,Kadie,Texas,Harun,Wilczynski,"KephartIII, John",Neg,27.8,28.1,28.2,28.3
+1516,unlv,4,open,USC,Saiedian,Sharma,Wyoming,Marcum,McFarland,"Robinson, Eric",Aff,28.8,28.9,28.7,28.6
+1516,unlv,4,open,Weber,Gaither,Tippets,Baylor,Nichols,Walmsley,"Beier, Ian",Aff,28.8,28.7,28.1,28.3
+1516,unlv,4,open,NYU,Dellamore,Zhang,Texas,Barrish,Martinez,"Bato, Christian",Neg,28.6,28.3,28.7,28.4
+1516,unlv,4,open,Texas,Stransky,Kilpatrick,SacState,Delgado,Garcia,"Guevara, Omar",Aff,28.8,28.9,28.1,27.9
+1516,unlv,4,open,SFSU,Pismarov,Stille,KSU,Mays,Smith,"Richey, Kate",Neg,27.7,27.8,28,27.9
+1516,unlv,4,open,Oklahoma,Juarez,Maddy,Texas,Daniels,Jones,"Brennan, Eli",Aff,29.2,28,28.5,28.6
+1516,unlv,4,open,Oklahoma,Wyde,Reinking,SFSU,Haney,Grey,"Denney, Ashley",Aff,29.2,29.1,29,29.3
+1516,unlv,4,open,Wyoming,Frame,Henman,Kansas,Harris,Wefald,"Moore, Matthew",Neg,28.4,28.1,28.6,28.8
+1516,unlv,4,open,Army,Silverman,Lipksy,Gonzaga,Elias,Engel,"Koehle, Joe",Neg,27.9,28.2,28.3,28.1
+1516,unlv,4,open,UNLV,Berrios,Taylor,Weber,Hall,Shoell,"Albiniak, Teddy",Aff,28.1,27.9,28,28.2
+1516,unlv,4,open,UNLV,Horn,Cottrell,Weber,Olsen,pickens,"Weitz, Mike",Aff,28.3,28.6,28.5,28.2
+1516,unlv,4,open,Oklahoma,Schexnayder,Smith,UWG,Muhammad,Sharif,"Taylor, James",Neg,28,28.5,29.1,29.3
+1516,unlv,4,open,SFSU,Binley,Carey,USC,Heydari,Pagan,"Stroud, Micheal",Aff,28.7,28.6,28.4,27.8
+1516,unlv,4,open,Army,Barlow,Caston,KSU,Klucas,Scott,"Snelling, Tyler",Aff,28.9,28.6,28.7,28.4
+1516,unlv,4,open,UTSA,Nation,Villarreal,UNLV,Miller,Carrera,"Cheek, Ryan",Aff,28.1,28.2,27.7,27.8
+1516,unlv,4,open,Gonzaga,Filpi,Zmyslo,KSU,Pena,Ramirez,"Hampton, Jyleesa",Neg,29,0.0,29.2,29.1
+1516,unlv,4,open,UCO,Hilligoss,Stidham,UPS,Brittenham,Sabbagh,"Bugrov, Max",Neg,28.7,28.8,29,28.9
+1516,unlv,4,open,UTD,Yoon,Sen,Texas,Blaker,Dennar,"Myers, Andrew",Aff,28.6,28.4,28.2,27.9
+1516,unlv,4,open,Weber,Leyba,Veeder,Iowa,Jackson,Anderson,"Eisenstadt, Michael",Aff,28,28.3,27.9,27.7
+1516,unlv,4,open,Gonzaga,Clawson,Johnson,UNLV,Aguilar,Ogata,"Smith, Abi",Aff,28.2,28,27.8,27.9
+1516,unlv,4,open,UWG,Chan,Charles,SFSU,Murray,Raiford,"Bunas, Shae",Aff,28.7,28.4,28.2,28.3
+1516,unlv,4,open,Cal,Jordan,Irving-Thomas,UTD,Johnson,Becker,"Bhattacharjee, Risha",Neg,28.2,28.4,28.3,28.5
+1516,unlv,4,open,Iowa,Wright,Gartner,UTD,Langer,Powell,"Pryor, Shelby",Aff,28.4,28.6,27.9,28.2
+1516,unlv,4,open,UNLV,Brooks,Kezios,Gonzaga,Basler,McRoberts,"Gerber, Matt",Aff,29.1,29.2,28.8,29
+1516,unlv,4,open,Texas,Bleiweiss,Pabst,USC,Luevano,Placido,"Watts, Nick",Aff,28.8,28.9,28.4,28.3
+1516,unlv,4,open,Cal,Kovnick,Alattar,Baylor,Barron,Conner,"DiPiazza, Philip",Neg,28.8,29,29.1,29.2
+1516,unlv,4,open,UTSA,Warren,Gittens,Weber,Sanchez,Shackelford,"Litzky, Alexis",Neg,28.2,28,28.8,28.4
+1516,unlv,4,open,UCO,Glidewell,Spencer,Pepperdine,Elechyan,Smith,"Cooper, Deven",Aff,28.3,28.7,28.4,28.5
+1516,unlv,4,open,Texas,Chowdhury,Segura,ASU,Canarie,Revenew,"Van-Luvanee, Lindsay",Aff,29,29.1,28.7,28.5
+1516,unlv,3,nov,Southwestern,Romero,Castillo,CSUN,Guzman,Zesati,"Marsh, Blake",Aff,28.7,28.8,28.1,28
+1516,unlv,3,nov,Southwestern,Chavez,Lozano,CSUN,Wong,Coto,"Brownlow, Allison",Aff,28.3,28.4,27.8,27.5
+1516,unlv,3,nov,Southwestern,Beaird,Smiley,UCF,Dor,Tracy,"Allen, Ben",Neg,28.1,28,28.9,28.7
+1516,unlv,3,nov,KCKCC,Barclay,Elliott,UCF,Davis,Irimia,"LoyJr., Robert",Neg,27.5,27,28.5,29
+1516,unlv,3,nov,Weber,Huth,Keyes,ASU,Liu,Machorro,"Holley, Sierra",Aff,28.3,28.6,28.4,28.5
+1516,unlv,finals,open,Texas,Stransky,Kilpatrick,USC,Saiedian,Sharma,"Cheek, Jamie",Neg,-1,-1,-1,-1,"Guevara, Omar",Aff,-1,-1,-1,-1,"Russell, Bill",Aff,-1,-1,-1,-1
+1516,unlv,2,nov,UCF,Davis,Irimia,CSUN,Guzman,Zesati,"Spears, Jeffrey",Aff,28,27,26,25
+1516,unlv,2,nov,ASU,Liu,Machorro,UCF,Dor,Tracy,"Pablo, Jonathan",Neg,27,26,28.1,25
+1516,unlv,2,nov,Weber,Huth,Keyes,Southwestern,Chavez,Lozano,"Scher, Adam",Neg,27.3,27.1,27.2,27.4
+1516,unlv,2,nov,Fresno,Clarke,Marroquin,KCKCC,Barclay,Elliott,"Marsh, Blake",Neg,28.5,28.7,28.6,28.2
+1516,unlv,2,nov,UCF,Shoemaker,Swenson,Southwestern,Romero,Castillo,"Holley, Sierra",Aff,28.4,28.3,28.2,28.5
+1516,unlv,2,nov,CSUN,Dighiera,Ramos,Southwestern,Beaird,Smiley,"Stevenson, Richard",Aff,27,27.8,27.3,26
+1516,unlv,quarters,jv,UCO,Alonzo,Watson,Oklahoma,Witman,Pruitt,"Denney, Ashley",Aff,-1,-1,-1,-1,"Boroujeni, Tom",Neg,-1,-1,-1,-1,"Taylor, James",Aff,-1,-1,-1,-1
+1516,unlv,quarters,jv,USU-E,Leon,Rawle,KCKCC,Unruh,Willett,"Bugrov, Max",Aff,-1,-1,-1,-1,"LoyJr., Robert",Neg,-1,-1,-1,-1,"Zaikowski, Jonathan",Neg,-1,-1,-1,-1
+1516,unlv,quarters,jv,Oklahoma,Crawford,Stack-Nelson,UTD,Kapoor,Smalley,"Leader, Paul",Aff,-1,-1,-1,-1,"Bhattacharjee, Risha",Neg,-1,-1,-1,-1,"Snelling, Tyler",Aff,-1,-1,-1,-1
+1516,unlv,quarters,jv,ASU,Quint,Vinson,CSUN,Aceves,Barbalace,"Brownlow, Allison",Neg,-1,-1,-1,-1,"Holley, Sierra",Aff,-1,-1,-1,-1,"Smith, Abi",Aff,-1,-1,-1,-1
+1516,unlv,5,open,Cal,Walter,Kadie,UCO,Glidewell,Spencer,"Reed, JV",Neg,28.2,28.3,28.1,28.4
+1516,unlv,5,open,SFSU,Pismarov,Stille,SFSU,Haney,Grey,"Stroud, Micheal",Neg,28.7,28.5,28.4,28.6
+1516,unlv,5,open,UTSA,Warren,Gittens,Texas,Barrish,Martinez,"Van-Luvanee, Lindsay",Neg,28.3,28,28.6,28.4
+1516,unlv,5,open,SFSU,Murray,Raiford,Pepperdine,Elechyan,Smith,"Massey, Jackie",Aff,27.8,27.7,29.5,27.6
+1516,unlv,5,open,Iowa,Jackson,Anderson,Texas,Blaker,Dennar,"Bato, Christian",Neg,27.7,27.6,27.8,27.9
+1516,unlv,5,open,Texas,Chowdhury,Segura,UPS,Brittenham,Sabbagh,"Weitz, Mike",Aff,29.5,29.6,29.4,29.3
+1516,unlv,5,open,KSU,Pena,Ramirez,USC,Saiedian,Sharma,"Bhattacharjee, Risha",Aff,28.9,28.6,28.8,28.7
+1516,unlv,5,open,UWG,Muhammad,Sharif,ASU,Canarie,Revenew,"Thomas, Christopher",Aff,29,29.2,28.7,28.8
+1516,unlv,5,open,Texas,Stransky,Kilpatrick,Weber,Sanchez,Shackelford,"Moore, Matthew",Aff,29,29.1,28,28.1
+1516,unlv,5,open,Oklahoma,Juarez,Maddy,UCO,Hilligoss,Stidham,"Lundeen, Geoff",Neg,28.4,28.7,28.6,28.8
+1516,unlv,5,open,Weber,Olsen,pickens,UNLV,Miller,Carrera,"Brennan, Eli",Aff,28.3,28.4,28.1,28.2
+1516,unlv,5,open,UTD,Johnson,Becker,KSU,Klucas,Scott,"Cram, Travis",Neg,28.4,28,28.6,28.5
+1516,unlv,5,open,UTD,Langer,Powell,Wyoming,Frame,Henman,"Feldman, Jonah",Neg,27.8,28.1,27.9,28
+1516,unlv,5,open,Oklahoma,Wyde,Reinking,Gonzaga,Filpi,Zmyslo,"Guevara, Omar",Aff,28.8,28.6,28.3,28.4
+1516,unlv,5,open,Weber,Hall,Shoell,Army,Silverman,Lipksy,"Allen, Ben",Aff,28.7,28.8,28.3,28.5
+1516,unlv,5,open,Texas,Harun,Wilczynski,Baylor,Barron,Conner,"Russell, Bill",Neg,28.3,28.4,28.6,28.7
+1516,unlv,5,open,Gonzaga,Elias,Engel,UTD,Yoon,Sen,"Stables, Gordon",Neg,28.2,28.1,28.4,28
+1516,unlv,5,open,UWG,Chan,Charles,Oklahoma,Schexnayder,Smith,"Eisenstadt, Michael",Aff,28.9,28.7,28.8,28.6
+1516,unlv,5,open,Baylor,Nichols,Walmsley,SFSU,Binley,Carey,"Watts, Nick",Aff,28.3,28.8,28.7,28.2
+1516,unlv,5,open,UNLV,Aguilar,Ogata,UTSA,Nation,Villarreal,"Albiniak, Teddy",Aff,28.4,28.2,28.3,28.1
+1516,unlv,5,open,Texas,Daniels,Jones,SacState,Delgado,Garcia,"McBride, Brian",Aff,28.6,28.5,28.2,28.4
+1516,unlv,5,open,Wyoming,Marcum,McFarland,Gonzaga,Clawson,Johnson,"Hampton, Jyleesa",Aff,29.1,29.2,28.7,28.8
+1516,unlv,5,open,USC,Luevano,Placido,UNLV,Berrios,Taylor,"Myers, Andrew",Aff,28.6,28.7,28.5,28.4
+1516,unlv,5,open,Iowa,Wright,Gartner,KSU,Mays,Smith,"Velto, Alex",Aff,28.8,29,28.9,28.3
+1516,unlv,5,open,UNLV,Horn,Cottrell,Weber,Leyba,Veeder,"Lundeen, Sarah",Aff,28.7,28.6,28.3,28.5
+1516,unlv,5,open,Cal,Jordan,Irving-Thomas,USC,Heydari,Pagan,"Jackson, Jalisa",Aff,29.3,29.1,29.2,29
+1516,unlv,5,open,Weber,Gaither,Tippets,UNLV,Brooks,Kezios,"Varda, Scott",Aff,28.9,28.8,28.7,28.6
+1516,unlv,5,open,Kansas,Harris,Wefald,Gonzaga,Basler,McRoberts,"Russell, Jason",Aff,28.6,28.7,28.4,28.5
+1516,unlv,5,open,Army,Barlow,Caston,Texas,Bleiweiss,Pabst,"Baker, Will",Aff,29.6,29.2,29.5,29.1
+1516,unlv,5,open,NYU,Dellamore,Zhang,Cal,Kovnick,Alattar,"Bunas, Shae",Neg,28.3,28.1,28.4,28.2
+1516,unlv,7,open,UTSA,Warren,Gittens,Cal,Walter,Kadie,"Barquin, Joseph",Neg,28.6,27.7,28.7,28.5
+1516,unlv,7,open,Iowa,Jackson,Anderson,Army,Silverman,Lipksy,"Evans, Rashad",Neg,28.3,28.2,28.9,28.8
+1516,unlv,7,open,SacState,Delgado,Garcia,SFSU,Murray,Raiford,"Scher, Adam",Aff,28,28.1,28.9,28.8
+1516,unlv,7,open,UCO,Glidewell,Spencer,KSU,Mays,Smith,"Herndon, Scott",Neg,28.3,28.2,28.5,28
+1516,unlv,7,open,Texas,Chowdhury,Segura,Wyoming,Marcum,McFarland,"Ard, Marquis",Neg,28.9,29,29.7,28.7
+1516,unlv,7,open,USC,Saiedian,Sharma,Texas,Stransky,Kilpatrick,"Russell, Bill",Aff,28.6,28.8,28.7,28.4
+1516,unlv,7,open,ASU,Canarie,Revenew,UWG,Chan,Charles,"Albiniak, Teddy",Neg,28.3,28.5,28.6,28.4
+1516,unlv,7,open,Weber,Gaither,Tippets,UCO,Hilligoss,Stidham,"Cooper, Deven",Aff,29.3,29.5,29,29.4
+1516,unlv,7,open,SFSU,Pismarov,Stille,Texas,Blaker,Dennar,"Allen, Ben",Aff,28.8,28.4,28,28.1
+1516,unlv,7,open,Weber,Hall,Shoell,Oklahoma,Juarez,Maddy,"Montee, Andy",Neg,28.6,28.3,28.5,28.4
+1516,unlv,7,open,Weber,Olsen,pickens,UTD,Yoon,Sen,"Zaikowski, Jonathan",Aff,28.1,28.3,28.2,28
+1516,unlv,7,open,Cal,Kovnick,Alattar,UTD,Johnson,Becker,"Reed, JV",Aff,28.1,28.6,28.3,28.4
+1516,unlv,7,open,Weber,Leyba,Veeder,UTD,Langer,Powell,"Boroujeni, Tom",Aff,28.3,28.4,28.7,28.2
+1516,unlv,7,open,UPS,Brittenham,Sabbagh,Oklahoma,Wyde,Reinking,"Richey, Kate",Aff,29.2,29.3,28.5,27.9
+1516,unlv,7,open,Baylor,Barron,Conner,KSU,Pena,Ramirez,"Doty, Kendra",Aff,28.9,28.8,28.7,28.6
+1516,unlv,7,open,UTSA,Nation,Villarreal,UNLV,Berrios,Taylor,"Stevenson, Richard",Aff,29,28.9,28.7,28.8
+1516,unlv,7,open,USC,Heydari,Pagan,Oklahoma,Schexnayder,Smith,"Marsh, Blake",Neg,28.8,28.9,29.1,29
+1516,unlv,7,open,Texas,Harun,Wilczynski,SFSU,Binley,Carey,"Moore, Matthew",Aff,27.5,27.6,27.7,27.4
+1516,unlv,7,open,UNLV,Aguilar,Ogata,Weber,Sanchez,Shackelford,"Gerber, Matt",Neg,29,28.7,28.9,29.2
+1516,unlv,7,open,UNLV,Miller,Carrera,Gonzaga,Elias,Engel,"Abbasi, Calvin",Aff,28.5,28,27.5,27
+1516,unlv,7,open,Army,Barlow,Caston,Iowa,Wright,Gartner,"Weitz, Mike",Aff,29.6,29.3,29,28.9
+1516,unlv,7,open,Texas,Daniels,Jones,UWG,Muhammad,Sharif,"Koehle, Joe",Aff,28.7,28.6,28.5,28.4
+1516,unlv,7,open,USC,Luevano,Placido,Baylor,Nichols,Walmsley,"Feldman, Jonah",Aff,28.2,28.5,28.1,28.4
+1516,unlv,7,open,Texas,Barrish,Martinez,Gonzaga,Clawson,Johnson,"Brownlow, Allison",Neg,28,28.8,29.7,29.8
+1516,unlv,7,open,KSU,Klucas,Scott,UNLV,Horn,Cottrell,"Cheek, Jamie",Aff,28,28.2,28.3,28.4
+1516,unlv,7,open,Gonzaga,Filpi,Zmyslo,Cal,Jordan,Irving-Thomas,"Dela-Cruz, Liz",Aff,29.3,29.2,29.1,29
+1516,unlv,7,open,Kansas,Harris,Wefald,UNLV,Brooks,Kezios,"Thomas, Christopher",Neg,28.5,28.8,28.7,29
+1516,unlv,7,open,Texas,Bleiweiss,Pabst,Wyoming,Frame,Henman,"Brennan, Eli",Aff,28.8,28.9,28.5,28.7
+1516,unlv,7,open,SFSU,Haney,Grey,NYU,Dellamore,Zhang,"LoyJr., Robert",Neg,28.5,28,29.5,29
+1516,unlv,7,open,Gonzaga,Basler,McRoberts,Pepperdine,Elechyan,Smith,"Eriksen, Kyle",Neg,28.3,28.6,28.7,28.8
+1516,unlv,1,nov,Southwestern,Beaird,Smiley,Fresno,Clarke,Marroquin,"Lay, Bryan",Aff,28.7,29,28.1,28.6
+1516,unlv,1,nov,Southwestern,Chavez,Lozano,UCF,Davis,Irimia,"Gerber, Matt",Neg,28.1,28.4,28,28.5
+1516,unlv,1,nov,Southwestern,Romero,Castillo,ASU,Liu,Machorro,"Watts, Nick",Neg,28.2,28.3,28.5,28.4
+1516,unlv,1,nov,UCF,Dor,Tracy,CSUN,Wong,Coto,"Barquin, Joseph",Aff,27.5,27.6,27,27.1
+1516,unlv,1,nov,KCKCC,Barclay,Elliott,UCF,Shoemaker,Swenson,"Stevenson, Richard",Neg,27.1,27.2,27.8,27.7
+1516,unlv,1,nov,CSUN,Guzman,Zesati,Weber,Huth,Keyes,"Pablo, Jonathan",Neg,26,26.1,28,27
+1516,unlv,6,open,UNLV,Brooks,Kezios,Texas,Harun,Wilczynski,"Taylor, James",Aff,29,29.1,27.9,27.7
+1516,unlv,6,open,Texas,Blaker,Dennar,Weber,Hall,Shoell,"Scher, Adam",Neg,28.4,28.2,28.5,28.8
+1516,unlv,6,open,Wyoming,Frame,Henman,SFSU,Murray,Raiford,"Abbasi, Calvin",Aff,28.5,29,27.5,29.5
+1516,unlv,6,open,Army,Silverman,Lipksy,Weber,Olsen,pickens,"Jallits, Matthew",Neg,28.3,28.5,28.6,28.4
+1516,unlv,6,open,Baylor,Barron,Conner,Texas,Chowdhury,Segura,"Russell, Jason",Aff,28.6,28.9,28.7,28.5
+1516,unlv,6,open,UNLV,Berrios,Taylor,Texas,Daniels,Jones,"Varda, Scott",Neg,27.9,27.7,28.3,28.4
+1516,unlv,6,open,USC,Heydari,Pagan,UTD,Langer,Powell,"Barquin, Joseph",Neg,28.2,28.1,28.3,28.4
+1516,unlv,6,open,Weber,Sanchez,Shackelford,Wyoming,Marcum,McFarland,"Lundeen, Geoff",Neg,28.6,28.4,28.9,28.5
+1516,unlv,6,open,Oklahoma,Schexnayder,Smith,Kansas,Harris,Wefald,"Bunas, Shae",Neg,28.3,28.5,28.2,28.4
+1516,unlv,6,open,SFSU,Binley,Carey,UNLV,Aguilar,Ogata,"DiPiazza, Philip",Aff,28.7,28.6,28.3,28.4
+1516,unlv,6,open,Gonzaga,Basler,McRoberts,UTD,Johnson,Becker,"Stables, Gordon",Neg,28.3,28.5,28.4,28.6
+1516,unlv,6,open,KSU,Klucas,Scott,Cal,Walter,Kadie,"Eisenstadt, Michael",Aff,29,29.2,28.8,28.6
+1516,unlv,6,open,UPS,Brittenham,Sabbagh,KSU,Pena,Ramirez,"Baker, Dominique",Aff,29.8,29.7,29.9,30
+1516,unlv,6,open,UTSA,Nation,Villarreal,Oklahoma,Wyde,Reinking,"Williams, Brittany",Neg,28.1,28.2,28.3,28.6
+1516,unlv,6,open,Gonzaga,Filpi,Zmyslo,Baylor,Nichols,Walmsley,"Russell, Bill",Neg,28.5,28.6,28.4,28.8
+1516,unlv,6,open,Texas,Barrish,Martinez,SFSU,Pismarov,Stille,"Zaikowski, Jonathan",Aff,28.2,28.4,28.1,28.3
+1516,unlv,6,open,UCO,Hilligoss,Stidham,UWG,Muhammad,Sharif,"Albiniak, Teddy",Aff,28.7,28.6,28.5,28.4
+1516,unlv,6,open,UTD,Yoon,Sen,NYU,Dellamore,Zhang,"Marsh, Blake",Neg,28.8,28.9,29.1,29.2
+1516,unlv,6,open,Weber,Leyba,Veeder,UWG,Chan,Charles,"Koehle, Joe",Neg,28.4,28.6,28.5,28.7
+1516,unlv,6,open,Gonzaga,Clawson,Johnson,Texas,Stransky,Kilpatrick,"Ard, Marquis",Neg,29,29.2,29.4,29.5
+1516,unlv,6,open,KSU,Mays,Smith,Cal,Jordan,Irving-Thomas,"Doty, Kendra",Aff,28.6,28.3,28.1,28
+1516,unlv,6,open,SacState,Delgado,Garcia,USC,Luevano,Placido,"Bhattacharjee, Risha",Neg,28.3,28.2,28.4,28.5
+1516,unlv,6,open,Texas,Bleiweiss,Pabst,Weber,Gaither,Tippets,"Montee, Andy",Neg,29,29.2,29.1,29.3
+1516,unlv,6,open,UNLV,Miller,Carrera,Iowa,Jackson,Anderson,"LoyJr., Robert",Aff,29,28.5,28,27.5
+1516,unlv,6,open,Cal,Kovnick,Alattar,Iowa,Wright,Gartner,"Herndon, Scott",Neg,28.4,28.3,28.2,28.1
+1516,unlv,6,open,SFSU,Haney,Grey,UTSA,Warren,Gittens,"Stevenson, Richard",Neg,28.2,28.3,29,28.9
+1516,unlv,6,open,Pepperdine,Elechyan,Smith,Gonzaga,Elias,Engel,"Spears, Jeffrey",Aff,29,28,26,27
+1516,unlv,6,open,UCO,Glidewell,Spencer,UNLV,Horn,Cottrell,"Feldman, Jonah",Neg,28.2,28.3,28.8,28.7
+1516,unlv,6,open,USC,Saiedian,Sharma,Army,Barlow,Caston,"Moore, Matthew",Aff,29.4,28.8,29.3,28.7
+1516,unlv,6,open,ASU,Canarie,Revenew,Oklahoma,Juarez,Maddy,"Cheek, Ryan",Aff,28.4,28.6,28.5,28.3
+1516,unlv,2,open,Kansas,Harris,Wefald,Baylor,Nichols,Walmsley,"Snelling, Tyler",Neg,28.5,28.3,28.6,28.9
+1516,unlv,2,open,Weber,Leyba,Veeder,Oklahoma,Juarez,Maddy,"DiPiazza, Philip",Neg,28.4,28.5,28.7,28.6
+1516,unlv,2,open,KSU,Pena,Ramirez,Texas,Blaker,Dennar,"Litzky, Alexis",Aff,29,29.5,27.8,27.9
+1516,unlv,2,open,Oklahoma,Schexnayder,Smith,NYU,Dellamore,Zhang,"Thomas, Christopher",Aff,28.3,28.4,28.1,28
+1516,unlv,2,open,Baylor,Sheaff,Walberg,UCO,Glidewell,Spencer,"Robinson, Eric",Aff,28.4,28.1,28.3,28.2
+1516,unlv,2,open,USC,Heydari,Pagan,Weber,Sanchez,Shackelford,"Bugrov, Max",Neg,28.1,28.2,28.6,28.5
+1516,unlv,2,open,Army,Barlow,Caston,UCO,Hilligoss,Stidham,"Reed, JV",Neg,28.5,28.3,28.2,28.6
+1516,unlv,2,open,Iowa,Wright,Gartner,ASU,Canarie,Revenew,"Bhattacharjee, Risha",Neg,28.2,28.3,28.4,28.5
+1516,unlv,2,open,Cal,Kovnick,Alattar,UNLV,Berrios,Taylor,"Beier, Ian",Aff,28.2,28.5,28.6,28.1
+1516,unlv,2,open,UWG,Muhammad,Sharif,Gonzaga,Clawson,Johnson,"Varda, Scott",Neg,28.5,28.7,28.4,28.8
+1516,unlv,2,open,UNLV,Brooks,Kezios,UTD,Johnson,Becker,"Richey, Kate",Aff,29.5,29.6,27.7,28
+1516,unlv,2,open,Wyoming,Frame,Henman,Texas,Chowdhury,Segura,"Lundeen, Geoff",Neg,28,28.2,29,28.5
+1516,unlv,2,open,Texas,Daniels,Jones,UTD,Yoon,Sen,"Taylor, James",Aff,28.6,28.7,28.5,28
+1516,unlv,2,open,SFSU,Murray,Raiford,Wyoming,Marcum,McFarland,"Stroud, Micheal",Neg,28.7,0.0,28.9,28.8
+1516,unlv,2,open,Weber,Hall,Shoell,USC,Saiedian,Sharma,"Koehle, Joe",Neg,28.4,28.7,29,28.5
+1516,unlv,2,open,SFSU,Binley,Carey,Baylor,Barron,Conner,"Dunn, Izak",Neg,28,28.1,28.3,28.2
+1516,unlv,2,open,Weber,Gaither,Tippets,Texas,Barrish,Martinez,"Denney, Ashley",Aff,28.7,28.6,28.5,28.4
+1516,unlv,2,open,Oklahoma,Wyde,Reinking,USC,Luevano,Placido,"Russell, Bill",Neg,28.4,28.6,28.7,28.5
+1516,unlv,2,open,Gonzaga,Elias,Engel,UNLV,Aguilar,Ogata,"Brennan, Eli",Neg,28.5,28.4,28.3,28.6
+1516,unlv,2,open,SacState,Delgado,Garcia,UNLV,Miller,Carrera,"Pryor, Shelby",Aff,27.7,27.8,28.1,28.2
+1516,unlv,2,open,Fresno,Levin,Payne,KSU,Mays,Smith,"Eisenstadt, Michael",Aff,28.9,28.5,28.7,28.6
+1516,unlv,2,open,Cal,Jordan,Irving-Thomas,Gonzaga,Basler,McRoberts,"Guevara, Omar",Neg,28.2,28.1,27.8,28.3
+1516,unlv,2,open,Texas,Harun,Wilczynski,UWG,Chan,Charles,"Russell, Jason",Aff,28.5,28.3,28.4,28.7
+1516,unlv,2,open,Texas,Stransky,Kilpatrick,Cal,Walter,Kadie,"Bato, Christian",Aff,28.8,28.9,28.2,28.3
+1516,unlv,2,open,SFSU,Haney,Grey,Texas,Bleiweiss,Pabst,"Cooper, Deven",Neg,28,28.4,28.5,27.9
+1516,unlv,2,open,Iowa,Jackson,Anderson,UTSA,Nation,Villarreal,"Weitz, Mike",Neg,27.8,27.7,28.5,28.4
+1516,unlv,2,open,Weber,Olsen,pickens,KSU,Klucas,Scott,"Hampton, Jyleesa",Neg,28.7,28.8,28.6,28.5
+1516,unlv,2,open,UNLV,Horn,Cottrell,UPS,Brittenham,Sabbagh,"Albiniak, Teddy",Neg,28.3,28.4,28.5,28.6
+1516,unlv,2,open,Army,Silverman,Lipksy,UTSA,Warren,Gittens,"Dela-Cruz, Liz",Neg,28.7,28.8,29.1,29
+1516,unlv,2,open,UTD,Langer,Powell,SFSU,Pismarov,Stille,"Baker, Will",Aff,27.9,28.2,27.3,27
+1516,unlv,2,open,Gonzaga,Filpi,Zmyslo,Pepperdine,Elechyan,Smith,"Moore, Matthew",Aff,28.4,27.3,27.9,27.8
+1516,unlv,5,nov,ASU,Liu,Machorro,CSUN,Dighiera,Ramos,"Smith, Abi",Aff,27.8,27.7,27.4,27.5
+1516,unlv,5,nov,CSUN,Wong,Coto,UCF,Davis,Irimia,"Pablo, Jonathan",Neg,26,25,27,28
+1516,unlv,5,nov,UCF,Dor,Tracy,Southwestern,Chavez,Lozano,"Beier, Ian",Aff,28.2,28.3,28,28.1
+1516,unlv,5,nov,Southwestern,Romero,Castillo,KCKCC,Barclay,Elliott,"Zaikowski, Jonathan",Neg,28.1,28.3,28.4,28.2
+1516,unlv,5,nov,UCF,Shoemaker,Swenson,CSUN,Guzman,Zesati,"Gerber, Matt",Aff,29,28.4,28.3,28.2
+1516,unlv,5,nov,Weber,Huth,Keyes,Southwestern,Beaird,Smiley,"Snelling, Tyler",Neg,28.3,28.2,28.4,28.5
+1516,unlv,4,nov,CSUN,Dighiera,Ramos,KCKCC,Barclay,Elliott,"Scher, Adam",Aff,27,27.5,26.9,26.8
+1516,unlv,4,nov,CSUN,Guzman,Zesati,Southwestern,Chavez,Lozano,"Allen, Ben",Aff,28.3,28.2,27.8,28
+1516,unlv,4,nov,UCF,Davis,Irimia,Southwestern,Beaird,Smiley,"Evans, Rashad",Aff,28.8,28.7,28,26
+1516,unlv,4,nov,ASU,Liu,Machorro,UCF,Shoemaker,Swenson,"Cheek, Jamie",Aff,28.1,28,28.2,28.3
+1516,unlv,4,nov,CSUN,Wong,Coto,Southwestern,Romero,Castillo,"Moss, Zachary",Neg,28.1,28,28.5,28.3
+1516,unlv,4,nov,UCF,Dor,Tracy,Weber,Huth,Keyes,"Abbasi, Calvin",Aff,27,29.5,27.5,28.5
+1516,unlv,3,open,UTD,Langer,Powell,Cal,Walter,Kadie,"Russell, Bill",Neg,28.2,28.4,28.1,28.3
+1516,unlv,3,open,KSU,Mays,Smith,Cal,Kovnick,Alattar,"Jallits, Matthew",Neg,28.6,28.4,28.7,28.8
+1516,unlv,3,open,Gonzaga,Basler,McRoberts,UTSA,Warren,Gittens,"Lundeen, Sarah",Aff,28.6,28.5,27.9,27.8
+1516,unlv,3,open,Pepperdine,Elechyan,Smith,Oklahoma,Juarez,Maddy,"Snelling, Tyler",Neg,28.2,28.1,27.5,28.4
+1516,unlv,3,open,SFSU,Murray,Raiford,Gonzaga,Clawson,Johnson,"Dela-Cruz, Liz",Neg,28.8,28.7,29.2,29.1
+1516,unlv,3,open,Weber,Olsen,pickens,UCO,Glidewell,Spencer,"Denney, Ashley",Neg,28.4,28.6,28.5,28.7
+1516,unlv,3,open,Baylor,Nichols,Walmsley,Texas,Chowdhury,Segura,"KephartIII, John",Neg,27.4,28.4,28.2,28.3
+1516,unlv,3,open,SacState,Delgado,Garcia,USC,Saiedian,Sharma,"Russell, Jason",Neg,28.2,28.3,29.4,29.3
+1516,unlv,3,open,ASU,Canarie,Revenew,Texas,Stransky,Kilpatrick,"Litzky, Alexis",Aff,28.8,28.5,28.9,28.3
+1516,unlv,3,open,UPS,Brittenham,Sabbagh,Weber,Gaither,Tippets,"Pryor, Shelby",Aff,28.4,28.5,28.2,28.3
+1516,unlv,3,open,UNLV,Aguilar,Ogata,NYU,Dellamore,Zhang,"Myers, Andrew",Aff,28.5,28.7,28.4,28.3
+1516,unlv,3,open,UTD,Johnson,Becker,Army,Barlow,Caston,"Taylor, James",Neg,28.2,28.4,29.2,28.9
+1516,unlv,3,open,Texas,Blaker,Dennar,Iowa,Wright,Gartner,"Moore, Matthew",Neg,27.3,27.1,27.8,27.7
+1516,unlv,3,open,Weber,Hall,Shoell,SFSU,Pismarov,Stille,"Bugrov, Max",Neg,28.2,28.3,28.5,28.1
+1516,unlv,3,open,Gonzaga,Elias,Engel,Oklahoma,Wyde,Reinking,"Eisenstadt, Michael",Neg,28.2,28.4,28.7,28.5
+1516,unlv,3,open,UNLV,Miller,Carrera,Wyoming,Frame,Henman,"Albiniak, Teddy",Neg,27.7,27.8,27.9,28
+1516,unlv,3,open,USC,Heydari,Pagan,Army,Silverman,Lipksy,"Stevenson, Richard",Aff,29,28.9,28.8,28.7
+1516,unlv,3,open,Baylor,Barron,Conner,Gonzaga,Filpi,Zmyslo,"Beier, Ian",Aff,28.5,28.7,28.3,Zmyslo
+1516,unlv,3,open,Texas,Barrish,Martinez,UNLV,Berrios,Taylor,"Brennan, Eli",Neg,28.6,28.3,28.4,28
+1516,unlv,3,open,Weber,Sanchez,Shackelford,UTSA,Nation,Villarreal,"Hampton, Jyleesa",Aff,28.7,28.6,28.5,28.4
+1516,unlv,3,open,KSU,Pena,Ramirez,Oklahoma,Schexnayder,Smith,"Montee, Andy",Aff,28.9,29.1,29,28.8
+1516,unlv,3,open,USC,Luevano,Placido,Weber,Leyba,Veeder,"Eriksen, Kyle",Aff,28.8,29,28.5,28.9
+1516,unlv,3,open,UWG,Muhammad,Sharif,SFSU,Binley,Carey,"Reed, JV",Aff,28.5,28.6,28.2,28.1
+1516,unlv,3,open,Texas,Daniels,Jones,UWG,Chan,Charles,"Watts, Nick",Aff,28.3,28.5,28.2,28.4
+1516,unlv,3,open,Iowa,Jackson,Anderson,UNLV,Horn,Cottrell,"Bhattacharjee, Risha",Neg,28.2,28,28.7,28.6
+1516,unlv,3,open,Texas,Harun,Wilczynski,Cal,Jordan,Irving-Thomas,"Cooper, Deven",Aff,28.4,28.5,28,28.3
+1516,unlv,3,open,SFSU,Haney,Grey,UNLV,Brooks,Kezios,"Van-Luvanee, Lindsay",Neg,28.3,28.5,29,28.7
+1516,unlv,3,open,KSU,Klucas,Scott,UCO,Hilligoss,Stidham,"Richey, Kate",Neg,25.8,27.9,28,28.1
+1516,unlv,3,open,Kansas,Harris,Wefald,UTD,Yoon,Sen,"Koehle, Joe",Aff,27,28.6,28.4,28
+1516,unlv,3,open,Wyoming,Marcum,McFarland,Texas,Bleiweiss,Pabst,"Varda, Scott",Aff,28.8,28.9,28.7,28.6
+1516,unlv,1,open,UWG,Chan,Charles,Weber,Olsen,pickens,"Dunn, Izak",Aff,28.4,28.2,28.1,28.3
+1516,unlv,1,open,Pepperdine,Elechyan,Smith,Iowa,Jackson,Anderson,"Hampton, Jyleesa",Aff,28.3,28.2,27.9,27.8
+1516,unlv,1,open,ASU,Canarie,Revenew,USC,Heydari,Pagan,"Brownlow, Allison",Aff,28.5,28.8,28,27.5
+1516,unlv,1,open,UCO,Glidewell,Spencer,Oklahoma,Schexnayder,Smith,"Albiniak, Teddy",Neg,28.3,28.2,28.1,28.6
+1516,unlv,1,open,UTSA,Nation,Villarreal,UWG,Muhammad,Sharif,"Litzky, Alexis",Neg,28.5,28,28.6,28.2
+1516,unlv,1,open,Texas,Chowdhury,Segura,Kansas,Harris,Wefald,"Montee, Andy",Aff,28.4,28.6,28.1,28.5
+1516,unlv,1,open,USC,Luevano,Placido,Weber,Gaither,Tippets,"Koehle, Joe",Neg,28,28.1,28.3,28.4
+1516,unlv,1,open,NYU,Dellamore,Zhang,Army,Silverman,Lipksy,"Anderson, Jared",Aff,29.1,28.4,28,28.6
+1516,unlv,1,open,Cal,Walter,Kadie,Baylor,Sheaff,Walberg,"Velto, Alex",Aff,28.5,28.8,28.7,28.6
+1516,unlv,1,open,UNLV,Berrios,Taylor,Weber,Leyba,Veeder,"Lundeen, Geoff",Neg,28.2,28.3,28.4,28.7
+1516,unlv,1,open,UNLV,Aguilar,Ogata,Army,Barlow,Caston,"Beier, Ian",Neg,28.4,28.7,28.9,28.6
+1516,unlv,1,open,Baylor,Nichols,Walmsley,Texas,Harun,Wilczynski,"Eisenstadt, Michael",Aff,28.4,28.5,28.2,28.3
+1516,unlv,1,open,KSU,Klucas,Scott,Gonzaga,Elias,Engel,"Bato, Christian",Aff,28.5,28.4,28.1,28.3
+1516,unlv,1,open,Texas,Blaker,Dennar,SacState,Delgado,Garcia,"Eriksen, Kyle",Neg,28.8,28.6,28.5,28.7
+1516,unlv,1,open,Baylor,Barron,Conner,UNLV,Brooks,Kezios,"Stroud, Micheal",Aff,28.9,29,28.8,28.7
+1516,unlv,1,open,Texas,Barrish,Martinez,Gonzaga,Filpi,Zmyslo,"McBride, Brian",Neg,28.6,28.2,28.4,28.5
+1516,unlv,1,open,Oklahoma,Juarez,Maddy,Texas,Stransky,Kilpatrick,"Taylor, James",Neg,28.5,28.7,29.2,29.1
+1516,unlv,1,open,UCO,Hilligoss,Stidham,Wyoming,Frame,Henman,"Lundeen, Sarah",Aff,28.7,28.8,28.3,28.6
+1516,unlv,1,open,Gonzaga,Basler,McRoberts,KSU,Pena,Ramirez,"DiPiazza, Philip",Neg,28.4,28.3,28.9,28.8
+1516,unlv,1,open,Texas,Bleiweiss,Pabst,Cal,Kovnick,Alattar,"Moore, Matthew",Aff,27.8,28.2,28,28.1
+1516,unlv,1,open,UTD,Johnson,Becker,Iowa,Wright,Gartner,"Russell, Bill",Aff,28.2,28.4,28.3,28.1
+1516,unlv,1,open,Gonzaga,Clawson,Johnson,Weber,Hall,Shoell,"Holley, Sierra",Neg,28.9,29,28.8,29.1
+1516,unlv,1,open,SFSU,Pismarov,Stille,SFSU,Murray,Raiford,"Moss, Zachary",Neg,28.1,28,28.5,Raiford
+1516,unlv,1,open,KSU,Mays,Smith,Oklahoma,Wyde,Reinking,"Snelling, Tyler",Aff,28.8,28.4,28.5,28.3
+1516,unlv,1,open,UTSA,Warren,Gittens,Cal,Jordan,Irving-Thomas,"Bugrov, Max",Neg,28.1,28,28.2,28.3
+1516,unlv,1,open,Weber,Sanchez,Shackelford,Fresno,Levin,Payne,"Jackson, Jalisa",Neg,29.5,29.2,29,29.4
+1516,unlv,1,open,Wyoming,Marcum,McFarland,UNLV,Horn,Cottrell,"Pryor, Shelby",Aff,28.7,28.4,28.6,28.3
+1516,unlv,1,open,UNLV,Miller,Carrera,SFSU,Haney,Grey,"Bhattacharjee, Risha",Neg,28,27.7,28.1,27.9
+1516,unlv,1,open,UTD,Yoon,Sen,SFSU,Binley,Carey,"Cooper, Deven",Neg,28.1,28.2,28.4,28
+1516,unlv,1,open,UPS,Brittenham,Sabbagh,UTD,Langer,Powell,"Brennan, Eli",Aff,28.6,28.5,28.4,28.3
+1516,unlv,1,open,USC,Saiedian,Sharma,Texas,Daniels,Jones,"Jallits, Matthew",Aff,28.9,28.8,28.4,28.5
+1516,unlv,6,nov,KCKCC,Barclay,Elliott,Weber,Huth,Keyes,"Bugrov, Max",Neg,28.1,28,28.3,28.2
+1516,unlv,6,nov,Southwestern,Chavez,Lozano,UCF,Shoemaker,Swenson,"Snelling, Tyler",Neg,28,28.3,28.4,28.1
+1516,unlv,6,nov,Southwestern,Beaird,Smiley,CSUN,Wong,Coto,"Leader, Paul",Aff,27.9,28,27.7,27.8
+1516,unlv,6,nov,CSUN,Dighiera,Ramos,UCF,Dor,Tracy,"Scherr, Lydia",Aff,27,26,26.1,25
+1516,unlv,6,nov,CSUN,Guzman,Zesati,ASU,Liu,Machorro,"Brownlow, Allison",Neg,27.8,27.5,28,27.9
+1516,unlv,6,nov,UCF,Davis,Irimia,Southwestern,Romero,Castillo,"Cooper, Deven",Aff,28.3,28.6,28.2,28
+1516,unlv,finals,nov,UCF,Shoemaker,Swenson,UCF,Davis,Irimia,BYE,-1,-1,-1,-1
+1516,unlv,7,nov,Southwestern,Chavez,Lozano,CSUN,Dighiera,Ramos,"Anderson, Jared",Aff,29,28.4,27.5,27.7
+1516,unlv,7,nov,CSUN,Wong,Coto,UCF,Shoemaker,Swenson,"Williams, Brittany",Neg,28.7,28.8,29,28.9
+1516,unlv,7,nov,Southwestern,Romero,Castillo,UCF,Dor,Tracy,"Bato, Christian",Neg,28.1,28.2,28.4,28.3
+1516,unlv,7,nov,Weber,Huth,Keyes,UCF,Davis,Irimia,"Jallits, Matthew",Neg,28.8,28.7,28.9,29.5
+1516,unlv,7,nov,Southwestern,Beaird,Smiley,ASU,Liu,Machorro,"Scherr, Lydia",Neg,26,26.5,27.5,27
+1516,unlv,7,nov,KCKCC,Barclay,Elliott,CSUN,Guzman,Zesati,"Jackson, Jalisa",Aff,28.9,29,28.7,28.8
+1516,unlv,finals,jv,KCKCC,Unruh,Willett,Oklahoma,Crawford,Stack-Nelson,"Brennan, Eli",Aff,-1,-1,-1,-1,"Myers, Andrew",Aff,-1,-1,-1,-1,"Taylor, James",Aff,-1,-1,-1,-1
+1516,unlv,dubs,open,Weber,Gaither,Tippets,Iowa,Wright,Gartner,"Lundeen, Sarah",Aff,-1,-1,-1,-1,"Stables, Gordon",Aff,-1,-1,-1,-1,"Weitz, Mike",Aff,-1,-1,-1,-1
+1516,unlv,dubs,open,Cal,Kovnick,Alattar,Army,Barlow,Caston,"Hampton, Jyleesa",Neg,-1,-1,-1,-1,"Beier, Ian",Neg,-1,-1,-1,-1,"Bunas, Shae",Neg,-1,-1,-1,-1
+1516,unlv,dubs,open,UCO,Hilligoss,Stidham,Oklahoma,Juarez,Maddy,"DiPiazza, Philip",Aff,-1,-1,-1,-1,"Evans, Rashad",Neg,-1,-1,-1,-1,"Montee, Andy",Aff,-1,-1,-1,-1
+1516,unlv,dubs,open,KSU,Pena,Ramirez,Baylor,Nichols,Walmsley,"Guevara, Omar",Aff,-1,-1,-1,-1,"Doty, Kendra",Aff,-1,-1,-1,-1,"Stroud, Micheal",Neg,-1,-1,-1,-1
+1516,unlv,dubs,open,Weber,Sanchez,Shackelford,KSU,Klucas,Scott,"Cooper, Deven",Aff,-1,-1,-1,-1,"Ard, Marquis",Neg,-1,-1,-1,-1,"Richey, Kate",Neg,-1,-1,-1,-1
+1516,unlv,dubs,open,Texas,Chowdhury,Segura,UNLV,Horn,Cottrell,"Cheek, Ryan",Neg,-1,-1,-1,-1,"Gerber, Matt",Aff,-1,-1,-1,-1,"KephartIII, John",Aff,-1,-1,-1,-1
+1516,unlv,dubs,open,UWG,Muhammad,Sharif,USC,Luevano,Placido,"Albiniak, Teddy",Aff,-1,-1,-1,-1,"Eisenstadt, Michael",Aff,-1,-1,-1,-1,"Myers, Andrew",Aff,-1,-1,-1,-1
+1516,unlv,dubs,open,Texas,Daniels,Jones,Oklahoma,Wyde,Reinking,"Koehle, Joe",Aff,-1,-1,-1,-1,"Baker, Will",Aff,-1,-1,-1,-1,"Lundeen, Geoff",Aff,-1,-1,-1,-1
+1516,unlv,dubs,open,KSU,Mays,Smith,Texas,Stransky,Kilpatrick,"Moore, Matthew",Neg,-1,-1,-1,-1,"Bato, Christian",Neg,-1,-1,-1,-1,"Russell, Bill",Neg,-1,-1,-1,-1
+1516,unlv,dubs,open,UNLV,Brooks,Kezios,Kansas,Harris,Wefald,"Cheek, Jamie",Aff,-1,-1,-1,-1,"Thomas, Christopher",Aff,-1,-1,-1,-1,"Varda, Scott",Aff,-1,-1,-1,-1
+1516,unlv,dubs,open,Texas,Bleiweiss,Pabst,Gonzaga,Clawson,Johnson,"Cram, Travis",Aff,-1,-1,-1,-1,"Litzky, Alexis",Aff,-1,-1,-1,-1,"McBride, Brian",Aff,-1,-1,-1,-1
+1516,unlv,dubs,open,Wyoming,Marcum,McFarland,Texas,Harun,Wilczynski,"Feldman, Jonah",Aff,-1,-1,-1,-1,"Brennan, Eli",Aff,-1,-1,-1,-1,"Pryor, Shelby",Aff,-1,-1,-1,-1
+1516,unlv,dubs,open,UWG,Chan,Charles,ASU,Canarie,Revenew,"Reed, JV",Aff,-1,-1,-1,-1,"Van-Luvanee, Lindsay",Aff,-1,-1,-1,-1,"Watts, Nick",Aff,-1,-1,-1,-1
+1516,unlv,semis,open,Weber,Gaither,Tippets,Texas,Stransky,Kilpatrick,"McBride, Brian",Neg,-1,-1,-1,-1,"Watts, Nick",Neg,-1,-1,-1,-1,"Weitz, Mike",Neg,-1,-1,-1,-1
+1516,unlv,semis,open,Army,Barlow,Caston,USC,Saiedian,Sharma,"Montee, Andy",Neg,-1,-1,-1,-1,"Cheek, Ryan",Neg,-1,-1,-1,-1,"Russell, Jason",Neg,-1,-1,-1,-1
+1516,unlv,semis,jv,KCKCC,Unruh,Willett,UCO,Alonzo,Watson,"Weitz, Mike",Neg,-1,-1,-1,-1,"Robinson, Eric",Aff,-1,-1,-1,-1,"Zaikowski, Jonathan",Aff,-1,-1,-1,-1
+1516,unlv,semis,jv,ASU,Quint,Vinson,Oklahoma,Crawford,Stack-Nelson,"Eisenstadt, Michael",Neg,-1,-1,-1,-1,"Baker, Will",Neg,-1,-1,-1,-1,"Richey, Kate",Neg,-1,-1,-1,-1
+1516,unlv,2,jv,UNLV,Nordberg,Vo,Oklahoma,Witman,Pruitt,"Brownlow, Allison",Neg,27.5,27.8,29,28
+1516,unlv,2,jv,CSUN,Aceves,Barbalace,SFSU,Held,Perez,"Moss, Zachary",Aff,28.6,28.7,28,27.9
+1516,unlv,2,jv,SacState,Perry,Khan,CCSF,Guardado,Overbeck,"Abbasi, Calvin",Neg,27,28.5,29,28
+1516,unlv,2,jv,ASU,Quint,Vinson,UCO,Alonzo,Watson,"Eriksen, Kyle",Neg,28.4,28.3,28.5,28.6
+1516,unlv,2,jv,Oklahoma,Crawford,Stack-Nelson,KCKCC,Unruh,Willett,"Anderson, Jared",Neg,28.5,28.4,28.9,29.1
+1516,unlv,2,jv,Weber,Elizarraraz,Medina,USU-E,Leon,Rawle,"Jallits, Matthew",Aff,28.4,27.9,28.6,28.5
+1516,unlv,2,jv,Wyoming,Meeks,Worley,ASU,Duan,Redman,"Zaikowski, Jonathan",Neg,27.3,27.4,27.9,28
+1516,unlv,2,jv,UPS,Frank,Gerard,Southwestern,Lopez,Stylez,"Jackson, Jalisa",Aff,29.1,29.5,28.9,29
+1516,unlv,2,jv,SFSU,Villa,Le,UTD,Kapoor,Smalley,"Barquin, Joseph",Neg,28,27,27.9,29
+1516,unlv,3,jv,UNLV,Nordberg,Vo,CCSF,Guardado,Overbeck,"Scher, Adam",Neg,27.3,27.4,27.1,27.2
+1516,unlv,3,jv,ASU,Quint,Vinson,Weber,Elizarraraz,Medina,"Baker, Will",Aff,27.7,27.1,27.4,27.3
+1516,unlv,3,jv,UTD,Kapoor,Smalley,UPS,Frank,Gerard,"Bato, Christian",Aff,28.2,28.3,28,28.1
+1516,unlv,3,jv,SFSU,Villa,Le,Wyoming,Meeks,Worley,"Anderson, Jared",Aff,28,28.1,27.5,27.6
+1516,unlv,3,jv,CSUN,Aceves,Barbalace,Oklahoma,Witman,Pruitt,"Dunn, Izak",Aff,27.7,28,27.9,27.8
+1516,unlv,3,jv,UCO,Alonzo,Watson,KCKCC,Unruh,Willett,"Moss, Zachary",Neg,27.8,28,28.1,28.2
+1516,unlv,3,jv,USU-E,Leon,Rawle,SacState,Perry,Khan,"Zaikowski, Jonathan",Aff,28.2,28.4,28.1,28.3
+1516,unlv,3,jv,Oklahoma,Crawford,Stack-Nelson,ASU,Duan,Redman,"Jackson, Jalisa",Aff,29.3,29.4,28.5,28.6
+1516,unlv,3,jv,Southwestern,Lopez,Stylez,SFSU,Held,Perez,"Abbasi, Calvin",Neg,26.5,27,29,28.5
+1516,unlv,octs,open,Texas,Daniels,Jones,Weber,Gaither,Tippets,"Varda, Scott",Neg,-1,-1,-1,-1,"Beier, Ian",Neg,-1,-1,-1,-1,"Bunas, Shae",Neg,-1,-1,-1,-1
+1516,unlv,octs,open,Army,Barlow,Caston,Texas,Chowdhury,Segura,"Dunn, Izak",Aff,-1,-1,-1,-1,"Moore, Matthew",Neg,-1,-1,-1,-1,"Russell, Jason",Aff,-1,-1,-1,-1
+1516,unlv,octs,open,UWG,Muhammad,Sharif,USC,Saiedian,Sharma,"Harris, Scott",Neg,-1,-1,-1,-1,"Russell, Bill",Neg,-1,-1,-1,-1,"Smith, Abi",Aff,-1,-1,-1,-1
+1516,unlv,octs,open,UCO,Hilligoss,Stidham,KSU,Pena,Ramirez,"Reed, JV",Neg,-1,-1,-1,-1,"DiPiazza, Philip",Aff,-1,-1,-1,-1,"Montee, Andy",Neg,-1,-1,-1,-1
+1516,unlv,octs,open,KSU,Klucas,Scott,UPS,Brittenham,Sabbagh,"Hampton, Jyleesa",Aff,-1,-1,-1,-1,"Van-Luvanee, Lindsay",Neg,-1,-1,-1,-1,"Watts, Nick",Aff,-1,-1,-1,-1
+1516,unlv,octs,open,Texas,Stransky,Kilpatrick,UNLV,Brooks,Kezios,"Lundeen, Sarah",Aff,-1,-1,-1,-1,"McBride, Brian",Aff,-1,-1,-1,-1,"Taylor, James",Aff,-1,-1,-1,-1
+1516,unlv,octs,open,Texas,Bleiweiss,Pabst,Baylor,Barron,Conner,"Doty, Kendra",Neg,-1,-1,-1,-1,"Feldman, Jonah",Neg,-1,-1,-1,-1,"Lundeen, Geoff",Neg,-1,-1,-1,-1
+1516,unlv,octs,open,Wyoming,Marcum,McFarland,UWG,Chan,Charles,"Brennan, Eli",Aff,-1,-1,-1,-1,"Gerber, Matt",Aff,-1,-1,-1,-1,"Guevara, Omar",Neg,-1,-1,-1,-1
+1516,unlv,semis,nov,UCF,Shoemaker,Swenson,UCF,Dor,Tracy,BYE,-1,-1,-1,-1
+1516,unlv,semis,nov,UCF,Davis,Irimia,ASU,Liu,Machorro,"Allen, Ben",Aff,-1,-1,-1,-1,"Herndon, Scott",Aff,-1,-1,-1,-1,"Jackson, Jalisa",Aff,-1,-1,-1,-1
+1516,unlv,1,jv,KCKCC,Unruh,Willett,Wyoming,Meeks,Worley,"Abbasi, Calvin",Aff,28,28.5,26,27
+1516,unlv,1,jv,ASU,Duan,Redman,UNLV,Nordberg,Vo,"LoyJr., Robert",Neg,27,27.5,28.5,28
+1516,unlv,1,jv,UTD,Kapoor,Smalley,Oklahoma,Crawford,Stack-Nelson,"Dela-Cruz, Liz",Neg,28.7,28.8,29.1,29.2
+1516,unlv,1,jv,Southwestern,Lopez,Stylez,SacState,Perry,Khan,"Scher, Adam",Neg,27.3,27.2,27.1,27.5
+1516,unlv,1,jv,Oklahoma,Witman,Pruitt,SFSU,Villa,Le,"Robinson, Eric",Aff,27.8,28,27.7,27.5
+1516,unlv,1,jv,USU-E,Leon,Rawle,UPS,Frank,Gerard,"Denney, Ashley",Aff,28.4,28.3,28,28.2
+1516,unlv,1,jv,CCSF,Guardado,Overbeck,CSUN,Aceves,Barbalace,"Marsh, Blake",Neg,28.4,28,28.8,28.9
+1516,unlv,1,jv,SFSU,Held,Perez,ASU,Quint,Vinson,"Richey, Kate",Neg,28.5,28.4,28.3,28.2
+1516,unlv,1,jv,UCO,Alonzo,Watson,Weber,Elizarraraz,Medina,"Zaikowski, Jonathan",Aff,27.8,27.9,27.7,27.6
+1516,unlv,4,jv,UPS,Frank,Gerard,UCO,Alonzo,Watson,"Doty, Kendra",Neg,27.9,28.2,28.5,28.6
+1516,unlv,4,jv,CCSF,Guardado,Overbeck,USU-E,Leon,Rawle,"Brownlow, Allison",Neg,27,27.1,27.3,27.4
+1516,unlv,4,jv,Wyoming,Meeks,Worley,Southwestern,Lopez,Stylez,"Jallits, Matthew",Neg,27.9,28.9,28.5,30
+1516,unlv,4,jv,Oklahoma,Witman,Pruitt,ASU,Quint,Vinson,"Jackson, Jalisa",Aff,29.6,29,28.9,28.5
+1516,unlv,4,jv,KCKCC,Unruh,Willett,CSUN,Aceves,Barbalace,"Zaikowski, Jonathan",Aff,28.6,28.5,28.2,28.1
+1516,unlv,4,jv,ASU,Duan,Redman,UTD,Kapoor,Smalley,"Anderson, Jared",Neg,28,28.1,28.6,28.9
+1516,unlv,4,jv,SFSU,Held,Perez,UNLV,Nordberg,Vo,"Leader, Paul",Neg,28.3,28.2,28.5,28.1
+1516,unlv,4,jv,SacState,Perry,Khan,Oklahoma,Crawford,Stack-Nelson,"Stevenson, Richard",Neg,28,27.9,28.9,29
+1516,unlv,4,jv,Weber,Elizarraraz,Medina,SFSU,Villa,Le,"Eriksen, Kyle",Aff,28.2,28.3,28,28.1
+1516,unlv,5,jv,UNLV,Nordberg,Vo,Oklahoma,Crawford,Stack-Nelson,"Cheek, Jamie",Neg,28.2,28,28.5,28.6
+1516,unlv,5,jv,ASU,Quint,Vinson,Southwestern,Lopez,Stylez,"Brownlow, Allison",Aff,28.7,28,27,27.3
+1516,unlv,5,jv,SFSU,Villa,Le,UPS,Frank,Gerard,"Moss, Zachary",Aff,29.1,28.5,27.9,27.8
+1516,unlv,5,jv,CCSF,Guardado,Overbeck,Weber,Elizarraraz,Medina,"Denney, Ashley",Aff,28.3,28.4,28.1,28.2
+1516,unlv,5,jv,SFSU,Held,Perez,Wyoming,Meeks,Worley,"Pryor, Shelby",Neg,28.2,28.1,28.3,28.4
+1516,unlv,5,jv,UTD,Kapoor,Smalley,CSUN,Aceves,Barbalace,"Baker, Dominique",Neg,28.3,28.6,28.4,28.5
+1516,unlv,5,jv,Oklahoma,Witman,Pruitt,UCO,Alonzo,Watson,"Koehle, Joe",Aff,28.6,28.7,0.0,28.5
+1516,unlv,5,jv,KCKCC,Unruh,Willett,USU-E,Leon,Rawle,"Ard, Marquis",Aff,28.2,28.4,28,28.1
+1516,unlv,5,jv,ASU,Duan,Redman,SacState,Perry,Khan,"Litzky, Alexis",Aff,28.5,28.2,27.5,28.3
+1516,unlv,quarters,open,Weber,Gaither,Tippets,Wyoming,Marcum,McFarland,"Varda, Scott",Aff,-1,-1,-1,-1,"Bunas, Shae",Neg,-1,-1,-1,-1,"Williams, Brittany",Aff,-1,-1,-1,-1
+1516,unlv,quarters,open,KSU,Klucas,Scott,Army,Barlow,Caston,"Snelling, Tyler",Aff,-1,-1,-1,-1,"Lundeen, Geoff",Neg,-1,-1,-1,-1,"Thomas, Christopher",Neg,-1,-1,-1,-1
+1516,unlv,quarters,open,USC,Saiedian,Sharma,KSU,Pena,Ramirez,"Bhattacharjee, Risha",Aff,-1,-1,-1,-1,"Guevara, Omar",Aff,-1,-1,-1,-1,"Montee, Andy",Aff,-1,-1,-1,-1
+1516,unlv,quarters,open,Texas,Stransky,Kilpatrick,Baylor,Barron,Conner,"Lundeen, Sarah",Aff,-1,-1,-1,-1,"Watts, Nick",Aff,-1,-1,-1,-1,"Weitz, Mike",Neg,-1,-1,-1,-1
+1516,unlv,7,jv,UNLV,Nordberg,Vo,USU-E,Leon,Rawle,"Pryor, Shelby",Neg,27.7,27.8,28,27.9
+1516,unlv,7,jv,ASU,Quint,Vinson,CCSF,Guardado,Overbeck,"Smith, Abi",Aff,29,28,25.1,25
+1516,unlv,7,jv,UPS,Frank,Gerard,SacState,Perry,Khan,"Stroud, Micheal",Aff,28.6,28.1,28.3,28.5
+1516,unlv,7,jv,Weber,Elizarraraz,Medina,Wyoming,Meeks,Worley,"Snelling, Tyler",Neg,28.4,28.3,28.2,29.5
+1516,unlv,7,jv,CSUN,Aceves,Barbalace,Oklahoma,Crawford,Stack-Nelson,"Bugrov, Max",Aff,28.6,28.5,28.4,28.3
+1516,unlv,7,jv,KCKCC,Unruh,Willett,Oklahoma,Witman,Pruitt,"Baker, Will",Aff,28.3,28.5,28.1,27.9
+1516,unlv,7,jv,Southwestern,Lopez,Stylez,UTD,Kapoor,Smalley,"Bhattacharjee, Risha",Neg,28.3,28.4,28.5,28.7
+1516,unlv,7,jv,SFSU,Held,Perez,ASU,Duan,Redman,"Holley, Sierra",Aff,29.3,29.2,29.1,29
+1516,unlv,7,jv,UCO,Alonzo,Watson,SFSU,Villa,Le,"Beier, Ian",Aff,-1,28.2,27.1,27.9
+1516,unlv,6,jv,UPS,Frank,Gerard,ASU,Duan,Redman,"Smith, Abi",Aff,27.5,27.7,27.4,27.3
+1516,unlv,6,jv,Wyoming,Meeks,Worley,UNLV,Nordberg,Vo,"Brennan, Eli",Neg,28.3,28,28.4,28.5
+1516,unlv,6,jv,CSUN,Aceves,Barbalace,ASU,Quint,Vinson,"Litzky, Alexis",Aff,28.2,28.5,29,28.4
+1516,unlv,6,jv,USU-E,Leon,Rawle,Oklahoma,Witman,Pruitt,"Myers, Andrew",Neg,28.3,28.4,28.7,28.5
+1516,unlv,6,jv,SacState,Perry,Khan,SFSU,Held,Perez,"Thomas, Christopher",Aff,26.3,26.5,26.2,26.4
+1516,unlv,6,jv,Southwestern,Lopez,Stylez,SFSU,Villa,Le,"Bato, Christian",Neg,28.5,28.9,28.7,28.6
+1516,unlv,6,jv,Weber,Elizarraraz,Medina,KCKCC,Unruh,Willett,"Massey, Jackie",Neg,27.5,27.6,28,28.3
+1516,unlv,6,jv,UCO,Alonzo,Watson,UTD,Kapoor,Smalley,"Pryor, Shelby",Aff,27.6,28.4,28.1,28.3
+1516,unlv,6,jv,Oklahoma,Crawford,Stack-Nelson,CCSF,Guardado,Overbeck,"Richey, Kate",Aff,28.3,29,30,28
+1516,uco,1,jv,Trinit,Conrad,Terrace,UNI,Berg,Folkers,"Tomik, Keegan",Aff,28.6,28.9,28.5,28.2
+1516,uco,1,jv,UTSA,Armstrong,Goldston,Houston,Morales,McKinley,"Bunas, Shae",Neg,28,28.3,28.1,28.4
+1516,uco,1,jv,Oklahoma,Higgins,Moran,JCCC,Moore,Peat,"Bajorek, Benton",Neg,28.6,28,28.8,28.7
+1516,uco,1,jv,Linden,Swinford,Contreras,UCO,Southerland,George,"Moss, Zachary",Neg,27.5,27.6,27.4,28
+1516,uco,1,jv,UTD,Kapoor,Langer,Trinit,Mendez-Perez,Salazar,"Loghry, Chris",Aff,28.2,28.3,28,28.1
+1516,uco,1,jv,NorTex,Avila,Harwood,UCO,Chenger,Holmes,"Stutzman, Jacob",Aff,27.9,27.8,25.6,25.5
+1516,uco,1,jv,Oklahoma,Hiatt,Schleicher,Linden,DeLeon,Johnson,"Robinson, Eric",Neg,27.9,28.1,28.2,27.8
+1516,uco,semis,jv,Oklahoma,Higgins,Moran,UTD,Kapoor,Langer,"Loghry, Chris",Neg,-1,-1,-1,-1,"Botkin, Tess",Aff,-1,-1,-1,-1,"Roark, Collin",Aff,-1,-1,-1,-1
+1516,uco,semis,jv,UNI,Berg,Folkers,JCCC,Moore,Peat,"Munday, Matt",Neg,-1,-1,-1,-1,"Denney, Ashley",Aff,-1,-1,-1,-1,"Ivanovic, Matea",Aff,-1,-1,-1,-1
+1516,uco,3,jv,UTSA,Armstrong,Goldston,Oklahoma,Hiatt,Schleicher,"Botkin, Tess",Neg,27.6,27.7,27.8,28
+1516,uco,3,jv,Linden,DeLeon,Johnson,AugCol,Smith,Lewis,"Leader, Paul",Neg,28.2,28.1,28,28.4
+1516,uco,3,jv,Houston,Morales,McKinley,UCO,Southerland,George,"Kirk, Justin",Aff,27.4,28,27.5,27.6
+1516,uco,3,jv,Trinit,Mendez-Perez,Salazar,Oklahoma,Higgins,Moran,"Sciullo, Nick",Neg,27.8,28.1,28.4,28
+1516,uco,3,jv,UNI,Berg,Folkers,Linden,Swinford,Contreras,"Bajorek, Benton",Aff,28.8,28.6,28.5,28.4
+1516,uco,3,jv,NorTex,Avila,Harwood,JCCC,Moore,Peat,"Tomik, Keegan",Neg,27.6,27.5,27.4,27.8
+1516,uco,3,jv,Trinit,Conrad,Terrace,UTD,Kapoor,Langer,"Justice, Jacob",Neg,28.1,28.6,28.4,28.5
+1516,uco,2,jv,Trinit,Mendez-Perez,Salazar,Oklahoma,Hiatt,Schleicher,"Maurer, Samuel",Aff,27.2,28.1,27.1,28
+1516,uco,2,jv,UCO,Southerland,George,Oklahoma,Higgins,Moran,"Mapes, Megan",Neg,27.9,27.7,28,27.8
+1516,uco,2,jv,UNI,Berg,Folkers,AugCol,Smith,Lewis,"Kersch, Brian",Aff,28.7,28.6,28.5,28.4
+1516,uco,2,jv,JCCC,Moore,Peat,UTSA,Armstrong,Goldston,"Roark, Collin",Aff,28.4,28.3,28,28.1
+1516,uco,2,jv,Houston,Morales,McKinley,NorTex,Avila,Harwood,"Denney, Ashley",Neg,27.9,28.2,28.4,28.3
+1516,uco,2,jv,UCO,Chenger,Holmes,Trinit,Conrad,Terrace,"Moss, Zachary",Neg,27.9,28.4,28.1,28.9
+1516,uco,2,jv,Linden,DeLeon,Johnson,UTD,Kapoor,Langer,"Elliott, Scott",Neg,27.1,27.2,27.5,27.4
+1516,uco,6,jv,Houston,Morales,McKinley,Trinit,Mendez-Perez,Salazar,"Mapes, Megan",Neg,27.4,27.6,27.5,27.7
+1516,uco,6,jv,Linden,Swinford,Contreras,UTSA,Armstrong,Goldston,"Leader, Paul",Aff,27.8,27.9,27.5,27.6
+1516,uco,6,jv,UCO,Chenger,Holmes,AugCol,Smith,Lewis,"Denney, Ashley",Aff,28,28.4,28.1,28.2
+1516,uco,6,jv,Trinit,Conrad,Terrace,Oklahoma,Higgins,Moran,"Hopp, Elizabeth",Neg,27.5,28,28.5,27
+1516,uco,6,jv,UNI,Berg,Folkers,Linden,DeLeon,Johnson,"Stroud, Micheal",Aff,28.4,27.8,28.3,28.2
+1516,uco,6,jv,UTD,Kapoor,Langer,JCCC,Moore,Peat,"Kersch, Brian",Neg,28.4,28.3,28.7,28.2
+1516,uco,6,jv,NorTex,Avila,Harwood,UCO,Southerland,George,"Bajorek, Benton",Aff,29.4,29.5,28.6,28.5
+1516,uco,quarters,open,Wichita,O'Donnell,Saunders,Wichita,Crane,Welch,BYE,-1,-1,-1,-1
+1516,uco,quarters,open,UMKC,Fisher,Turner,Kansas,Katz,Robb,"Bunas, Shae",Neg,-1,-1,-1,-1,"Kersch, Brian",Neg,-1,-1,-1,-1,"Petit, Louie",Neg,-1,-1,-1,-1
+1516,uco,quarters,open,UCO,Hilligoss,Stidham,Oklahoma,Smith,Zhou,"Bricker, Brett",Aff,-1,-1,-1,-1,"Kirk, Justin",Aff,-1,-1,-1,-1,"Robinson, Eric",Aff,-1,-1,-1,-1
+1516,uco,quarters,open,UTD,Ballard,Flanagan,KSU,Mays,Smith,"Justice, Jacob",Aff,-1,-1,-1,-1,"Mapes, Megan",Aff,-1,-1,-1,-1,"Maurer, Samuel",Neg,-1,-1,-1,-1
+1516,uco,5,jv,UTSA,Armstrong,Goldston,UCO,Chenger,Holmes,"Kersch, Brian",Neg,28.3,28.4,28.5,28.7
+1516,uco,5,jv,Linden,DeLeon,Johnson,Houston,Morales,McKinley,"Bajorek, Benton",Aff,28.2,28.3,28.1,28.4
+1516,uco,5,jv,Oklahoma,Hiatt,Schleicher,UTD,Kapoor,Langer,"Mapes, Megan",Neg,27.2,27.5,27.6,27.8
+1516,uco,5,jv,Trinit,Mendez-Perez,Salazar,UNI,Berg,Folkers,"Hopp, Elizabeth",Neg,27,27.5,28,29
+1516,uco,5,jv,AugCol,Smith,Lewis,Linden,Swinford,Contreras,"Roark, Collin",Neg,28,28.1,28.3,28.2
+1516,uco,5,jv,JCCC,Moore,Peat,Trinit,Conrad,Terrace,"Leader, Paul",Neg,28.5,28.6,28.4,28.8
+1516,uco,5,jv,Oklahoma,Higgins,Moran,NorTex,Avila,Harwood,"Snider, Tommy",Aff,29.1,28.7,28.8,29
+1516,uco,4,jv,Oklahoma,Hiatt,Schleicher,UCO,Chenger,Holmes,"Snider, Tommy",Aff,28.7,28.9,28.4,28.8
+1516,uco,4,jv,Linden,Swinford,Contreras,Trinit,Mendez-Perez,Salazar,"Tomik, Keegan",Neg,28.2,27.5,27.7,27.8
+1516,uco,4,jv,AugCol,Smith,Lewis,Trinit,Conrad,Terrace,"Ivanovic, Matea",Neg,28.3,28.2,28.4,28.5
+1516,uco,4,jv,JCCC,Moore,Peat,Houston,Morales,McKinley,"Gonzaba, Brian",Aff,28.5,28.8,28,28.9
+1516,uco,4,jv,Oklahoma,Higgins,Moran,UNI,Berg,Folkers,"Deshpande, Shree",Aff,28.4,28.2,28.3,28.1
+1516,uco,4,jv,UCO,Southerland,George,Linden,DeLeon,Johnson,"Hopp, Elizabeth",Neg,28,27.7,28.5,28.3
+1516,uco,4,jv,UTD,Kapoor,Langer,NorTex,Avila,Harwood,"Baker, Dominique",Neg,28.4,28.5,28.6,28.7
+1516,uco,finals,jv,UNI,Berg,Folkers,Oklahoma,Higgins,Moran,"Maurer, Samuel",Neg,-1,-1,-1,-1,"Kirk, Justin",Aff,-1,-1,-1,-1,"Loghry, Chris",Aff,-1,-1,-1,-1
+1516,uco,2,nov,Oklahoma,Nollert,VanHeteren,SMU,Kuraishi,Snyder,"Leader, Paul",Neg,27.4,27.2,28,27.9
+1516,uco,2,nov,Illinois,Groh,Zaqout,SMU,Monsalve,Rodriguez,"Bajorek, Benton",Neg,27.8,27.9,27.7,27.6
+1516,uco,2,nov,UCO,Dinh,Pace,UCF,Dor,Tracy,"Stutzman, Jacob",Neg,24.1,25,24.5,24.4
+1516,uco,3,nov,SMU,Monsalve,Rodriguez,Oklahoma,Nollert,VanHeteren,"Deshpande, Shree",Neg,28.4,28.1,28.2,28.3
+1516,uco,3,nov,UCF,Dor,Tracy,Illinois,Groh,Zaqout,"Elliott, Scott",Aff,27.8,27.5,27.4,27.3
+1516,uco,3,nov,UCF,Mika,Davis,UCO,Dinh,Pace,"Loghry, Chris",Aff,28.1,28.3,28,28.2
+1516,uco,1,nov,UCF,Dor,Tracy,Oklahoma,Nollert,VanHeteren,"Kersch, Brian",Neg,29.3,28.5,28.9,28.8
+1516,uco,1,nov,UCF,Mika,Davis,Illinois,Groh,Zaqout,"Justice, Jacob",Neg,28.3,28.5,28.4,28.6
+1516,uco,1,nov,SMU,Kuraishi,Snyder,UCO,Dinh,Pace,"Munday, Matt",Aff,28,28.1,27.8,27.9
+1516,uco,4,nov,Oklahoma,Nollert,VanHeteren,UCF,Mika,Davis,"Bajorek, Benton",Aff,29,29.1,28,28.2
+1516,uco,4,nov,Illinois,Groh,Zaqout,SMU,Kuraishi,Snyder,"Keller, David",Neg,28.3,28.7,28.9,28.5
+1516,uco,4,nov,UCO,Dinh,Pace,SMU,Monsalve,Rodriguez,"Moss, Zachary",Aff,27.9,28,27.8,27.6
+1516,uco,octs,open,UTSA,Nation,Villarreal,Wichita,O'Donnell,Saunders,"Brennan, Eli",Aff,-1,-1,-1,-1,"Stroud, Micheal",Neg,-1,-1,-1,-1,"Weitz, Mike",Neg,-1,-1,-1,-1
+1516,uco,octs,open,UMKC,Fisher,Turner,UNI,Miller,Rice,"Botkin, Tess",Aff,-1,-1,-1,-1,"DiPiazza, Philip",Aff,-1,-1,-1,-1,"Kersch, Brian",Aff,-1,-1,-1,-1
+1516,uco,octs,open,Wichita,Crane,Welch,Kansas,Fry,Philippe,"Bunas, Shae",Aff,-1,-1,-1,-1,"Mosley-Jensen, William",Aff,-1,-1,-1,-1,"Robinson, Eric",Aff,-1,-1,-1,-1
+1516,uco,octs,open,UTD,Ballard,Flanagan,Kansas,Schrag,Woodcock,"Roark, Collin",Aff,-1,-1,-1,-1,"Tews, Richard",Aff,-1,-1,-1,-1,"Tomik, Keegan",Aff,-1,-1,-1,-1
+1516,uco,octs,open,Texas,Harun,Wilczynski,Oklahoma,Smith,Zhou,"Bricker, Brett",Neg,-1,-1,-1,-1,"Elliott, Scott",Neg,-1,-1,-1,-1,"Munday, Matt",Aff,-1,-1,-1,-1
+1516,uco,octs,open,Wyomin,Frame,Henman,KSU,Mays,Smith,"Justice, Jacob",Aff,-1,-1,-1,-1,"Maurer, Samuel",Neg,-1,-1,-1,-1,"Vega, Matthew",Neg,-1,-1,-1,-1
+1516,uco,octs,open,UMKC,Mitchell,Kroger,Kansas,Katz,Robb,"Petit, Louie",Neg,-1,-1,-1,-1,"Russell, Jason",Neg,-1,-1,-1,-1,"Schauer, Courtney",Neg,-1,-1,-1,-1
+1516,uco,5,nov,UCF,Dor,Tracy,SMU,Kuraishi,Snyder,"Deshpande, Shree",Neg,27.6,27.7,28.4,28.3
+1516,uco,5,nov,UCF,Mika,Davis,SMU,Monsalve,Rodriguez,"Tomik, Keegan",Aff,28.2,28.5,27.8,27.7
+1516,uco,5,nov,Oklahoma,Nollert,VanHeteren,Illinois,Groh,Zaqout,"Gonzaba, Brian",Aff,28.3,28.5,28,28.1
+1516,uco,semis,open,UTD,Ballard,Flanagan,Kansas,Katz,Robb,"Tews, Richard",Aff,-1,-1,-1,-1,"Brennan, Eli",Neg,-1,-1,-1,-1,"Bunas, Shae",Neg,-1,-1,-1,-1
+1516,uco,semis,open,Wichita,Crane,Welch,UCO,Hilligoss,Stidham,"Robinson, Eric",Neg,-1,-1,-1,-1,"Bricker, Brett",Aff,-1,-1,-1,-1,"Weitz, Mike",Neg,-1,-1,-1,-1
+1516,uco,6,nov,SMU,Monsalve,Rodriguez,UCF,Dor,Tracy,"Keller, David",Neg,28.6,28.5,28.8,28.7
+1516,uco,6,nov,SMU,Kuraishi,Snyder,UCF,Mika,Davis,"Brennan, Eli",Neg,28.3,28.4,28.1,28.2
+1516,uco,5,open,UMKC,Mitchell,Kroger,NorTex,Alonso,Martinek,"Baker, Dominique",Aff,28.8,28.9,28.7,28.6
+1516,uco,5,open,UTD,Sen,Yoon,JCCC,Owen,Plott,"DiPiazza, Philip",Aff,28.6,28.4,28.5,28.8
+1516,uco,5,open,UTD,Johnson,Becker,UMKC,Schartz,Scott,"Spring, Sarah",Aff,28.4,28.5,28.1,28.3
+1516,uco,5,open,Wichita,Lefler,Roy,Texas,Blaker,Dennar,"Voth, Ben",Aff,28.5,28.8,28.1,28.2
+1516,uco,5,open,UMKC,Fisher,Turner,Texas,Harun,Wilczynski,"Maurer, Samuel",Aff,27,29.2,28.1,28
+1516,uco,5,open,NorTex,Lopez,Goach,Kansas,Schrag,Woodcock,"Moss, Zachary",Neg,27.5,27.7,28.3,28.1
+1516,uco,5,open,Kansas,Katz,Robb,Emporia,Turley,Warma,"Stout, Daniel",Aff,28.8,28.7,28.6,28
+1516,uco,5,open,UTD,Smalley,Powell,KCKCC,Easley,Willett,"Keller, David",Aff,28.8,29.2,28.7,28.9
+1516,uco,5,open,Wichita,Crane,Welch,Wyomin,Frame,Henman,"Sciullo, Nick",Aff,28.2,28.5,28.1,28.3
+1516,uco,5,open,Kansas,Owen,Duhon,Trinit,Sposeep,Yorko,"Stutzman, Jacob",Neg,28.2,28.3,28.5,28.6
+1516,uco,5,open,UCO,Hilligoss,Stidham,KSU,Mays,Smith,"Ivanovic, Matea",Aff,28.8,28.7,28.6,28.3
+1516,uco,5,open,JCCC,Getto,Singleton,Trinit,Collinger,Udawala,"Botkin, Tess",Aff,28.1,28,27.8,27.9
+1516,uco,5,open,Oklahoma,Smith,Zhou,Wichita,O'Donnell,Saunders,"Robinson, Eric",Neg,28.5,28.4,28.7,28.6
+1516,uco,5,open,UNI,Miller,Rice,Kansas,Fry,Philippe,"Loghry, Chris",Neg,29,28.8,29.1,28.3
+1516,uco,5,open,UTD,Ballard,Flanagan,UTSA,Nation,Villarreal,"Stroud, Micheal",Aff,28.9,28.7,29,28.8
+1516,uco,4,open,KCKCC,Easley,Willett,NorTex,Lopez,Goach,"DiPiazza, Philip",Neg,28.2,28.3,28.4,28.1
+1516,uco,4,open,Texas,Blaker,Dennar,UTD,Sen,Yoon,"Bunas, Shae",Neg,28.2,28,28.4,28.1
+1516,uco,4,open,Wyomin,Frame,Henman,UCO,Hilligoss,Stidham,"Tews, Richard",Neg,28.4,28.5,28.7,28.8
+1516,uco,4,open,Texas,Harun,Wilczynski,UTD,Smalley,Powell,"Botkin, Tess",Aff,27.8,28.1,27.6,27.9
+1516,uco,4,open,Wichita,O'Donnell,Saunders,Kansas,Katz,Robb,"Elliott, Scott",Aff,28.8,28.6,28.3,28.5
+1516,uco,4,open,Emporia,Turley,Warma,Wichita,Lefler,Roy,"Leader, Paul",Aff,28.6,28.2,28.4,28.3
+1516,uco,4,open,UNI,Miller,Rice,Kansas,Schrag,Woodcock,"Voth, Ben",Neg,27.5,27.6,28.1,28
+1516,uco,4,open,Wichita,Crane,Welch,NorTex,Alonso,Martinek,"Bosch, Emily",Aff,28.2,28.8,28.1,28.7
+1516,uco,4,open,Kansas,Owen,Duhon,Trinit,Collinger,Udawala,"Stout, Daniel",Neg,27.6,27.5,27.9,27.8
+1516,uco,4,open,Oklahoma,Smith,Zhou,Trinit,Sposeep,Yorko,"Vega, Matthew",Aff,28.5,28.3,28,28.6
+1516,uco,4,open,KSU,Mays,Smith,UTD,Ballard,Flanagan,"Mapes, Megan",Aff,28.8,28.6,28.7,28.5
+1516,uco,4,open,Kansas,Fry,Philippe,UMKC,Fisher,Turner,"Kersch, Brian",Neg,28.6,28.5,27.9,29.2
+1516,uco,4,open,UTSA,Nation,Villarreal,UMKC,Mitchell,Kroger,"Maurer, Samuel",Neg,27.8,27.9,28.1,28.6
+1516,uco,4,open,JCCC,Getto,Singleton,UMKC,Schartz,Scott,"Weitz, Mike",Neg,28.4,28.6,28.5,29.1
+1516,uco,4,open,UTD,Johnson,Becker,JCCC,Owen,Plott,"Bricker, Brett",Aff,28.3,28.4,28.1,28.2
+1516,uco,quarters,jv,UCO,Chenger,Holmes,Oklahoma,Higgins,Moran,"Stout, Daniel",Neg,-1,-1,-1,-1,"Denney, Ashley",Aff,-1,-1,-1,-1,"Stutzman, Jacob",Neg,-1,-1,-1,-1
+1516,uco,quarters,jv,NorTex,Avila,Harwood,UNI,Berg,Folkers,"Loghry, Chris",Neg,-1,-1,-1,-1,"Deshpande, Shree",Aff,-1,-1,-1,-1,"Kirk, Justin",Neg,-1,-1,-1,-1
+1516,uco,quarters,jv,UTD,Kapoor,Langer,Trinit,Conrad,Terrace,"Spring, Sarah",Neg,-1,-1,-1,-1,"Mapes, Megan",Aff,-1,-1,-1,-1,"Voth, Ben",Aff,-1,-1,-1,-1
+1516,uco,6,open,KCKCC,Easley,Willett,Wichita,Lefler,Roy,"Ivanovic, Matea",Neg,28.2,27.9,28.7,28.8
+1516,uco,6,open,Wyomin,Frame,Henman,UTD,Johnson,Becker,"Voth, Ben",Aff,28.2,28.1,27.6,27.9
+1516,uco,6,open,Texas,Harun,Wilczynski,JCCC,Getto,Singleton,"Munday, Matt",Aff,28.2,28.3,28,28.1
+1516,uco,6,open,Wichita,O'Donnell,Saunders,UCO,Hilligoss,Stidham,"Bricker, Brett",Neg,28.6,28.5,28.7,28.8
+1516,uco,6,open,Emporia,Turley,Warma,UNI,Miller,Rice,"Snider, Tommy",Neg,29.6,29.5,29.8,29.7
+1516,uco,6,open,Kansas,Schrag,Woodcock,UTD,Ballard,Flanagan,"Roark, Collin",Neg,28.5,28.7,28.6,28.8
+1516,uco,6,open,UMKC,Schartz,Scott,UTD,Sen,Yoon,"Botkin, Tess",Neg,28.2,28.1,28.3,28
+1516,uco,6,open,NorTex,Alonso,Martinek,Kansas,Katz,Robb,"Loghry, Chris",Neg,28.8,29,29.1,28.9
+1516,uco,6,open,Trinit,Sposeep,Yorko,UMKC,Mitchell,Kroger,"Moss, Zachary",Neg,27.6,28.5,28.6,27.5
+1516,uco,6,open,Trinit,Collinger,Udawala,Oklahoma,Smith,Zhou,"Sciullo, Nick",Neg,28.5,28.2,28.4,28.7
+1516,uco,6,open,KSU,Mays,Smith,UMKC,Fisher,Turner,"Stout, Daniel",Neg,29.5,28.7,28.1,29.8
+1516,uco,6,open,Kansas,Fry,Philippe,Wichita,Crane,Welch,"DiPiazza, Philip",Neg,28.9,28.6,29,28.8
+1516,uco,6,open,UTSA,Nation,Villarreal,NorTex,Lopez,Goach,"Baker, Dominique",Aff,28.7,28.6,28.4,28.5
+1516,uco,6,open,JCCC,Owen,Plott,UTD,Smalley,Powell,"Tomik, Keegan",Neg,28.3,28.4,28.2,28.5
+1516,uco,6,open,Texas,Blaker,Dennar,Kansas,Owen,Duhon,"Maurer, Samuel",Neg,30,28.9,29,29.3
+1516,uco,finals,open,UCO,Hilligoss,Stidham,Kansas,Katz,Robb,"Loghry, Chris",Aff,-1,-1,-1,-1,"Maurer, Samuel",Aff,-1,-1,-1,-1,"Robinson, Eric",Aff,-1,-1,-1,-1
+1516,uco,3,open,UMKC,Mitchell,Kroger,UNI,Miller,Rice,"Kersch, Brian",Neg,28.6,28.5,28.4,28.3
+1516,uco,3,open,Kansas,Katz,Robb,KSU,Mays,Smith,"Mosley-Jensen, William",Neg,28.5,28.6,28.8,28.7
+1516,uco,3,open,JCCC,Owen,Plott,UTSA,Nation,Villarreal,"Snider, Tommy",Neg,28.6,28.9,29,28.8
+1516,uco,3,open,NorTex,Lopez,Goach,JCCC,Getto,Singleton,"Stroud, Micheal",Neg,28.4,28.6,28.5,28.7
+1516,uco,3,open,UMKC,Fisher,Turner,UTD,Johnson,Becker,"Bosch, Emily",Aff,28.6,29.1,27.9,28
+1516,uco,3,open,UTD,Smalley,Powell,Emporia,Turley,Warma,"Tews, Richard",Aff,28.6,28.5,28.4,28.3
+1516,uco,3,open,UMKC,Schartz,Scott,Wichita,O'Donnell,Saunders,"Mapes, Megan",Neg,28.2,28.1,28.4,28.5
+1516,uco,3,open,UTD,Sen,Yoon,KCKCC,Easley,Willett,"Brennan, Eli",Neg,28.5,28,28.4,28.6
+1516,uco,3,open,Kansas,Schrag,Woodcock,Wichita,Crane,Welch,"Robinson, Eric",Neg,28.3,28.2,28.5,28.6
+1516,uco,3,open,NorTex,Alonso,Martinek,Wyomin,Frame,Henman,"Spring, Sarah",Neg,28.1,28,28.3,28.2
+1516,uco,3,open,Trinit,Sposeep,Yorko,Texas,Blaker,Dennar,"Ivanovic, Matea",Aff,28.6,28.7,28.4,28.3
+1516,uco,3,open,UCO,Hilligoss,Stidham,Texas,Harun,Wilczynski,"Moss, Zachary",Aff,29.6,29.3,29.2,28.9
+1516,uco,3,open,Wichita,Lefler,Roy,Kansas,Owen,Duhon,"Baker, Dominique",Neg,28.4,28.5,28.6,28.7
+1516,uco,3,open,Trinit,Collinger,Udawala,Kansas,Fry,Philippe,"Munday, Matt",Neg,27.8,27.9,28.1,28
+1516,uco,3,open,UTD,Ballard,Flanagan,Oklahoma,Smith,Zhou,"Schauer, Courtney",Aff,29.2,29.3,29,29.1
+1516,uco,finals,nov,SMU,Kuraishi,Snyder,Oklahoma,Nollert,VanHeteren,"Sciullo, Nick",Neg,-1,-1,-1,-1,"Ivanovic, Matea",Neg,-1,-1,-1,-1,"Leader, Paul",Neg,-1,-1,-1,-1
+1516,uco,2,open,Texas,Harun,Wilczynski,Kansas,Owen,Duhon,"Weitz, Mike",Aff,29.3,29.1,28.4,28.3
+1516,uco,2,open,Wichita,Lefler,Roy,NorTex,Alonso,Martinek,"Stroud, Micheal",Neg,28.5,28.6,28.4,28.8
+1516,uco,2,open,JCCC,Getto,Singleton,Wyomin,Frame,Henman,"Brennan, Eli",Neg,28.2,28.4,28.1,28.3
+1516,uco,2,open,Emporia,Turley,Warma,UMKC,Schartz,Scott,"Baker, Dominique",Neg,28.5,28.3,28.8,29
+1516,uco,2,open,KSU,Mays,Smith,NorTex,Lopez,Goach,"Kirk, Justin",Aff,28.8,28.3,27.9,27.8
+1516,uco,2,open,Kansas,Fry,Philippe,KCKCC,Easley,Willett,"Robinson, Eric",Aff,28.4,28.3,27.9,28
+1516,uco,2,open,Kansas,Schrag,Woodcock,Trinit,Sposeep,Yorko,"Munday, Matt",Aff,28.1,28.3,28,28.2
+1516,uco,2,open,Trinit,Collinger,Udawala,Wichita,O'Donnell,Saunders,"Ivanovic, Matea",Aff,28.9,28.7,28.3,29.1
+1516,uco,2,open,UNI,Miller,Rice,UMKC,Fisher,Turner,"Bunas, Shae",Aff,28.3,28.5,28,28.4
+1516,uco,2,open,UTSA,Nation,Villarreal,UTD,Sen,Yoon,"Schauer, Courtney",Aff,29,28.8,28.9,28.4
+1516,uco,2,open,UTD,Johnson,Becker,Kansas,Katz,Robb,"Tomik, Keegan",Neg,28.6,28.5,28.7,28.8
+1516,uco,2,open,Oklahoma,Smith,Zhou,Wichita,Crane,Welch,"Bricker, Brett",Aff,28.6,28.5,28.4,28.8
+1516,uco,2,open,UMKC,Mitchell,Kroger,UTD,Smalley,Powell,"Spring, Sarah",Aff,27.8,27.9,28,27.7
+1516,uco,2,open,Texas,Blaker,Dennar,UTD,Ballard,Flanagan,"Botkin, Tess",Neg,27.5,27.4,28.4,28.3
+1516,uco,2,open,UCO,Hilligoss,Stidham,JCCC,Owen,Plott,"Loghry, Chris",Aff,29.1,29.3,28.8,29.2
+1516,uco,1,open,Wyomin,Frame,Henman,Kansas,Schrag,Woodcock,"Mosley-Jensen, William",Aff,28.7,28.8,28.5,28.6
+1516,uco,1,open,UMKC,Fisher,Turner,Wichita,Lefler,Roy,"Gonzaba, Brian",Aff,27.9,29,28.5,28
+1516,uco,1,open,Trinit,Sposeep,Yorko,UTD,Johnson,Becker,"Petit, Louie",Neg,27.9,27.7,28,27.8
+1516,uco,1,open,Wichita,Crane,Welch,UNI,Miller,Rice,"Botkin, Tess",Aff,28.2,28.3,27.7,27.5
+1516,uco,1,open,NorTex,Lopez,Goach,Trinit,Collinger,Udawala,"Schauer, Courtney",Aff,28.3,28.5,28.2,28.4
+1516,uco,1,open,NorTex,Alonso,Martinek,Emporia,Turley,Warma,"Denney, Ashley",Aff,28.3,28.2,27.8,27.9
+1516,uco,1,open,Kansas,Owen,Duhon,Oklahoma,Smith,Zhou,"Stroud, Micheal",Neg,28.5,28.4,28.6,28.8
+1516,uco,1,open,JCCC,Owen,Plott,Texas,Blaker,Dennar,"Baker, Dominique",Aff,28.7,28.8,28.4,28.5
+1516,uco,1,open,KCKCC,Easley,Willett,KSU,Mays,Smith,"Leader, Paul",Neg,28.2,28.4,28.5,28.3
+1516,uco,1,open,UTD,Ballard,Flanagan,Kansas,Fry,Philippe,"Tews, Richard",Aff,28.9,28.8,28.7,28.6
+1516,uco,1,open,UTD,Sen,Yoon,JCCC,Getto,Singleton,"Vega, Matthew",Neg,28.1,27.9,28,28.2
+1516,uco,1,open,UMKC,Schartz,Scott,Texas,Harun,Wilczynski,"Ivanovic, Matea",Neg,28.4,28.3,28.8,28.7
+1516,uco,1,open,UTD,Smalley,Powell,UCO,Hilligoss,Stidham,"Mapes, Megan",Neg,28.3,28.4,28.7,28.9
+1516,uco,1,open,Kansas,Katz,Robb,UTSA,Nation,Villarreal,"Brennan, Eli",Aff,28.5,28.4,28.6,28.3
+1516,uco,1,open,Wichita,O'Donnell,Saunders,UMKC,Mitchell,Kroger,"Kirk, Justin",Aff,29,28.3,28.2,28.1
+1516,liberty,finals,jv,GMU,Lisik,Youngquist,GMU,Clarke,Lowery,BYE,-1,-1,-1,-1
+1516,liberty,octs,nov,Liberty,Daniels,Sargent,Liberty,Harrington,Myers,BYE,-1,-1,-1,-1
+1516,liberty,octs,nov,Liberty,Horning,Wambolt,Army,chen,Kreher,"Paqueo, Niccolo",Aff,-1,-1,-1,-1,"Shook, Lindsey",Aff,-1,-1,-1,-1,"Susko, Peter",Aff,-1,-1,-1,-1
+1516,liberty,semis,jv,GMU,Lisik,Youngquist,WayneState,Anton,Williams,"Kimball, Judd",Aff,-1,-1,-1,-1,"Shook, Lindsey",Neg,-1,-1,-1,-1,"Woodruff, Austin",Aff,-1,-1,-1,-1
+1516,liberty,semis,jv,Vandy,Cohon,Spingarn,GMU,Clarke,Lowery,"Garrett, Lincoln",Neg,-1,-1,-1,-1,"Katsulas, John",Neg,-1,-1,-1,-1,"Young, Kelly",Neg,-1,-1,-1,-1
+1516,liberty,6,nov,Clarion,Callenburg,Sangadzhieva,GMU,Lockhart,Attiliis,"Karr, Adam",Aff,27,27.5,28.5,28
+1516,liberty,6,nov,Liberty,Gulchuk,Thomas,GMU,DuRant,Miller,"Ciak, Jeff",Aff,28.7,27.5,26,28
+1516,liberty,6,nov,UMW,Rao,Rowles,Vandy,Zhang,Link,"Woodward, David-Michael",Neg,28.2,27.8,27.9,28.1
+1516,liberty,6,nov,Liberty,Bishop,Hidalgo,GMU,Shoja,Stankovic,"Hahn, Taylor",Aff,28.6,27.9,27.6,28
+1516,liberty,6,nov,Liberty,Harrington,Myers,Vandy,Carey,Kunte,"Young, Mariah",Neg,27.5,27.6,28.3,28.4
+1516,liberty,6,nov,JMU,Nickoloau,Bergstrom,Army,chen,Kreher,"Steiner, Rebecca",Neg,28,28.1,28.3,28.2
+1516,liberty,6,nov,Liberty,Daniels,Sargent,GMU,Coon,Currier,"Glomb, Alyssa",Neg,28,28.1,28.5,28.3
+1516,liberty,6,nov,Liberty,Horning,Wambolt,Boston,Kang,Yu,"Susko, Peter",Neg,28,28.1,28.4,28.2
+1516,liberty,6,nov,Army,Flores,Minter,Navy,German,McNamara,"Conklin, Elyse",Aff,28.8,28.6,28.5,28.4
+1516,liberty,6,nov,Liberty,Johnson,Nguyen,JMU/Army,Collins,Sowatzke,"Lastovica, Kyle",Neg,27.6,27.4,28.1,28
+1516,liberty,quarters,nov,GMU,Coon,Currier,Liberty,Daniels,Sargent,"Brovero, Adrienne",Aff,-1,-1,-1,-1,"Butt, Neil",Aff,-1,-1,-1,-1,"Glomb, Alyssa",Aff,-1,-1,-1,-1
+1516,liberty,quarters,nov,Liberty,Bishop,Hidalgo,Liberty,Horning,Wambolt,BYE,-1,-1,-1,-1
+1516,liberty,quarters,nov,GMU,DuRant,Miller,Vandy,Carey,Kunte,"Febrizio, Mark",Aff,-1,-1,-1,-1,"Ryan, Nick",Neg,-1,-1,-1,-1,"Trujillo, Aaron",Aff,-1,-1,-1,-1
+1516,liberty,quarters,nov,Liberty,Gulchuk,Thomas,Boston,Kang,Yu,"Paqueo, Niccolo",Aff,-1,-1,-1,-1,"Susko, Peter",Aff,-1,-1,-1,-1,"Young, Mariah",Aff,-1,-1,-1,-1
+1516,liberty,5,nov,GMU,Coon,Currier,Liberty,Harrington,Myers,"Hahn, Taylor",Aff,28.1,28.2,28,27.9
+1516,liberty,5,nov,Vandy,Zhang,Link,Army,Flores,Minter,"Poapst, Jackie",Neg,28.2,29,27.8,27.9
+1516,liberty,5,nov,Boston,Kang,Yu,Liberty,Gulchuk,Thomas,"Paqueo, Niccolo",Neg,27.4,27.3,27.5,27.6
+1516,liberty,5,nov,JMU/Army,Collins,Sowatzke,Liberty,Bishop,Hidalgo,"Young, Mariah",Neg,27.6,27.7,27.8,27.9
+1516,liberty,5,nov,GMU,Shoja,Stankovic,Liberty,Johnson,Nguyen,"Patrice, Joe",Aff,27.8,27.7,27.6,27.5
+1516,liberty,5,nov,GMU,DuRant,Miller,Liberty,Horning,Wambolt,"Bosley, Jacob",Aff,28.1,28.8,28.3,28.6
+1516,liberty,5,nov,Vandy,Carey,Kunte,JMU,Nickoloau,Bergstrom,"O'Gorman, Tom",Aff,29.1,28.8,27.4,27.5
+1516,liberty,5,nov,GMU,Lockhart,Attiliis,Liberty,Daniels,Sargent,"Kimball, Judd",Neg,27.4,27.2,27.3,27.5
+1516,liberty,5,nov,Navy,German,McNamara,UMW,Rao,Rowles,"Call, Hannah",Neg,27.8,27.7,27.9,28
+1516,liberty,5,nov,Army,chen,Kreher,Clarion,Callenburg,Sangadzhieva,"Conklin, Elyse",Aff,28.7,28.8,28.1,28
+1516,liberty,quarters,open,GMU,Brown,Oliver,UMW,Coon,Wimberly,"Awsare, Shree",Aff,-1,-1,-1,-1,"Bobbitt, Mary",Aff,-1,-1,-1,-1,"Steiner, Rebecca",Neg,-1,-1,-1,-1
+1516,liberty,quarters,open,Wake,Cronin,Lopez,GMU,Kaye,Kwon,"Bosley, Jacob",Aff,-1,-1,-1,-1,"Mader, Susan",Neg,-1,-1,-1,-1,"Najor, Bruce",Neg,-1,-1,-1,-1
+1516,liberty,quarters,open,GMU,Mohney,Thomas,Kentucky,Adam,Martin,"Autry, Joseph",Aff,-1,-1,-1,-1,"Hagwood, Ben",Neg,-1,-1,-1,-1,"Milton, Nate",Neg,-1,-1,-1,-1
+1516,liberty,quarters,open,JMU,Cooper,Miller,JMU,Lepp,Wardak,BYE,-1,-1,-1,-1
+1516,liberty,4,nov,GMU,DuRant,Miller,Liberty,Johnson,Nguyen,"Hahn, Taylor",Aff,28.2,28.5,27.4,27.5
+1516,liberty,4,nov,GMU,Coon,Currier,Liberty,Bishop,Hidalgo,"Bosley, Jacob",Aff,28.6,28.2,28.3,28
+1516,liberty,4,nov,GMU,Lockhart,Attiliis,Army,Flores,Minter,"Milton, Nate",Aff,27.9,27.8,27.7,27.6
+1516,liberty,4,nov,GMU,Shoja,Stankovic,Liberty,Daniels,Sargent,"Ciak, Jeff",Neg,27,28.1,27.5,28
+1516,liberty,4,nov,JMU/Army,Collins,Sowatzke,Clarion,Callenburg,Sangadzhieva,"Call, Hannah",Aff,27.8,27.9,27.7,27.6
+1516,liberty,4,nov,Army,chen,Kreher,UMW,Rao,Rowles,"Hadi, Erin",Neg,27.5,27.6,28.3,28.2
+1516,liberty,4,nov,Vandy,Carey,Kunte,Liberty,Gulchuk,Thomas,"Glomb, Alyssa",Aff,28.8,29,27.9,28.3
+1516,liberty,4,nov,JMU,Nickoloau,Bergstrom,Navy,German,McNamara,"Glass, Robert",Neg,27.1,26.8,27.6,27.3
+1516,liberty,4,nov,Vandy,Zhang,Link,Liberty,Horning,Wambolt,"Young, Mariah",Neg,27.4,27.3,27.7,27.8
+1516,liberty,4,nov,Boston,Kang,Yu,Liberty,Harrington,Myers,"Awsare, Shree",Aff,28.4,28.3,28.2,28.1
+1516,liberty,octs,open,GMU,Brown,Oliver,Georgia,Henderson,Marshall,"Bobbitt, Mary",Aff,-1,-1,-1,-1,"Langr, Maddie",Aff,-1,-1,-1,-1,"Steiner, Rebecca",Aff,-1,-1,-1,-1
+1516,liberty,octs,open,UMW,Coon,Wimberly,Wake,Brown,Reddy,"Allen, Sam",Neg,-1,-1,-1,-1,"Jordan, Kathryn",Aff,-1,-1,-1,-1,"Murray, Lindsey",Aff,-1,-1,-1,-1
+1516,liberty,octs,open,Pittsburgh,Piekos,Ramanna,GMU,Kaye,Kwon,"Bosley, Jacob",Neg,-1,-1,-1,-1,"Brovero, Adrienne",Neg,-1,-1,-1,-1,"Najor, Bruce",Neg,-1,-1,-1,-1
+1516,liberty,octs,open,GMU,Mohney,Thomas,Liberty,Dabney,Samuel,"Awsare, Shree",Aff,-1,-1,-1,-1,"Mader, Susan",Aff,-1,-1,-1,-1,"Taylor, Terrell",Aff,-1,-1,-1,-1
+1516,liberty,octs,open,JMU,Cooper,Miller,UMW,Lewis,Stackhouse,"Butt, Neil",Aff,-1,-1,-1,-1,"Ryan, Nick",Aff,-1,-1,-1,-1,"Young, Kelly",Neg,-1,-1,-1,-1
+1516,liberty,octs,open,Pittsburgh,Budny,Chebrolu,JMU,Lepp,Wardak,"Edwards, Meagan",Neg,-1,-1,-1,-1,"Patrice, Joe",Neg,-1,-1,-1,-1,"Poapst, Jackie",Neg,-1,-1,-1,-1
+1516,liberty,octs,open,Kentucky,Adam,Martin,Wake,Dahm,Van-Schenck,"Pasquinelli, Sydney",Aff,-1,-1,-1,-1,"Stewart, Clay",Aff,-1,-1,-1,-1,"Woodruff, Austin",Aff,-1,-1,-1,-1
+1516,liberty,octs,open,Wake,Cronin,Lopez,Wake,Estrada,Tomasi,BYE,-1,-1,-1,-1
+1516,liberty,semis,open,JMU,Cooper,Miller,GMU,Brown,Oliver,"Garrett, Lincoln",Neg,-1,-1,-1,-1,"Hagwood, Ben",Neg,-1,-1,-1,-1,"Holguin, Alex",Aff,-1,-1,-1,-1
+1516,liberty,semis,open,GMU,Kaye,Kwon,Kentucky,Adam,Martin,"Milton, Nate",Neg,-1,-1,-1,-1,"Ryan, Nick",Neg,-1,-1,-1,-1,"Woodruff, Austin",Aff,-1,-1,-1,-1
+1516,liberty,1,nov,Clarion,Callenburg,Sangadzhieva,GMU,Shoja,Stankovic,"Taylor, Terrell",Neg,28,28.2,28.1,28.3
+1516,liberty,1,nov,GMU,Coon,Currier,Liberty,Horning,Wambolt,"Butt, Neil",Aff,28.2,28.5,27,27.3
+1516,liberty,1,nov,Vandy,Zhang,Link,Army,chen,Kreher,"Porter-Stransky, Kirsten",Aff,28.4,28.3,28.1,28.2
+1516,liberty,1,nov,Liberty,Johnson,Nguyen,Navy,German,McNamara,"Kimball, Judd",Aff,27.5,27.4,27.6,27.3
+1516,liberty,1,nov,JMU/Army,Collins,Sowatzke,Vandy,Carey,Kunte,"Ciak, Jeff",Neg,27,28.5,28,29
+1516,liberty,1,nov,Liberty,Bishop,Hidalgo,UMW,Rao,Rowles,"Glomb, Alyssa",Aff,26.7,28.4,28.9,28.2
+1516,liberty,1,nov,JMU,Nickoloau,Bergstrom,Army,Flores,Minter,"Call, Hannah",Aff,27.9,27.8,28.3,28.2
+1516,liberty,1,nov,GMU,DuRant,Miller,Liberty,Harrington,Myers,"Shook, Lindsey",Neg,28,27.4,28.1,27.9
+1516,liberty,1,nov,Boston,Kang,Yu,Liberty,Daniels,Sargent,"Conklin, Elyse",Aff,29.4,28.3,28.2,28.3
+1516,liberty,1,nov,GMU,Lockhart,Attiliis,Liberty,Gulchuk,Thomas,"Brovero, Adrienne",Neg,27.5,27.3,27.2,27
+1516,liberty,3,nov,Liberty,Daniels,Sargent,GMU,DuRant,Miller,"O'Gorman, Danielle",Neg,28.2,28.3,28.4,28.5
+1516,liberty,3,nov,Liberty,Gulchuk,Thomas,GMU,Coon,Currier,"O'Gorman, Tom",Aff,28.9,28.5,28.7,28.4
+1516,liberty,3,nov,Liberty,Harrington,Myers,GMU,Lockhart,Attiliis,"Glomb, Alyssa",Aff,28.2,28.6,27.5,27.7
+1516,liberty,3,nov,Clarion,Callenburg,Sangadzhieva,JMU,Nickoloau,Bergstrom,"Brovero, Adrienne",Aff,27.3,27,27.2,27.5
+1516,liberty,3,nov,Army,Flores,Minter,GMU,Shoja,Stankovic,"Trujillo, Aaron",Neg,27.8,27.5,27.9,28
+1516,liberty,3,nov,UMW,Rao,Rowles,JMU/Army,Collins,Sowatzke,"Katsulas, John",Neg,27.6,27.7,27.9,27.8
+1516,liberty,3,nov,Liberty,Bishop,Hidalgo,Boston,Kang,Yu,"Glass, Robert",Aff,27.7,27.8,27.2,27.1
+1516,liberty,3,nov,Navy,German,McNamara,Army,chen,Kreher,"Milton, Nate",Neg,27.6,27.5,27.9,27.8
+1516,liberty,3,nov,Liberty,Horning,Wambolt,Vandy,Carey,Kunte,"Langr, Maddie",Aff,28.3,28.2,28.1,28
+1516,liberty,3,nov,Liberty,Johnson,Nguyen,Vandy,Zhang,Link,"Conklin, Elyse",Aff,27.4,27.3,27.1,27.2
+1516,liberty,2,nov,Liberty,Horning,Wambolt,Clarion,Callenburg,Sangadzhieva,"Rippetoe, Samantha",Aff,28.2,28.1,27.9,28
+1516,liberty,2,nov,Army,chen,Kreher,GMU,Coon,Currier,"Holguin, Alex",Neg,28.2,28.3,28.6,28.4
+1516,liberty,2,nov,Navy,German,McNamara,GMU,Lockhart,Attiliis,"Sandoz, Sandoz",Neg,27.2,27,28.1,28
+1516,liberty,2,nov,Liberty,Gulchuk,Thomas,Vandy,Zhang,Link,"English, Eric",Aff,28.1,28.2,27.4,27.6
+1516,liberty,2,nov,Liberty,Harrington,Myers,JMU,Nickoloau,Bergstrom,"Rubino, Kathryn",Aff,28.1,28.2,27.8,27.9
+1516,liberty,2,nov,Liberty,Daniels,Sargent,JMU/Army,Collins,Sowatzke,"Langr, Maddie",Aff,28.3,28.2,28.1,28.4
+1516,liberty,2,nov,Army,Flores,Minter,Liberty,Johnson,Nguyen,"Pasquinelli, Sydney",Aff,28.3,28.5,28,28.1
+1516,liberty,2,nov,UMW,Rao,Rowles,GMU,DuRant,Miller,"Milton, Nate",Neg,27.9,28,27.7,28.2
+1516,liberty,2,nov,Vandy,Carey,Kunte,Liberty,Bishop,Hidalgo,"Conklin, Elyse",Neg,28.7,28.5,28.8,28.6
+1516,liberty,2,nov,GMU,Shoja,Stankovic,Boston,Kang,Yu,"Karr, Adam",Neg,27.5,27,28.5,28
+1516,liberty,semis,nov,GMU,Coon,Currier,GMU,DuRant,Miller,BYE,-1,-1,-1,-1
+1516,liberty,semis,nov,Liberty,Bishop,Hidalgo,Liberty,Gulchuk,Thomas,BYE,-1,-1,-1,-1
+1516,liberty,4,jv,Liberty,Washburn,Blow,Boston,Lin,Townsend,"Langr, Maddie",Aff,28.5,28.7,28.4,28.3
+1516,liberty,4,jv,Army,Collins,Watts,Liberty,Robillard,Simmons,"McCleary, Patrick",Aff,27.7,27.3,27.8,Simmons
+1516,liberty,4,jv,Vandy,Cohon,Spingarn,JMU,Cerja,McKnight,"Ryan, Nick",Aff,28.3,28.1,28.2,27.5
+1516,liberty,4,jv,UMW,Dillon,Hogan,GMU,Clarke,Lowery,"Steiner, Rebecca",Neg,29.1,28.9,29.3,29
+1516,liberty,4,jv,Army,Hickey,Matlack,WayneState,Cooper,Branch,"Bleyle, Brittney",Neg,28.1,28.3,28.5,28.2
+1516,liberty,4,jv,Clarion,Sorenson,Verona,WayneState,Anton,Williams,"Taylor, Terrell",Neg,28.7,28.4,28.5,28.3
+1516,liberty,4,jv,GMU,Lisik,Youngquist,Army,Holbrook,Wilby,"Evans, Ignacio",Neg,28.9,27.8,28.8,28.5
+1516,liberty,4,open,Wake,Dahm,Van-Schenck,JMU,Cooper,Miller,"Holguin, Alex",Neg,28.6,28.7,28.9,28.8
+1516,liberty,4,open,Wake,Cronin,Lopez,JMU,Mueller,Yim,"Edwards, Meagan",Aff,28.8,28.9,28.5,28.6
+1516,liberty,4,open,Georgia,Henderson,Marshall,GMU,Brown,Oliver,"Hagwood, Ben",Neg,28.7,28.6,28.9,28.8
+1516,liberty,4,open,Kentucky,Baller,Rivas,WayneState,Husic,Davis,"Lastovica, Kyle",Neg,28.3,28,28.4,28.2
+1516,liberty,4,open,UMW,Lewis,Stackhouse,GMU,Hansen,Massa,"Trujillo, Aaron",Neg,28.6,28.7,28.9,29
+1516,liberty,4,open,Liberty,Dabney,Samuel,GMU,Mohney,Thomas,"Mader, Susan",Neg,28.3,28.2,29,29.1
+1516,liberty,4,open,GMU,Ghanem,Melton,Wake,Brown,Reddy,"Autry, Joseph",Aff,28.8,29,28.7,28.6
+1516,liberty,4,open,Vandy,Kohlmaier,Gill,Army,Lipksy,Silverman,"Paqueo, Niccolo",Aff,27.6,27.7,28,27.5
+1516,liberty,4,open,Kentucky,Adam,Martin,JMU,Deihl,Perez,"Allen, Sam",Aff,28.7,28.8,28.6,28.5
+1516,liberty,4,open,Wake,Estrada,Tomasi,Vandy,Shirkhodaie,Engel,"Woodward, David-Michael",Aff,28.6,28.7,28.4,28.5
+1516,liberty,4,open,Liberty,Crane,Schiess,JMU,Lepp,Wardak,"Kimball, Judd",Neg,28.3,28.5,28.7,28.4
+1516,liberty,4,open,Wake,Culp,Ning,UMW,Coon,Wimberly,"Jordan, Kathryn",Neg,28.8,28.7,28.9,29
+1516,liberty,4,open,Wake,Shapiro,Sims,JMU,Gamboa,Thies,"O'Gorman, Tom",Aff,28.4,28.8,28.2,28.5
+1516,liberty,4,open,Pittsburgh,Budny,Chebrolu,Army,Gulbis,Bryant,"Conklin, Elyse",Aff,29,29.1,27.9,28.1
+1516,liberty,4,open,Pittsburgh,Katz,Riano,JMU,Conroy,Montiero,"Karr, Adam",Neg,29.5,28,30,29
+1516,liberty,4,open,GMU,Kaye,Kwon,Pittsburgh,Piekos,Ramanna,"Febrizio, Mark",Aff,28.8,28.7,28.6,28.5
+1516,liberty,5,open,JMU,Cooper,Miller,Pittsburgh,Piekos,Ramanna,"Langr, Maddie",Aff,28.8,28.9,28.7,28.6
+1516,liberty,5,open,JMU,Mueller,Yim,Navy,Roach,Mueller,"Woodward, David-Michael",Neg,27.9,28.1,28.4,28
+1516,liberty,5,open,GMU,Hansen,Massa,Wake,Cronin,Lopez,"Stewart, Clay",Neg,28.5,28.3,29.1,28.6
+1516,liberty,5,open,UMW,Lewis,Stackhouse,Army,Lipksy,Silverman,"Murray, Lindsey",Aff,28.7,28.8,28.4,28.3
+1516,liberty,5,open,UMW,Coon,Wimberly,GMU,Brown,Oliver,"Steiner, Rebecca",Neg,29.1,29,29.2,29.3
+1516,liberty,5,open,Georgia,Henderson,Marshall,Wake,Brown,Reddy,"Jordan, Kathryn",Neg,29.2,29.1,29.5,29.3
+1516,liberty,5,open,Kentucky,Adam,Martin,GMU,Mohney,Thomas,"Milton, Nate",Aff,29.1,29.2,29,28.9
+1516,liberty,5,open,Kentucky,Baller,Rivas,Vandy,Kohlmaier,Gill,"Awsare, Shree",Aff,28.5,27.9,27.6,27.5
+1516,liberty,5,open,JMU,Conroy,Montiero,Army,Gulbis,Bryant,"Glass, Robert",Aff,28,28.1,26.8,26.9
+1516,liberty,5,open,Liberty,Dabney,Samuel,Wake,Dahm,Van-Schenck,"Pasquinelli, Sydney",Aff,28.3,28.2,27.9,28
+1516,liberty,5,open,GMU,Kaye,Kwon,Wake,Estrada,Tomasi,"Nagy, John",Aff,28.6,28.7,28.5,28.4
+1516,liberty,5,open,JMU,Deihl,Perez,Liberty,Crane,Schiess,"McCleary, Patrick",Neg,27.8,27.7,28.2,28.3
+1516,liberty,5,open,GMU,Ghanem,Melton,Wake,Culp,Ning,"Rubino, Kathryn",Neg,28.1,28.4,28.2,28.6
+1516,liberty,5,open,WayneState,Husic,Davis,Wake,Shapiro,Sims,"Susko, Peter",Aff,28.5,28.4,28.2,28.3
+1516,liberty,5,open,JMU,Lepp,Wardak,Pittsburgh,Budny,Chebrolu,"Lastovica, Kyle",Aff,28.4,28.1,28.3,28.2
+1516,liberty,5,open,Pittsburgh,Katz,Riano,Vandy,Shirkhodaie,Engel,"Taylor, Terrell",Aff,28.5,28.2,28,28.3
+1516,liberty,5,jv,WayneState,Anton,Williams,Army,Holbrook,Wilby,"Bleyle, Brittney",Aff,28.9,28.8,28.7,28.4
+1516,liberty,5,jv,Liberty,Washburn,Blow,Clarion,Sorenson,Verona,"Wirth, Andrew",Aff,27.4,27.3,27.2,27.1
+1516,liberty,5,jv,WayneState,Kornosky,Panek,UMW,Dillon,Hogan,"Woodruff, Austin",Neg,28.6,28.7,28.5,28.8
+1516,liberty,5,jv,Liberty,Robillard,Simmons,Army,Hickey,Matlack,"English, Eric",Neg,29.5,0.0,28.3,28.2
+1516,liberty,5,jv,GMU,Lisik,Youngquist,Army,Collins,Watts,"Allen, Sam",Aff,28.1,28.2,27.8,27.5
+1516,liberty,5,jv,GMU,Clarke,Lowery,Vandy,Cohon,Spingarn,"Febrizio, Mark",Neg,28.1,28,28.4,28.2
+1516,liberty,5,jv,JMU,Cerja,McKnight,Boston,Lin,Townsend,"Holguin, Alex",Aff,28.6,29.3,28.5,28.3
+1516,liberty,quarters,jv,JMU,Cerja,McKnight,GMU,Lisik,Youngquist,"Evans, Ignacio",Neg,-1,-1,-1,-1,"Glass, Robert",Neg,-1,-1,-1,-1,"Rubino, Kathryn",Aff,-1,-1,-1,-1
+1516,liberty,quarters,jv,Liberty,Washburn,Blow,Vandy,Cohon,Spingarn,"Kimball, Judd",Neg,-1,-1,-1,-1,"McCleary, Patrick",Neg,-1,-1,-1,-1,"Wirth, Andrew",Neg,-1,-1,-1,-1
+1516,liberty,quarters,jv,GMU,Clarke,Lowery,UMW,Dillon,Hogan,"Garrett, Lincoln",Aff,-1,-1,-1,-1,"Hadi, Erin",Aff,-1,-1,-1,-1,"Hagwood, Ben",Aff,-1,-1,-1,-1
+1516,liberty,6,open,Wake,Dahm,Van-Schenck,JMU,Conroy,Montiero,"Thomas, Troi",Aff,28.8,28.9,28.7,28.6
+1516,liberty,6,open,Army,Lipksy,Silverman,JMU,Gamboa,Thies,"Call, Hannah",Aff,27.9,27.7,28,27.8
+1516,liberty,6,open,GMU,Brown,Oliver,Kentucky,Adam,Martin,"Glass, Robert",Aff,29.2,29.3,28.9,28.7
+1516,liberty,6,open,GMU,Mohney,Thomas,JMU,Cooper,Miller,"Allen, Sam",Neg,28.8,28.5,28.6,28.9
+1516,liberty,6,open,Wake,Brown,Reddy,UMW,Coon,Wimberly,"Woodruff, Austin",Aff,28.9,29,28.7,28.4
+1516,liberty,6,open,Vandy,Shirkhodaie,Engel,JMU,Deihl,Perez,"Wirth, Andrew",Aff,28.1,28.4,28.2,28.3
+1516,liberty,6,open,Army,Gulbis,Bryant,GMU,Hansen,Massa,"Awsare, Shree",Neg,26,26.9,27.3,27.9
+1516,liberty,6,open,Pittsburgh,Piekos,Ramanna,Liberty,Dabney,Samuel,"Bosley, Jacob",Neg,28.5,28.6,28.7,28.3
+1516,liberty,6,open,Vandy,Kohlmaier,Gill,Georgia,Henderson,Marshall,"Poapst, Jackie",Neg,27.9,27.8,28.5,28.4
+1516,liberty,6,open,Wake,Estrada,Tomasi,WayneState,Husic,Davis,"Kimball, Judd",Aff,28.7,28.9,28.8,28
+1516,liberty,6,open,Liberty,Crane,Schiess,GMU,Kaye,Kwon,"Rubino, Kathryn",Neg,28.5,28.1,28.4,28.7
+1516,liberty,6,open,Wake,Culp,Ning,JMU,Lepp,Wardak,"Holguin, Alex",Neg,28.5,28.4,29,28.9
+1516,liberty,6,open,Wake,Shapiro,Sims,Kentucky,Baller,Rivas,"Stewart, Clay",Neg,28.3,28,28.6,28.2
+1516,liberty,6,open,Pittsburgh,Budny,Chebrolu,UMW,Lewis,Stackhouse,"Febrizio, Mark",Neg,28.7,28.8,29,28.9
+1516,liberty,6,open,Navy,Roach,Mueller,GMU,Ghanem,Melton,"Hagwood, Ben",Aff,28.6,28.7,28,28.1
+1516,liberty,6,open,Wake,Cronin,Lopez,Pittsburgh,Katz,Riano,"Bobbitt, Mary",Aff,28.7,29,28.5,28.4
+1516,liberty,6,jv,Army,Collins,Watts,WayneState,Kornosky,Panek,"Nagy, Adrianne",Aff,27.8,27.6,27.4,27
+1516,liberty,6,jv,Vandy,Cohon,Spingarn,Liberty,Washburn,Blow,"Paqueo, Niccolo",Neg,27.4,27.2,27.3,27.5
+1516,liberty,6,jv,Army,Holbrook,Wilby,JMU,Cerja,McKnight,"Newman, Jennfer",Neg,27,27.5,28.8,28.5
+1516,liberty,6,jv,UMW,Dillon,Hogan,WayneState,Anton,Williams,"Milton, Nate",Neg,27.7,27.6,27.8,27.9
+1516,liberty,6,jv,Army,Hickey,Matlack,GMU,Lisik,Youngquist,"Shook, Lindsey",Neg,27.4,27.5,27.8,27.7
+1516,liberty,6,jv,Clarion,Sorenson,Verona,Liberty,Robillard,Simmons,"Rippetoe, Samantha",Aff,28,28.1,28.3,Simmons
+1516,liberty,6,jv,Boston,Lin,Townsend,WayneState,Cooper,Branch,"Trujillo, Aaron",Neg,28.3,28.4,28.6,28.5
+1516,liberty,finals,open,Kentucky,Adam,Martin,GMU,Brown,Oliver,"Autry, Joseph",Aff,-1,-1,-1,-1,"Milton, Nate",Neg,-1,-1,-1,-1,"Shook, Lindsey",Aff,-1,-1,-1,-1
+1516,liberty,2,jv,GMU,Clarke,Lowery,Army,Hickey,Matlack,"Wirth, Andrew",Aff,28.3,28.4,27,27.1
+1516,liberty,2,jv,WayneState,Anton,Williams,Liberty,Robillard,Simmons,"Mader, Susan",Aff,28.4,28.6,27.7,28.5
+1516,liberty,2,jv,JMU,Cerja,McKnight,Army,Collins,Watts,"Edwards, Meagan",Aff,29,29.1,28.6,28.7
+1516,liberty,2,jv,Army,Holbrook,Wilby,Boston,Lin,Townsend,"Lastovica, Kyle",Neg,27.1,27,28.1,28
+1516,liberty,2,jv,UMW,Dillon,Hogan,GMU,Lisik,Youngquist,"Hadi, Erin",Aff,28.5,28.6,28.4,28.3
+1516,liberty,2,jv,Liberty,Washburn,Blow,WayneState,Cooper,Branch,"Glomb, Alyssa",Aff,28.5,28.4,28.1,27.7
+1516,liberty,2,jv,WayneState,Kornosky,Panek,Vandy,Cohon,Spingarn,"Murray, Lindsey",Neg,28.1,28,28.4,28.3
+1516,liberty,2,open,JMU,Cooper,Miller,Wake,Estrada,Tomasi,"Taylor, Terrell",Aff,28.8,28.7,28.6,28.5
+1516,liberty,2,open,GMU,Hansen,Massa,JMU,Gamboa,Thies,"Steiner, Rebecca",Aff,28.2,28.3,28.1,28
+1516,liberty,2,open,Pittsburgh,Budny,Chebrolu,UMW,Coon,Wimberly,"Bobbitt, Mary",Neg,28.8,28.7,28.9,28.6
+1516,liberty,2,open,Vandy,Shirkhodaie,Engel,Army,Lipksy,Silverman,"Jordan, Kathryn",Aff,29.1,29,28.9,29.2
+1516,liberty,2,open,JMU,Conroy,Montiero,Wake,Brown,Reddy,"Stewart, Clay",Neg,28.3,28.1,28.6,28.7
+1516,liberty,2,open,JMU,Deihl,Perez,Navy,Roach,Mueller,"Ryan, Nick",Aff,27.8,27.5,27.7,27.6
+1516,liberty,2,open,Liberty,Crane,Schiess,Kentucky,Baller,Rivas,"Glass, Robert",Aff,28.9,28.9,27.7,27.8
+1516,liberty,2,open,JMU,Lepp,Wardak,Kentucky,Adam,Martin,"O'Gorman, Danielle",Neg,29,28.8,29.1,28.9
+1516,liberty,2,open,Wake,Dahm,Van-Schenck,GMU,Ghanem,Melton,"Woodruff, Austin",Aff,29,28.7,28.3,28.5
+1516,liberty,2,open,GMU,Kaye,Kwon,Wake,Cronin,Lopez,"Bosley, Jacob",Aff,28.7,28.9,28.8,28.6
+1516,liberty,2,open,Wake,Shapiro,Sims,Georgia,Henderson,Marshall,"Bleyle, Brittney",Neg,28.3,28.2,28.5,28.4
+1516,liberty,2,open,JMU,Mueller,Yim,Wake,Culp,Ning,"McCleary, Patrick",Neg,27.5,27.4,27.7,27.8
+1516,liberty,2,open,Liberty,Dabney,Samuel,Pittsburgh,Katz,Riano,"Young, Kelly",Aff,28.5,28.3,27.5,28
+1516,liberty,2,open,Vandy,Kohlmaier,Gill,Pittsburgh,Piekos,Ramanna,"Woodward, David-Michael",Neg,27.8,27.9,28.6,28.5
+1516,liberty,2,open,UMW,Lewis,Stackhouse,Army,Gulbis,Bryant,"Call, Hannah",Aff,28.6,28.2,27.6,28
+1516,liberty,2,open,WayneState,Husic,Davis,GMU,Mohney,Thomas,"Patrice, Joe",Neg,29.2,29.4,29.3,29.5
+1516,liberty,3,open,JMU,Cooper,Miller,GMU,Kaye,Kwon,"Patrice, Joe",Neg,29,29.2,29.1,29.5
+1516,liberty,3,open,JMU,Mueller,Yim,Vandy,Kohlmaier,Gill,"Watson, Hays",Aff,28.4,28.3,28,28.2
+1516,liberty,3,open,Pittsburgh,Piekos,Ramanna,Georgia,Henderson,Marshall,"Woodruff, Austin",Aff,28.7,28.8,28.3,28.2
+1516,liberty,3,open,JMU,Lepp,Wardak,Kentucky,Baller,Rivas,"Call, Hannah",Aff,28.9,28.6,28.7,28.5
+1516,liberty,3,open,Wake,Brown,Reddy,UMW,Lewis,Stackhouse,"Awsare, Shree",Aff,28.2,28.5,28.1,27.9
+1516,liberty,3,open,JMU,Deihl,Perez,GMU,Ghanem,Melton,"Holguin, Alex",Aff,28.8,28.6,28.5,28.7
+1516,liberty,3,open,UMW,Coon,Wimberly,Liberty,Dabney,Samuel,"Paqueo, Niccolo",Aff,28.4,28.3,28.2,27.7
+1516,liberty,3,open,GMU,Hansen,Massa,Kentucky,Adam,Martin,"Autry, Joseph",Neg,28.5,28.6,28.7,28.8
+1516,liberty,3,open,GMU,Brown,Oliver,Wake,Dahm,Van-Schenck,"Evans, Ignacio",Aff,29.2,29,28.8,28.7
+1516,liberty,3,open,Army,Gulbis,Bryant,Wake,Estrada,Tomasi,"Mader, Susan",Neg,27.2,27.3,28.9,28.7
+1516,liberty,3,open,Vandy,Shirkhodaie,Engel,Liberty,Crane,Schiess,"Najor, Bruce",Neg,28.4,28.3,28.6,28.7
+1516,liberty,3,open,JMU,Gamboa,Thies,Wake,Cronin,Lopez,"Thomas, Troi",Neg,28.6,28.5,28.9,28.8
+1516,liberty,3,open,GMU,Mohney,Thomas,Wake,Culp,Ning,"Nagy, John",Aff,28.5,28.4,28.2,28.3
+1516,liberty,3,open,Navy,Roach,Mueller,Wake,Shapiro,Sims,"Lastovica, Kyle",Neg,27.7,27.6,27.8,27.9
+1516,liberty,3,open,JMU,Conroy,Montiero,Pittsburgh,Budny,Chebrolu,"Taylor, Terrell",Neg,28.2,28.3,28.8,28.6
+1516,liberty,3,open,Army,Lipksy,Silverman,Pittsburgh,Katz,Riano,"Woodward, David-Michael",Neg,28.7,28.4,28.5,28.3
+1516,liberty,3,jv,WayneState,Anton,Williams,Vandy,Cohon,Spingarn,"Jordan, Kathryn",Neg,28.8,28.9,29,28.7
+1516,liberty,3,jv,WayneState,Cooper,Branch,GMU,Lisik,Youngquist,"Stewart, Clay",Neg,27.9,28.3,28.4,28.2
+1516,liberty,3,jv,JMU,Cerja,McKnight,Liberty,Washburn,Blow,"Steiner, Rebecca",Aff,28.3,28.1,28.2,28
+1516,liberty,3,jv,WayneState,Kornosky,Panek,Army,Hickey,Matlack,"Susko, Peter",Neg,27.7,27.9,28.1,27.8
+1516,liberty,3,jv,Boston,Lin,Townsend,Army,Collins,Watts,"Febrizio, Mark",Aff,28.2,28.1,27.8,28
+1516,liberty,3,jv,Army,Holbrook,Wilby,UMW,Dillon,Hogan,"Murray, Lindsey",Aff,28,27.9,27.7,27.8
+1516,liberty,3,jv,GMU,Clarke,Lowery,Clarion,Sorenson,Verona,"Bosley, Jacob",Aff,28.4,28.3,27.9,27.7
+1516,liberty,1,jv,Army,Collins,Watts,Liberty,Washburn,Blow,"English, Eric",Aff,28,27.8,27.6,28.1
+1516,liberty,1,jv,Liberty,Robillard,Simmons,GMU,Clarke,Lowery,"Pasquinelli, Sydney",Neg,28.9,28.7,29.1,28.8
+1516,liberty,1,jv,GMU,Lisik,Youngquist,JMU,Cerja,McKnight,"Wirth, Andrew",Aff,28.4,27.7,27.9,27.8
+1516,liberty,1,jv,Boston,Lin,Townsend,UMW,Dillon,Hogan,"Bobbitt, Mary",Neg,28.2,28.5,28.4,28.3
+1516,liberty,1,jv,WayneState,Cooper,Branch,Army,Holbrook,Wilby,"Holguin, Alex",Neg,27.8,28.2,28.3,27.9
+1516,liberty,1,jv,Clarion,Sorenson,Verona,WayneState,Kornosky,Panek,"Steiner, Rebecca",Aff,27.9,27.5,27.7,27.8
+1516,liberty,1,jv,Army,Hickey,Matlack,WayneState,Anton,Williams,"Glass, Robert",Neg,27,27.5,28.3,29
+1516,liberty,1,open,Kentucky,Adam,Martin,Wake,Shapiro,Sims,"Nagy, Adrianne",Aff,28.8,29,28.2,28.4
+1516,liberty,1,open,GMU,Mohney,Thomas,Vandy,Shirkhodaie,Engel,"Young, Kelly",Aff,28.9,28.8,27.6,27.5
+1516,liberty,1,open,JMU,Gamboa,Thies,Liberty,Dabney,Samuel,"Patrice, Joe",Neg,28,28.1,28.3,28.2
+1516,liberty,1,open,UMW,Coon,Wimberly,WayneState,Husic,Davis,"Rippetoe, Samantha",Aff,28.5,28.1,28.3,28.2
+1516,liberty,1,open,Wake,Brown,Reddy,Pittsburgh,Budny,Chebrolu,"Karr, Adam",Neg,28,29.5,28.5,29
+1516,liberty,1,open,Wake,Cronin,Lopez,JMU,Lepp,Wardak,"Najor, Bruce",Neg,28.7,28.6,28.8,28.5
+1516,liberty,1,open,Pittsburgh,Piekos,Ramanna,UMW,Lewis,Stackhouse,"Jordan, Kathryn",Aff,29.2,29.3,29,28.9
+1516,liberty,1,open,GMU,Ghanem,Melton,Liberty,Crane,Schiess,"Mader, Susan",Aff,28,28.8,28.6,28.4
+1516,liberty,1,open,Kentucky,Baller,Rivas,JMU,Conroy,Montiero,"Rubino, Kathryn",Aff,28.6,28.1,28,27.9
+1516,liberty,1,open,GMU,Brown,Oliver,JMU,Deihl,Perez,"Langr, Maddie",Aff,28.4,28.3,28.1,28.2
+1516,liberty,1,open,Wake,Culp,Ning,Vandy,Kohlmaier,Gill,"Walker, Wesley",Aff,28.3,28.2,27.7,27.9
+1516,liberty,1,open,Wake,Estrada,Tomasi,GMU,Hansen,Massa,"Bleyle, Brittney",Aff,28.4,28.7,28.5,28.3
+1516,liberty,1,open,Navy,Roach,Mueller,GMU,Kaye,Kwon,"Stewart, Clay",Neg,28.2,28,28.6,29.3
+1516,liberty,1,open,Army,Lipksy,Silverman,Wake,Dahm,Van-Schenck,"Bosley, Jacob",Neg,27.8,27.7,28.5,28.4
+1516,liberty,1,open,Pittsburgh,Katz,Riano,JMU,Cooper,Miller,"Poapst, Jackie",Neg,27.9,27.8,28,28.2
+1516,liberty,1,open,Georgia,Henderson,Marshall,JMU,Mueller,Yim,"O'Gorman, Danielle",Aff,28.6,28.7,28.5,28.4
+1516,liberty,finals,nov,Liberty,Bishop,Hidalgo,GMU,Coon,Currier,"Bosley, Jacob",Aff,-1,-1,-1,-1,"Glomb, Alyssa",Neg,-1,-1,-1,-1,"Shook, Lindsey",Neg,-1,-1,-1,-1
+1516,rochester,1,open,Binghamton,Smith,White,Cornell,Luciani,Tilmes,"Yahom, Jefferson",Neg,28.8,28.3,28.2,28.7
+1516,rochester,1,open,Binghamton,Herrera,Schultz,Monmouth,Doud,Borges,"Scher, Adam",Aff,29,28.3,28.5,28.4
+1516,rochester,1,open,Cornell,Knight,Kundu,NYU,Knight,Xu,"Merkle, David",Aff,27.9,27.7,27.8,27.1
+1516,rochester,1,open,USMA,Watts,Collins,Binghamton,McClure,Tenorio,"Roman, Daniel",Aff,28.4,28.8,28,28.5
+1516,rochester,1,open,Binghamton,Folkerts,Buttgereit,NYU,Andreyeva,Panchanadam,"Brown, Whitney",Neg,27.5,28,28.3,28.5
+1516,rochester,3,open,NYU,Knight,Xu,USMA,Matlack,Hickey,"Leeson-Schatz, Joe",Neg,28,27.4,27.9,28.1
+1516,rochester,3,open,NYU,Andreyeva,Panchanadam,Binghamton,Smith,White,"Roberts, Jessica",Neg,27,27.5,30,28
+1516,rochester,3,open,Cornell,Knight,Kundu,Binghamton,Herrera,Schultz,"Roman, Daniel",Aff,29.4,29.2,29.3,28.7
+1516,rochester,3,open,Monmouth,Doud,Borges,Binghamton,Folkerts,Buttgereit,"Merkle, David",Neg,27.6,27.8,27.7,28
+1516,rochester,3,open,Cornell,Luciani,Tilmes,USMA,Watts,Collins,"Ruffin, Ameena",Aff,28.3,28.5,27,27.1
+1516,rochester,2,open,NYU,Andreyeva,Panchanadam,USMA,Matlack,Hickey,"Cherry, Kaine",Aff,28.7,28.8,28.4,28.5
+1516,rochester,2,open,NYU,Knight,Xu,Binghamton,Smith,White,"Brown, Whitney",Neg,27.9,27.7,28.7,28.3
+1516,rochester,2,open,Binghamton,McClure,Tenorio,Cornell,Knight,Kundu,"Weddington, Tommye",Neg,27.5,27.4,28,28.3
+1516,rochester,2,open,Monmouth,Doud,Borges,USMA,Watts,Collins,"Glass, Rob",Neg,27.2,29,28.4,28.6
+1516,rochester,2,open,Cornell,Luciani,Tilmes,Binghamton,Folkerts,Buttgereit,"Roberts, Jessica",Aff,30,29,28,27
+1516,rochester,6,open,USMA,Matlack,Hickey,Binghamton,Folkerts,Buttgereit,"Gunn, John",Neg,28.5,28.3,28.4,28.6
+1516,rochester,6,open,NYU,Andreyeva,Panchanadam,Binghamton,McClure,Tenorio,"Scher, Adam",Neg,27.9,28,27.8,27.6
+1516,rochester,6,open,Monmouth,Doud,Borges,Cornell,Knight,Kundu,"Brown, Whitney",Neg,27.9,28.1,28.2,28.5
+1516,rochester,6,open,Binghamton,Herrera,Schultz,Cornell,Luciani,Tilmes,"Merkle, David",Neg,28.3,28.2,28,28.4
+1516,rochester,6,open,Binghamton,Smith,White,USMA,Watts,Collins,"Weddington, Tommye",Aff,28.7,28.6,28.5,28.4
+1516,rochester,quarters,open,Cornell,Knight,Kundu,USMA,Watts,Collins,"Weddington, Tommye",Neg,-1,-1,-1,-1,"Merkle, David",Aff,-1,-1,-1,-1,"Yahom, Jefferson",Aff,-1,-1,-1,-1
+1516,rochester,5,open,Cornell,Luciani,Tilmes,USMA,Matlack,Hickey,"Roman, Daniel",Neg,28.5,28.4,28.7,28.8
+1516,rochester,5,open,USMA,Watts,Collins,NYU,Andreyeva,Panchanadam,"Thomson, Scott",Aff,28,27.5,27.6,27
+1516,rochester,5,open,Cornell,Knight,Kundu,Binghamton,Smith,White,"Cherry, Kaine",Neg,28.5,28.3,28.7,28
+1516,rochester,5,open,Binghamton,McClure,Tenorio,Monmouth,Doud,Borges,"Gunn, John",Neg,27.5,27.4,27.7,27.8
+1516,rochester,5,open,NYU,Knight,Xu,Binghamton,Herrera,Schultz,"Thoma, Austin",Neg,27.8,27,28.5,25
+1516,rochester,4,open,USMA,Matlack,Hickey,Binghamton,McClure,Tenorio,"Thoma, Austin",Aff,28.3,28.1,27.9,27.8
+1516,rochester,4,open,Binghamton,Folkerts,Buttgereit,NYU,Knight,Xu,"Scher, Adam",Aff,28.5,28.6,28.4,28.3
+1516,rochester,4,open,USMA,Watts,Collins,Cornell,Knight,Kundu,"Roberts, Jessica",Aff,28.5,29,28,27
+1516,rochester,4,open,Binghamton,Herrera,Schultz,NYU,Andreyeva,Panchanadam,"Gunn, John",Neg,28.7,28.3,28.1,28.5
+1516,rochester,4,open,Binghamton,Smith,White,Monmouth,Doud,Borges,"Baker, Will",Aff,29.3,28.5,28,28.1
+1516,rochester,quarters,nov,Binghamton,Martin,Heed,Binghamton,Gopalakrishnan,Boyes,BYE,-1,-1,-1,-1
+1516,rochester,quarters,nov,NewSchool,Garrick,Swihart,NYU,Cheng,Xu,"Ruffin, Ameena",Aff,-1,-1,-1,-1,"Leeson-Schatz, Joe",Neg,-1,-1,-1,-1,"Sehgal, Dhruv",Neg,-1,-1,-1,-1
+1516,rochester,quarters,nov,NYU,Lloyd,Raveneau,Binghamton,Malinverni,Velez,"Smith, Brad",Aff,-1,-1,-1,-1,"Glass, Rob",Aff,-1,-1,-1,-1,"Revelins, Armands",Aff,-1,-1,-1,-1
+1516,rochester,quarters,nov,Cornell,Safer,Salih,Broome,Davis,Kelly,"Baker, Will",Aff,-1,-1,-1,-1,"Dellamore, John",Neg,-1,-1,-1,-1,"Zhan, Bobby",Aff,-1,-1,-1,-1
+1516,rochester,finals,nov,Cornell,Safer,Salih,Binghamton,Martin,Heed,"Scher, Adam",Aff,-1,-1,-1,-1,"Fletcher, Sarah",Aff,-1,-1,-1,-1,"Weddington, Tommye",Aff,-1,-1,-1,-1
+1516,rochester,semis,nov,NYU,Cheng,Xu,Binghamton,Martin,Heed,"Gunn, John",Neg,-1,-1,-1,-1,"Hagen, Cecilia",Neg,-1,-1,-1,-1,"Thoma, Austin",Aff,-1,-1,-1,-1
+1516,rochester,semis,nov,NYU,Lloyd,Raveneau,Cornell,Safer,Salih,"Leeson-Schatz, Joe",Aff,-1,-1,-1,-1,"Glass, Rob",Neg,-1,-1,-1,-1,"Scher, Adam",Neg,-1,-1,-1,-1
+1516,rochester,semis,open,Binghamton,Smith,White,Cornell,Knight,Kundu,"Miller, Gordie",Neg,-1,-1,-1,-1,"Fletcher, Brady",Neg,-1,-1,-1,-1,"Yahom, Jefferson",Aff,-1,-1,-1,-1
+1516,rochester,semis,open,USMA,Matlack,Hickey,Cornell,Luciani,Tilmes,"Leeson-Schatz, Joe",Neg,-1,-1,-1,-1,"Glass, Rob",Neg,-1,-1,-1,-1,"Merkle, David",Neg,-1,-1,-1,-1
+1516,rochester,1,nov,Monmouth,Lee,Skelton,Binghamton,Gopalakrishnan,Boyes,"Weddington, Tommye",Neg,27.6,27.7,27.9,27.8
+1516,rochester,1,nov,Monmouth,Diaz,Daly,NYU,Lloyd,Raveneau,"Thoma, Austin",Neg,27.1,27,27.9,28
+1516,rochester,1,nov,Binghamton,Ello,Haugen,Monmouth,Kimmel,Laster,"Dellamore, John",Neg,28,28.1,28,28.6
+1516,rochester,1,nov,NYU,Hon,Wong,Binghamton,Malinverni,Velez,"Glass, Rob",Aff,27.6,27.8,27.2,27.4
+1516,rochester,1,nov,Monmouth,Allsopp,Patel,Binghamton,Martin,Heed,"Revelins, Armands",Neg,27.5,27.2,28.1,28
+1516,rochester,1,nov,Monmouth,Rashid,Soto,NYU,Pavlov,Szczechowski,"Ruffin, Ameena",Neg,27,26.7,27.6,27.5
+1516,rochester,1,nov,Broome,Davis,Kelly,Monmouth,Hawke,Saenger,"Baker, Will",Aff,27.2,28.6,27.5,27.9
+1516,rochester,1,nov,Rochester,Mathunjwa,Rutagarama,Monmouth,Mcgigley,Fano,"Zhan, Bobby",Aff,28.7,29.2,28,28.1
+1516,rochester,1,nov,NYU,Luo,Dalton,Monmouth,Patel,Toto,"Sehgal, Dhruv",Neg,28.3,28.4,28.6,28.5
+1516,rochester,1,nov,NYU,Cheng,Xu,Monmouth,Littig,Ryan,"Hagen, Cecilia",Aff,27.5,28,27.1,27
+1516,rochester,1,nov,Cornell,Safer,Salih,Monmouth,Wilker,Tulaslic,"Cherry, Kaine",Aff,28.4,28.5,27.8,28
+1516,rochester,1,nov,NewSchool,Garrick,Swihart,NYU,Moity,Song,"Smith, Brad",Aff,28,27.5,27,27.5
+1516,rochester,octs,nov,Cornell,Safer,Salih,NYU,Luo,Dalton,"Patten, Joe",Aff,-1,-1,-1,-1,"Maynard, Dylan",Aff,-1,-1,-1,-1,"Roman, Daniel",Aff,-1,-1,-1,-1
+1516,rochester,octs,nov,Binghamton,Gopalakrishnan,Boyes,NYU,Hon,Wong,"Smith, Brad",Aff,-1,-1,-1,-1,"Glass, Rob",Aff,-1,-1,-1,-1,"Revelins, Armands",Aff,-1,-1,-1,-1
+1516,rochester,octs,nov,NYU,Cheng,Xu,Binghamton,Ello,Haugen,"Fletcher, Sarah",Aff,-1,-1,-1,-1,"Fletcher, Brady",Aff,-1,-1,-1,-1,"Miller, Gordie",Aff,-1,-1,-1,-1
+1516,rochester,octs,nov,Binghamton,Malinverni,Velez,Monmouth,Patel,Toto,"Dellamore, John",Aff,-1,-1,-1,-1,"Baker, Will",Aff,-1,-1,-1,-1,"Zhan, Bobby",Aff,-1,-1,-1,-1
+1516,rochester,3,nov,NYU,Pavlov,Szczechowski,Monmouth,Allsopp,Patel,"Gunn, John",Aff,27.7,27.8,27.5,27.6
+1516,rochester,3,nov,NYU,Moity,Song,Monmouth,Sibley,Worrall,"Glass, Rob",Neg,26.8,26.5,27,26.9
+1516,rochester,3,nov,NYU,Hon,Wong,Monmouth,Littig,Ryan,"Thoma, Austin",Aff,28.1,28.2,27,27.1
+1516,rochester,3,nov,Monmouth,Patel,Toto,Binghamton,Ello,Haugen,"Brown, Whitney",Aff,27.9,27.8,28.1,28
+1516,rochester,3,nov,Broome,Davis,Kelly,Monmouth,Wilker,Tulaslic,"Sehgal, Dhruv",Aff,28.5,28.6,28,27.8
+1516,rochester,3,nov,Monmouth,Mcgigley,Fano,NewSchool,Garrick,Swihart,"Baker, Will",Neg,27.1,27,26.7,27.6
+1516,rochester,3,nov,Monmouth,Diaz,Daly,NYU,Cheng,Xu,"Keenan, V",Neg,27.4,27.5,27.9,27.3
+1516,rochester,3,nov,Monmouth,Kimmel,Laster,NYU,Lloyd,Raveneau,"Fletcher, Sarah",Neg,27.1,28.4,28.5,28.8
+1516,rochester,3,nov,Monmouth,Rashid,Soto,Cornell,Safer,Salih,"Weddington, Tommye",Neg,27.6,27.5,27.9,27.8
+1516,rochester,3,nov,Monmouth,Hawke,Saenger,Binghamton,Malinverni,Velez,"Cherry, Kaine",Neg,28.3,28.4,28.7,28.5
+1516,rochester,3,nov,Binghamton,Martin,Heed,Monmouth,Lee,Skelton,"Dellamore, John",Aff,27.9,28.2,28,28
+1516,rochester,3,nov,Rochester,Mathunjwa,Rutagarama,NYU,Luo,Dalton,"Thomson, Scott",Neg,25,25,26.5,26.5
+1516,rochester,2,nov,Monmouth,Wilker,Tulaslic,NYU,Hon,Wong,"Merkle, David",Neg,27,27.1,27.8,27.7
+1516,rochester,2,nov,Monmouth,Littig,Ryan,Broome,Davis,Kelly,"Scher, Adam",Neg,27.7,28.5,27.5,29
+1516,rochester,2,nov,Binghamton,Gopalakrishnan,Boyes,Cornell,Safer,Salih,"Maynard, Dylan",Aff,29.5,29.4,29.2,29.3
+1516,rochester,2,nov,Binghamton,Malinverni,Velez,Monmouth,Rashid,Soto,"Zhan, Bobby",Aff,28.5,28.3,28.1,28
+1516,rochester,2,nov,Monmouth,Patel,Toto,NewSchool,Garrick,Swihart,"Dellamore, John",Neg,28.5,28.1,29,28.7
+1516,rochester,2,nov,Monmouth,Kimmel,Laster,NYU,Luo,Dalton,"Bonsol, Cedric",Neg,27.5,28.3,28.4,28.5
+1516,rochester,2,nov,NYU,Lloyd,Raveneau,Monmouth,Allsopp,Patel,"Ruffin, Ameena",Aff,27.8,28,26.9,27
+1516,rochester,2,nov,Monmouth,Hawke,Saenger,Rochester,Mathunjwa,Rutagarama,"Revelins, Armands",Aff,28.7,28.4,27.6,27.5
+1516,rochester,2,nov,Monmouth,Mcgigley,Fano,Binghamton,Ello,Haugen,"Gunn, John",Neg,27.3,27.2,27.5,27.6
+1516,rochester,2,nov,NYU,Pavlov,Szczechowski,Monmouth,Sibley,Worrall,"Hagen, Cecilia",Aff,27.9,28.2,28,27.8
+1516,rochester,2,nov,NYU,Moity,Song,Monmouth,Lee,Skelton,"Sehgal, Dhruv",Aff,28.3,28.2,28,28.1
+1516,rochester,2,nov,Binghamton,Martin,Heed,Monmouth,Diaz,Daly,"Fletcher, Sarah",Aff,29,28.8,28.5,28
+1516,rochester,5,nov,Binghamton,Malinverni,Velez,Monmouth,Allsopp,Patel,"Fletcher, Sarah",Aff,29,28.4,28.6,28.8
+1516,rochester,5,nov,NYU,Moity,Song,Monmouth,Wilker,Tulaslic,"Hagen, Cecilia",Aff,28,27.9,27.7,27.8
+1516,rochester,5,nov,Monmouth,Littig,Ryan,NYU,Pavlov,Szczechowski,"Sehgal, Dhruv",Aff,28.5,28.3,28.2,28.1
+1516,rochester,5,nov,Monmouth,Patel,Toto,Rochester,Mathunjwa,Rutagarama,"Glass, Rob",Aff,27.6,27.7,27,27
+1516,rochester,5,nov,Monmouth,Mcgigley,Fano,NYU,Lloyd,Raveneau,"Weddington, Tommye",Neg,27.8,27.7,27.9,28
+1516,rochester,5,nov,Monmouth,Diaz,Daly,NYU,Luo,Dalton,"Merkle, David",Aff,27.8,27.5,27.4,27.6
+1516,rochester,5,nov,Binghamton,Martin,Heed,Monmouth,Kimmel,Laster,"Keenan, V",Aff,28.1,27.6,27,28
+1516,rochester,5,nov,Cornell,Safer,Salih,Monmouth,Hawke,Saenger,"Zhan, Bobby",Aff,28.8,28.7,28.6,28.4
+1516,rochester,5,nov,NewSchool,Garrick,Swihart,Monmouth,Lee,Skelton,"Yahom, Jefferson",Aff,28.3,28.5,28,28.1
+1516,rochester,5,nov,Monmouth,Sibley,Worrall,NYU,Cheng,Xu,"Ruffin, Ameena",Neg,27,27.1,27.9,28.4
+1516,rochester,5,nov,Monmouth,Rashid,Soto,Binghamton,Gopalakrishnan,Boyes,"Dellamore, John",Neg,28,28.1,28,28.2
+1516,rochester,5,nov,NYU,Hon,Wong,Binghamton,Ello,Haugen,"Maynard, Dylan",Neg,29.4,29.4,29.5,29.5
+1516,rochester,4,nov,Monmouth,Allsopp,Patel,Rochester,Mathunjwa,Rutagarama,"Weddington, Tommye",Aff,27.8,27.9,27.5,27.6
+1516,rochester,4,nov,Monmouth,Littig,Ryan,Binghamton,Martin,Heed,"Cherry, Kaine",Neg,28.5,28.4,28.9,28.7
+1516,rochester,4,nov,Cornell,Safer,Salih,NYU,Moity,Song,"Younas, Saliha",Aff,28.4,27.8,28,27.6
+1516,rochester,4,nov,NewSchool,Garrick,Swihart,NYU,Pavlov,Szczechowski,"Patten, Joe",Aff,27.5,28,27,27.4
+1516,rochester,4,nov,NYU,Cheng,Xu,Monmouth,Kimmel,Laster,"Leeson-Schatz, Joe",Aff,28,28.1,27.9,27.8
+1516,rochester,4,nov,Monmouth,Wilker,Tulaslic,Binghamton,Gopalakrishnan,Boyes,"Zhan, Bobby",Aff,28,28.2,28.4,28.5
+1516,rochester,4,nov,NYU,Luo,Dalton,Monmouth,Mcgigley,Fano,"Brown, Whitney",Aff,28.3,28.2,27.8,27.9
+1516,rochester,4,nov,Binghamton,Ello,Haugen,Monmouth,Hawke,Saenger,"Glass, Rob",Aff,27.7,27.5,27.2,27.1
+1516,rochester,4,nov,NYU,Lloyd,Raveneau,Monmouth,Patel,Toto,"Hagen, Cecilia",Aff,28,28.2,27.9,27.8
+1516,rochester,4,nov,Monmouth,Lee,Skelton,NYU,Hon,Wong,"Keenan, V",Neg,27.6,27.4,28.1,28
+1516,rochester,4,nov,Monmouth,Sibley,Worrall,Broome,Davis,Kelly,"Revelins, Armands",Neg,27.7,26.9,27.5,28.7
+1516,rochester,4,nov,Binghamton,Malinverni,Velez,Monmouth,Diaz,Daly,"Dellamore, John",Aff,28.8,28.3,28,27.7
+1516,adafall,3,nov,Liberty,Horning,Wambolt,Washington,Chiriac,Laughlin,"Marianetti, Jadon",Aff,28.4,28.2,28,28.3
+1516,adafall,3,nov,Clarion,Verona,Callenburg,Miami,Allen,Kardys,"Jordan, Kathryn",Aff,27.6,27.5,27.3,27.4
+1516,adafall,3,nov,Liberty,Bishop,Hidalgo,UMW,Rao,Rowles,"Carlson, Clay",Aff,28.3,28.2,28.1,28
+1516,adafall,3,nov,GMU,Batterjee,Coon,Minnesota,Gergen,Johnson,"Kuswa, Kevin",Aff,28,28.2,27.6,27.9
+1516,adafall,3,nov,Navy,Yu,German,Emory,Chase,Wagmo,"Newman, Jennifer",Aff,27.5,28,27.3,27.4
+1516,adafall,3,nov,Liberty,Johnson,Myers,GMU,Attiliis,Shoja,"Ciak, Jeff",Neg,27.2,27.5,27,26
+1516,adafall,3,nov,GMU,Lockhart,Stankovic,Emory,Carter,Reibman,"Pollard, Tim",Aff,28,28.5,26,26.1
+1516,adafall,3,nov,JMU,Nickoloau,Evans,Navy,Kim,McNamara,"Autry, Joseph",Aff,28,28.1,27,27.1
+1516,adafall,3,nov,Liberty,Gulchuk,Thomas,Army,chen,Kreher,"Spivey, Aubrey",Aff,28.2,28.3,27.8,27.9
+1516,adafall,3,nov,Army,Flores,Minter,Samford,Staples,Terrill,"Walker, Wesley",Aff,27.1,27.2,26.8,27
+1516,adafall,3,nov,Liberty,Daniels,Sargent,Emory,Gross,Zhou,"Lyle, Jim",Aff,27.8,27.6,27.4,27.5
+1516,adafall,3,nov,GMU,Miller,Currier,Michigan,Love,Randall,"Woodruff, Austin",Aff,28.8,28.9,28.7,28.6
+1516,adafall,2,nov,Liberty,Bishop,Hidalgo,GMU,Miller,Currier,"Bosley, Jacob",Neg,28.6,28.7,28.8,28.5
+1516,adafall,2,nov,Navy,Kim,McNamara,Emory,Gross,Zhou,"Waldinger, Patrick",Neg,27.5,28.2,28.6,28.7
+1516,adafall,2,nov,Navy,Yu,German,UMW,Rao,Rowles,"Murray, Lindsey",Neg,27.6,28.4,28.6,28.5
+1516,adafall,2,nov,Liberty,Horning,Wambolt,JMU,Nickoloau,Evans,"Young, Mariah",Aff,28,27.9,27.7,27.6
+1516,adafall,2,nov,Army,Flores,Minter,Emory,Chase,Wagmo,"Woodward, David-Michael",Aff,28.3,28.4,28,27.9
+1516,adafall,2,nov,Miami,Allen,Kardys,Liberty,Johnson,Myers,"Meloche, Brad",Neg,28.4,28.3,28.5,28.6
+1516,adafall,2,nov,Emory,Carter,Reibman,Michigan,Love,Randall,"Sheldon, Casey",Neg,28.3,28.7,28.9,28.5
+1516,adafall,2,nov,GMU,Attiliis,Shoja,Minnesota,Gergen,Johnson,"Lopez, Leandra",Aff,28.3,27,28.5,28.4
+1516,adafall,2,nov,Washington,Chiriac,Laughlin,Liberty,Daniels,Sargent,"Scher, Adam",Aff,27.5,27.9,27.8,28.1
+1516,adafall,2,nov,Samford,Staples,Terrill,Liberty,Gulchuk,Thomas,"Keller, Maria",Neg,27.6,27.5,28.2,28.3
+1516,adafall,2,nov,GMU,Lockhart,Stankovic,Army,chen,Kreher,"Milton, Nate",Neg,28,28.3,28.2,28.1
+1516,adafall,2,nov,GMU,Batterjee,Coon,Clarion,Verona,Callenburg,"Autry, Joseph",Aff,27.5,28,27,27.3
+1516,adafall,1,nov,Emory,Chase,Wagmo,Liberty,Bishop,Hidalgo,"Waldinger, Patrick",Neg,28,28.1,28.7,28.5
+1516,adafall,1,nov,Liberty,Gulchuk,Thomas,GMU,Lockhart,Stankovic,"Sheldon, Casey",Aff,28.9,28.5,28.3,28.7
+1516,adafall,1,nov,Emory,Gross,Zhou,Samford,Staples,Terrill,"Meloche, Brad",Neg,28.6,28.3,28.4,27.7
+1516,adafall,1,nov,Clarion,Verona,Callenburg,Washington,Chiriac,Laughlin,"Spivey, Aubrey",Neg,28,27.8,28.2,28.1
+1516,adafall,1,nov,JMU,Nickoloau,Evans,GMU,Attiliis,Shoja,"Pollard, Tim",Neg,28,27.8,28.3,28.4
+1516,adafall,1,nov,Army,chen,Kreher,Miami,Allen,Kardys,"Murray, Lindsey",Aff,28.2,28.3,27.8,27.7
+1516,adafall,1,nov,GMU,Miller,Currier,Navy,Yu,German,"Lopez, Leandra",Neg,28.3,28.4,28,28.5
+1516,adafall,1,nov,Liberty,Daniels,Sargent,Army,Flores,Minter,"Bosley, Jacob",Aff,28.3,28.5,28.1,28
+1516,adafall,1,nov,Minnesota,Gergen,Johnson,Emory,Carter,Reibman,"Keller, Maria",Aff,28.7,28.8,28.3,28.4
+1516,adafall,1,nov,Michigan,Love,Randall,Liberty,Horning,Wambolt,"Scher, Adam",Neg,27.6,27.5,27.7,27.8
+1516,adafall,1,nov,UMW,Rao,Rowles,GMU,Batterjee,Coon,"Milton, Nate",Aff,28.1,28,27.6,27.8
+1516,adafall,1,nov,Liberty,Johnson,Myers,Navy,Kim,McNamara,"Young, Mariah",Aff,27.6,27.7,27.4,27.5
+1516,adafall,5,nov,Liberty,Horning,Wambolt,GMU,Batterjee,Coon,"Meloche, Brad",Aff,29.4,29.1,28.8,29
+1516,adafall,5,nov,Miami,Allen,Kardys,Emory,Gross,Zhou,"Keller, Maria",Neg,27.5,27.3,27.4,27.6
+1516,adafall,5,nov,Liberty,Daniels,Sargent,GMU,Miller,Currier,"Taylor, Terrell",Aff,28.5,28.6,28.1,28
+1516,adafall,5,nov,Liberty,Bishop,Hidalgo,GMU,Attiliis,Shoja,"Kimball, Judd",Neg,28.3,27.9,28,28.4
+1516,adafall,5,nov,Minnesota,Gergen,Johnson,Emory,Chase,Wagmo,"Murray, Lindsey",Aff,27.2,28.4,1.0,28.9
+1516,adafall,5,nov,Liberty,Johnson,Myers,Army,Flores,Minter,"Spivey, Aubrey",Neg,27.8,28,28.2,27.9
+1516,adafall,5,nov,Liberty,Gulchuk,Thomas,Navy,Yu,German,"Young, Mariah",Aff,28.2,28.1,27.5,27.6
+1516,adafall,5,nov,Washington,Chiriac,Laughlin,GMU,Lockhart,Stankovic,"Katsulas, John",Neg,27.5,27.9,27.7,27.8
+1516,adafall,5,nov,UMW,Rao,Rowles,JMU,Nickoloau,Evans,"Waldinger, Patrick",Aff,28.8,29,28.4,28.6
+1516,adafall,5,nov,Emory,Carter,Reibman,Samford,Staples,Terrill,"Nagy, John",Aff,27.4,27.5,27.3,27.2
+1516,adafall,5,nov,Navy,Kim,McNamara,Michigan,Love,Randall,"Lopez, Leandra",Neg,28.5,28.7,29,28.8
+1516,adafall,5,nov,Army,chen,Kreher,Clarion,Verona,Callenburg,"Hall, Heather",Aff,28.3,27.8,28.1,28
+1516,adafall,4,nov,Emory,Chase,Wagmo,Clarion,Verona,Callenburg,"Lopez, Leandra",Neg,28.2,28.3,28.4,28.5
+1516,adafall,4,nov,UMW,Rao,Rowles,Army,Flores,Minter,"Jordan, Kathryn",Neg,28.5,28.2,27.7,28
+1516,adafall,4,nov,Michigan,Love,Randall,GMU,Batterjee,Coon,"Mathis, Erik",Neg,28.1,28.4,28,28.5
+1516,adafall,4,nov,Miami,Allen,Kardys,GMU,Lockhart,Stankovic,"Webster-Dunn, Christy",Neg,27.8,27.4,27.6,27.7
+1516,adafall,4,nov,Emory,Carter,Reibman,JMU,Nickoloau,Evans,"Murray, Lindsey",Aff,28.9,28.8,28.7,28.6
+1516,adafall,4,nov,Navy,Kim,McNamara,GMU,Miller,Currier,"Meloche, Brad",Neg,28.1,28,29.3,28.4
+1516,adafall,4,nov,Army,chen,Kreher,Liberty,Horning,Wambolt,"Bosley, Jacob",Neg,27.7,27.8,28.2,28.4
+1516,adafall,4,nov,Washington,Chiriac,Laughlin,Liberty,Johnson,Myers,"Waldinger, Patrick",Neg,28.4,28.7,28.3,28.8
+1516,adafall,4,nov,Emory,Gross,Zhou,Liberty,Bishop,Hidalgo,"Evans, Brandon",Neg,28.4,28.3,29,28.9
+1516,adafall,4,nov,Samford,Staples,Terrill,Navy,Yu,German,"Autry, Joseph",Neg,27.3,27,27.6,27.5
+1516,adafall,4,nov,GMU,Attiliis,Shoja,Liberty,Gulchuk,Thomas,"Scher, Adam",Neg,27.7,27.8,27.9,28
+1516,adafall,4,nov,Minnesota,Gergen,Johnson,Liberty,Daniels,Sargent,"Young, Mariah",Neg,27.5,27.6,28,27.9
+1516,adafall,6,nov,Emory,Chase,Wagmo,UMW,Rao,Rowles,"Sheldon, Casey",Neg,1.0,28.4,28.3,28.7
+1516,adafall,6,nov,GMU,Attiliis,Shoja,Liberty,Horning,Wambolt,"Najor, Bruce",Aff,28.5,28.6,28.3,28.4
+1516,adafall,6,nov,Michigan,Love,Randall,Miami,Allen,Kardys,"Milton, Nate",Aff,27.8,27.7,27.6,27.4
+1516,adafall,6,nov,GMU,Batterjee,Coon,Army,chen,Kreher,"Pollard, Tim",Neg,27.7,26,28.3,28
+1516,adafall,6,nov,Navy,Yu,German,Liberty,Bishop,Hidalgo,"Meloche, Brad",Neg,28.5,28.3,28.7,28.4
+1516,adafall,6,nov,GMU,Lockhart,Stankovic,Liberty,Daniels,Sargent,"McGrath, Cynthia",Neg,29,29.1,29.2,29.3
+1516,adafall,6,nov,JMU,Nickoloau,Evans,Washington,Chiriac,Laughlin,"Sheldon, Amanda",Neg,28.2,28.4,27.9,28.8
+1516,adafall,6,nov,Army,Flores,Minter,Liberty,Gulchuk,Thomas,"Lopez, Leandra",Neg,28.3,28.5,28.6,28.7
+1516,adafall,6,nov,Emory,Gross,Zhou,Minnesota,Gergen,Johnson,"Bleyle, Brittney",Aff,28.3,28,27.7,28.2
+1516,adafall,6,nov,Samford,Staples,Terrill,Navy,Kim,McNamara,"Carlson, Clay",Neg,28.3,27.1,27.6,27.9
+1516,adafall,6,nov,GMU,Miller,Currier,Liberty,Johnson,Myers,"Scher, Adam",Neg,27.8,27.7,27.5,27.6
+1516,adafall,6,nov,Clarion,Verona,Callenburg,Emory,Carter,Reibman,"Woodward, David-Michael",Neg,27,27.9,28,27.8
+1516,adafall,quarters,nov,GMU,Attiliis,Shoja,Liberty,Bishop,Hidalgo,"Carlson, Clay",Neg,-1,-1,-1,-1,"Lopez, Leandra",Aff,-1,-1,-1,-1,"Webster-Dunn, Christy",Neg,-1,-1,-1,-1
+1516,adafall,quarters,nov,Liberty,Daniels,Sargent,Michigan,Love,Randall,"Bosley, Jacob",Aff,-1,-1,-1,-1,"Evans, Brandon",Neg,-1,-1,-1,-1,"Woodward, David-Michael",Aff,-1,-1,-1,-1
+1516,adafall,quarters,nov,GMU,Miller,Currier,Liberty,Horning,Wambolt,"McGrath, Cynthia",Aff,-1,-1,-1,-1,"O'Gorman, Danielle",Aff,-1,-1,-1,-1,"Taylor, Terrell",Aff,-1,-1,-1,-1
+1516,adafall,quarters,nov,Liberty,Johnson,Myers,Liberty,Gulchuk,Thomas,BYE,-1,-1,-1,-1
+1516,adafall,octs,nov,GMU,Lockhart,Stankovic,Liberty,Bishop,Hidalgo,"Carlson, Clay",Neg,-1,-1,-1,-1,"Kimball, Judd",Neg,-1,-1,-1,-1,"Mathis, Erik",Neg,-1,-1,-1,-1
+1516,adafall,octs,nov,GMU,Miller,Currier,Army,Flores,Minter,"Autry, Joseph",Neg,-1,-1,-1,-1,"Edwards, Meagan",Aff,-1,-1,-1,-1,"O'Gorman, Danielle",Aff,-1,-1,-1,-1
+1516,adafall,octs,nov,Liberty,Johnson,Myers,Army,chen,Kreher,"Carley, Erin",Aff,-1,-1,-1,-1,"Keller, Maria",Aff,-1,-1,-1,-1,"McGrath, Cynthia",Aff,-1,-1,-1,-1
+1516,adafall,octs,nov,UMW,Rao,Rowles,Michigan,Love,Randall,"Bosley, Jacob",Neg,-1,-1,-1,-1,"Hall, Heather",Neg,-1,-1,-1,-1,"Jordan, Kathryn",Neg,-1,-1,-1,-1
+1516,adafall,quarters,open,Liberty,Robillard,Simmons,WayneState,Anton,Williams,"Bleyle, Brittney",Neg,-1,-1,-1,-1,"Kuswa, Kevin",Neg,-1,-1,-1,-1,"Young, Mariah",Neg,-1,-1,-1,-1
+1516,adafall,quarters,open,JMU,Cerja,Thies,GMU,Lisik,Ghanem,"Hall, Heather",Neg,-1,-1,-1,-1,"Kimball, Judd",Neg,-1,-1,-1,-1,"Waldinger, Patrick",Neg,-1,-1,-1,-1
+1516,adafall,quarters,open,Washington,Elizondo,Petrone,Liberty,Crenshaw,Samuel,"Ciak, Jeff",Aff,-1,-1,-1,-1,"Johnson, Taylor",Neg,-1,-1,-1,-1,"Meloche, Brad",Neg,-1,-1,-1,-1
+1516,adafall,quarters,open,Vandy,Gill,Kohlmaier,Boston,Bilak,Senthilkumar,"Keller, Maria",Neg,-1,-1,-1,-1,"Murray, Lindsey",Neg,-1,-1,-1,-1,"Najor, Bruce",Aff,-1,-1,-1,-1
+1516,adafall,2,open,Minnesota,Feleke,Snoddy,Army,Hickey,Matlack,"Woodruff, Austin",Neg,28.2,28.1,28.4,28.3
+1516,adafall,2,open,GSUMinn,Hussein,Baubonis,WayneState,Anton,Williams,"Kimball, Judd",Neg,28.1,28,28.2,28.3
+1516,adafall,2,open,Vandy,Gill,Kohlmaier,Georgia,Herrera,Jones,"Walker, Wesley",Aff,27.3,27.5,27.1,27.2
+1516,adafall,2,open,Liberty,Blow,Washburn,Florida,Callaghan,Kizito,"Bleyle, Brittney",Neg,28,27.6,27.7,27.9
+1516,adafall,2,open,Boston,Bilak,Senthilkumar,IU,Stuart,Perry,"Jordan, Kathryn",Aff,28.3,28.4,28.2,28
+1516,adafall,2,open,JMU,Cheung,Wheeler,Army,Wilby,Holbrook,"Kuswa, Kevin",Aff,27.9,27.8,27.7,27.6
+1516,adafall,2,open,Navy,Phillips,Parriott,UMW,Dillon,Hogan,"Pollard, Tim",Neg,28.3,27.5,27.9,28
+1516,adafall,2,open,GMU,Lisik,Ghanem,Vandy,Cohon,Spingarn,"Ciak, Jeff",Aff,26.8,28,27.5,27
+1516,adafall,2,open,Miami,Liu,Zhong,Clarion,Pierotti,Sorenson,"Marianetti, Jadon",Neg,27,28.2,28.4,28.5
+1516,adafall,2,open,JMU,Cerja,Thies,Washington,Elizondo,Petrone,"Carlson, Clay",Neg,28.3,28.4,28.6,28.5
+1516,adafall,2,open,Liberty,Robillard,Simmons,Army,Collins,Watts,"Paqueo, Niccolo",Aff,28.3,27.9,27.8,27.5
+1516,adafall,2,open,Liberty,Crenshaw,Samuel,Florida,Shukla,Talebi,"Evans, Brandon",Aff,28.3,28.5,27.5,27.4
+1516,adafall,2,open,Miami,Appel,Kloepper,Florida,Alexis,Jean-Baptiste,"Mathis, Erik",Aff,28.5,28.4,28.2,28
+1516,adafall,octs,open,Liberty,Robillard,Simmons,GSUMinn,Hussein,Baubonis,"Meloche, Brad",Aff,-1,-1,-1,-1,"Newman, Jennifer",Aff,-1,-1,-1,-1,"Young, Mariah",Aff,-1,-1,-1,-1
+1516,adafall,octs,open,JMU,Cerja,Thies,Army,Hickey,Matlack,"Ciak, Jeff",Aff,-1,-1,-1,-1,"Kuswa, Kevin",Aff,-1,-1,-1,-1,"Pollard, Tim",Aff,-1,-1,-1,-1
+1516,adafall,octs,open,Vandy,Cohon,Spingarn,Washington,Elizondo,Petrone,"Najor, Bruce",Aff,-1,-1,-1,-1,"Waldinger, Patrick",Neg,-1,-1,-1,-1,"Webster-Dunn, Christy",Neg,-1,-1,-1,-1
+1516,adafall,octs,open,Vandy,Gill,Kohlmaier,Army,Collins,Watts,"Lyle, Jim",Neg,-1,-1,-1,-1,"Milton, Nate",Aff,-1,-1,-1,-1,"Murray, Lindsey",Aff,-1,-1,-1,-1
+1516,adafall,octs,open,WayneState,Anton,Williams,Miami,Appel,Kloepper,"Evans, Brandon",Aff,-1,-1,-1,-1,"Taylor, Terrell",Neg,-1,-1,-1,-1,"Walker, Wesley",Aff,-1,-1,-1,-1
+1516,adafall,3,open,Army,Wilby,Holbrook,Florida,Shukla,Talebi,"Young, Mariah",Aff,28,27.9,28.2,28.1
+1516,adafall,3,open,JMU,Cheung,Wheeler,Liberty,Robillard,Simmons,"Meloche, Brad",Neg,28.6,28.7,28.8,29
+1516,adafall,3,open,WayneState,Anton,Williams,Minnesota,Feleke,Snoddy,"Carley, Erin",Aff,28.3,28,26.5,26.2
+1516,adafall,3,open,GMU,Lisik,Ghanem,Liberty,Blow,Washburn,"Sheldon, Casey",Aff,28.9,28.7,28.3,28.5
+1516,adafall,3,open,Washington,Elizondo,Petrone,Clarion,Pierotti,Sorenson,"Webster-Dunn, Christy",Aff,27.8,27.7,27.3,27.4
+1516,adafall,3,open,Florida,Callaghan,Kizito,Navy,Phillips,Parriott,"Lopez, Leandra",Neg,28.1,28.4,28.5,28
+1516,adafall,3,open,IU,Stuart,Perry,Florida,Alexis,Jean-Baptiste,"Murray, Lindsey",Aff,27.7,27.6,27.4,27.5
+1516,adafall,3,open,Army,Hickey,Matlack,Miami,Liu,Zhong,"Woodward, David-Michael",Aff,28.2,28.4,28,27.7
+1516,adafall,3,open,Vandy,Gill,Kohlmaier,Miami,Appel,Kloepper,"Milton, Nate",Aff,28.5,28.7,28.4,28.6
+1516,adafall,3,open,JMU,Cerja,Thies,UMW,Dillon,Hogan,"Sheldon, Amanda",Aff,28.5,29.2,28.4,28.3
+1516,adafall,3,open,Vandy,Cohon,Spingarn,GSUMinn,Hussein,Baubonis,"Scher, Adam",Aff,28.4,28.3,28.2,28.1
+1516,adafall,3,open,Boston,Bilak,Senthilkumar,Liberty,Crenshaw,Samuel,"Keller, Maria",Neg,28.5,28.7,28.6,28.8
+1516,adafall,3,open,Army,Collins,Watts,Georgia,Herrera,Jones,"Bosley, Jacob",Aff,27.8,27.9,27.7,27.6
+1516,adafall,finals,nov,Liberty,Gulchuk,Thomas,GMU,Miller,Currier,"Meloche, Brad",Neg,-1,-1,-1,-1,"Najor, Bruce",Neg,-1,-1,-1,-1,"Webster-Dunn, Christy",Neg,-1,-1,-1,-1
+1516,adafall,1,open,Florida,Callaghan,Kizito,GSUMinn,Hussein,Baubonis,"Newman, Jennifer",Neg,28.5,28.6,28.7,28.9
+1516,adafall,1,open,Florida,Alexis,Jean-Baptiste,JMU,Cerja,Thies,"Walker, Wesley",Neg,26.9,27,27.5,27.7
+1516,adafall,1,open,Georgia,Herrera,Jones,Miami,Appel,Kloepper,"Woodward, David-Michael",Neg,27.7,27.5,28,27.6
+1516,adafall,1,open,Clarion,Pierotti,Sorenson,Navy,Phillips,Parriott,"Paqueo, Niccolo",Neg,27.9,28,28.1,27.8
+1516,adafall,1,open,Vandy,Cohon,Spingarn,Minnesota,Feleke,Snoddy,"Jordan, Kathryn",Aff,28.3,28,27.5,27.3
+1516,adafall,1,open,Washington,Elizondo,Petrone,Miami,Liu,Zhong,"Sheldon, Amanda",Neg,28.6,28.1,28.9,28.4
+1516,adafall,1,open,Florida,Shukla,Talebi,JMU,Cheung,Wheeler,"Mathis, Erik",Neg,28,28.1,28.5,28.3
+1516,adafall,1,open,Army,Collins,Watts,Boston,Bilak,Senthilkumar,"Ciak, Jeff",Neg,28,26.5,27,28.2
+1516,adafall,1,open,Army,Hickey,Matlack,Liberty,Crenshaw,Samuel,"Bleyle, Brittney",Neg,27.9,28,28.1,28.2
+1516,adafall,1,open,WayneState,Anton,Williams,GMU,Lisik,Ghanem,"Autry, Joseph",Neg,27.5,28.3,28.6,28.8
+1516,adafall,1,open,UMW,Dillon,Hogan,Vandy,Gill,Kohlmaier,"Carlson, Clay",Neg,27.8,27.7,28.2,28.1
+1516,adafall,1,open,IU,Stuart,Perry,Liberty,Robillard,Simmons,"Evans, Brandon",Neg,28.3,27.8,28.5,28.4
+1516,adafall,1,open,Army,Wilby,Holbrook,Liberty,Blow,Washburn,"Najor, Bruce",Neg,27.5,27.9,28.1,28
+1516,adafall,semis,nov,Liberty,Bishop,Hidalgo,Liberty,Gulchuk,Thomas,BYE,-1,-1,-1,-1
+1516,adafall,semis,nov,GMU,Miller,Currier,Liberty,Daniels,Sargent,"Meloche, Brad",Aff,-1,-1,-1,-1,"Najor, Bruce",Neg,-1,-1,-1,-1,"Webster-Dunn, Christy",Aff,-1,-1,-1,-1
+1516,adafall,4,open,Florida,Alexis,Jean-Baptiste,Army,Wilby,Holbrook,"Bleyle, Brittney",Neg,28.2,27.8,28,28.5
+1516,adafall,4,open,Liberty,Blow,Washburn,Army,Collins,Watts,"Woodward, David-Michael",Neg,28.1,28.4,28.5,28.3
+1516,adafall,4,open,Miami,Liu,Zhong,JMU,Cheung,Wheeler,"Walker, Wesley",Neg,27.2,27.3,27.6,27.8
+1516,adafall,4,open,Georgia,Herrera,Jones,Washington,Elizondo,Petrone,"Kuswa, Kevin",Neg,27.9,27.7,28.2,28.1
+1516,adafall,4,open,Clarion,Pierotti,Sorenson,Boston,Bilak,Senthilkumar,"Sheldon, Amanda",Neg,28.3,28.2,28.5,28.7
+1516,adafall,4,open,Miami,Appel,Kloepper,Army,Hickey,Matlack,"Pollard, Tim",Neg,27.8,27.6,28.4,28
+1516,adafall,4,open,UMW,Dillon,Hogan,Vandy,Cohon,Spingarn,"Keller, Maria",Neg,28.1,28.2,28.5,28.4
+1516,adafall,4,open,GSUMinn,Hussein,Baubonis,JMU,Cerja,Thies,"Sheldon, Casey",Neg,28.1,27.9,28.6,28.8
+1516,adafall,4,open,Navy,Phillips,Parriott,WayneState,Anton,Williams,"Milton, Nate",Neg,28.8,28.5,28.9,28.7
+1516,adafall,4,open,Liberty,Crenshaw,Samuel,Vandy,Gill,Kohlmaier,"Marianetti, Jadon",Aff,28.1,28.5,28.3,28.2
+1516,adafall,4,open,Florida,Shukla,Talebi,IU,Stuart,Perry,"Woodruff, Austin",Aff,28.2,28.4,28.1,28
+1516,adafall,4,open,Liberty,Robillard,Simmons,GMU,Lisik,Ghanem,"Carley, Erin",Neg,28.5,28.2,28.6,28.4
+1516,adafall,4,open,Minnesota,Feleke,Snoddy,Florida,Callaghan,Kizito,"Edwards, Meagan",Neg,27.2,27.1,27.4,27.3
+1516,adafall,finals,open,GMU,Lisik,Ghanem,WayneState,Anton,Williams,"Autry, Joseph",Aff,-1,-1,-1,-1,"Edwards, Meagan",Neg,-1,-1,-1,-1,"Hall, Heather",Neg,-1,-1,-1,-1
+1516,adafall,5,open,Navy,Phillips,Parriott,Army,Wilby,Holbrook,"Autry, Joseph",Neg,27,28,28.3,27.3
+1516,adafall,5,open,Georgia,Herrera,Jones,Minnesota,Feleke,Snoddy,"Pollard, Tim",Neg,26.5,26.8,27.5,27.3
+1516,adafall,5,open,Washington,Elizondo,Petrone,Vandy,Cohon,Spingarn,"Edwards, Meagan",Aff,27.6,27.7,27.5,27.4
+1516,adafall,5,open,Boston,Bilak,Senthilkumar,JMU,Cerja,Thies,"Scher, Adam",Aff,28.4,28.5,28.3,28.2
+1516,adafall,5,open,WayneState,Anton,Williams,Vandy,Gill,Kohlmaier,"Ciak, Jeff",Aff,29,27,27.5,28
+1516,adafall,5,open,Army,Collins,Watts,Florida,Callaghan,Kizito,"Johnson, Taylor",Aff,28.3,28.2,28,27.9
+1516,adafall,5,open,Florida,Alexis,Jean-Baptiste,Miami,Liu,Zhong,"Carley, Erin",Neg,27.4,27.2,27.8,27.6
+1516,adafall,5,open,Liberty,Robillard,Simmons,Army,Hickey,Matlack,"McGrath, Cynthia",Aff,28.9,28.8,28.7,28.6
+1516,adafall,5,open,Miami,Appel,Kloepper,JMU,Cheung,Wheeler,"Webster-Dunn, Christy",Aff,28,27.9,27.8,27.7
+1516,adafall,5,open,UMW,Dillon,Hogan,IU,Stuart,Perry,"Paqueo, Niccolo",Aff,28,27.8,27.9,27.7
+1516,adafall,5,open,Liberty,Blow,Washburn,GSUMinn,Hussein,Baubonis,"Bosley, Jacob",Neg,28.2,27.9,27.8,28
+1516,adafall,5,open,GMU,Lisik,Ghanem,Liberty,Crenshaw,Samuel,"Najor, Bruce",Neg,28.1,28,28.2,27.9
+1516,adafall,5,open,Florida,Shukla,Talebi,Clarion,Pierotti,Sorenson,"Milton, Nate",Neg,27.8,27.9,28,28.1
+1516,adafall,6,open,Army,Wilby,Holbrook,GMU,Lisik,Ghanem,"Lyle, Jim",Neg,27.5,27.3,28,28.4
+1516,adafall,6,open,Clarion,Pierotti,Sorenson,Georgia,Herrera,Jones,"Nagy, John",Aff,27.4,27.5,27.2,27.3
+1516,adafall,6,open,JMU,Cerja,Thies,WayneState,Anton,Williams,"Taylor, Terrell",Neg,28,28.4,28.2,28.3
+1516,adafall,6,open,Vandy,Gill,Kohlmaier,Florida,Shukla,Talebi,"Murray, Lindsey",Aff,28.3,28.4,28.2,28.1
+1516,adafall,6,open,JMU,Cheung,Wheeler,Boston,Bilak,Senthilkumar,"Kimball, Judd",Neg,28.4,28.3,28.1,28.2
+1516,adafall,6,open,Florida,Callaghan,Kizito,Miami,Appel,Kloepper,"Keller, Maria",Aff,28.5,28.4,28.3,28.2
+1516,adafall,6,open,Army,Hickey,Matlack,Florida,Alexis,Jean-Baptiste,"Evans, Brandon",Aff,28.3,28.5,27.5,27
+1516,adafall,6,open,GSUMinn,Hussein,Baubonis,UMW,Dillon,Hogan,"Jordan, Kathryn",Aff,28.3,28.2,28.1,28
+1516,adafall,6,open,Liberty,Crenshaw,Samuel,Washington,Elizondo,Petrone,"Paqueo, Niccolo",Aff,28.3,28.4,28.2,28.1
+1516,adafall,6,open,Minnesota,Feleke,Snoddy,Army,Collins,Watts,"Hall, Heather",Neg,27.9,28,28.1,28.2
+1516,adafall,6,open,Vandy,Cohon,Spingarn,Liberty,Robillard,Simmons,"Mathis, Erik",Aff,28.6,28.5,28.2,28.4
+1516,adafall,6,open,Miami,Liu,Zhong,Liberty,Blow,Washburn,"Young, Mariah",Neg,27.4,27.5,28.1,28
+1516,adafall,6,open,IU,Stuart,Perry,Navy,Phillips,Parriott,"Johnson, Taylor",Aff,27.6,27.7,27.9,27.8
+1516,adafall,semis,open,WayneState,Anton,Williams,Liberty,Crenshaw,Samuel,"Bleyle, Brittney",Aff,-1,-1,-1,-1,"Keller, Maria",Aff,-1,-1,-1,-1,"Woodward, David-Michael",Neg,-1,-1,-1,-1
+1516,adafall,semis,open,GMU,Lisik,Ghanem,Boston,Bilak,Senthilkumar,"Autry, Joseph",Aff,-1,-1,-1,-1,"Hall, Heather",Aff,-1,-1,-1,-1,"Nagy, John",Aff,-1,-1,-1,-1
+1516,vermont,finals,open,Oklahoma,Peron,Lowe,Rochester,Abubakare,Bonsol,"Keenan, V",Neg,-1,-1,-1,-1,"Ruffin, Ameena",Aff,-1,-1,-1,-1,"Whitley, Kevin",Aff,-1,-1,-1,-1
+1516,vermont,4,open,Rochester,Abubakare,Bonsol,NewSchool,Swihart,Garrick,"Cherry, Kaine",Aff,28.6,28.5,28,28.1
+1516,vermont,4,open,Vermon,Cai,Puranik,Oklahoma,AlvaradoFierro,Morris,"Fletcher, Brady",Neg,26.5,26.5,27.5,27
+1516,vermont,4,open,Vermon,Brewton,Hassan,Oklahoma,Peron,Lowe,"Keenan, V",Neg,27.1,27,27.4,27.6
+1516,vermont,5,open,Rochester,Kelly,Lyskawa,Vermon,Brewton,Hassan,"Cherry, Kaine",Aff,28.8,28.4,28.7,28.5
+1516,vermont,5,open,Vermon,Cai,Puranik,Rochester,Abubakare,Bonsol,"Allen, Ben",Neg,28.3,28,28.8,28.6
+1516,vermont,5,open,NewSchool,Swihart,Garrick,Oklahoma,AlvaradoFierro,Morris,"Whitley, Kevin",Neg,28.1,28,28.2,28.3
+1516,vermont,2,open,Oklahoma,AlvaradoFierro,Morris,Rochester,Abubakare,Bonsol,"Ruffin, Ameena",Aff,27.6,27.5,27,27.4
+1516,vermont,2,open,NewSchool,Swihart,Garrick,Rochester,Kelly,Lyskawa,"Owusu, Edwin",Neg,27,27.1,27.5,28.2
+1516,vermont,2,open,Oklahoma,Peron,Lowe,Vermon,Cai,Puranik,"Whitley, Kevin",Aff,28.8,28.9,28.7,28.6
+1516,vermont,3,open,NewSchool,Swihart,Garrick,Vermon,Cai,Puranik,"Yahom, Jefferson",Neg,27.8,27.7,28,27.9
+1516,vermont,3,open,Oklahoma,AlvaradoFierro,Morris,Vermon,Brewton,Hassan,"Merkle, David",Aff,27.8,27.6,27.7,27.5
+1516,vermont,3,open,Oklahoma,Peron,Lowe,Rochester,Kelly,Lyskawa,"Ruffin, Ameena",Aff,29.6,29.4,28.3,27.9
+1516,vermont,1,open,Rochester,Kelly,Lyskawa,Oklahoma,AlvaradoFierro,Morris,"Keenan, V",Neg,27.5,28,27.6,27.7
+1516,vermont,1,open,Rochester,Abubakare,Bonsol,Oklahoma,Peron,Lowe,"Owusu, Edwin",Aff,27.5,27.7,27,27.3
+1516,vermont,1,open,Vermon,Brewton,Hassan,NewSchool,Swihart,Garrick,"Allen, Ben",Aff,28.7,28.6,28,28.4
+1516,csun,3,nov,Southwestern,Beaird,Smiley,SFSU,Hay,Holtricher,"Perkins, Justin",Aff,28,27.5,26,27
+1516,csun,3,nov,Fresno,Marroquin,Olmos,CSUN,Coto,Reinoso,"Iberri-Shea, Danny",Aff,24,25,26,20
+1516,csun,3,nov,CSUN,Dighiera,Wong,SDSU,Bunnell,Guzman,"Thach, Lee",Aff,29,0.0,28,28.2
+1516,csun,3,nov,Southwestern,Romero,Castillo,CSUF,Krueger,Salgado,"Rosa, Alejandro",Aff,27.9,27.8,27.7,27.6
+1516,csun,2,nov,SDSU,Bunnell,Guzman,Southwestern,Beaird,Smiley,"Thomas, Erika",Aff,27.8,27.5,27.6,27.9
+1516,csun,2,nov,Fresno,Marroquin,Olmos,CSUF,Rizk,Tero,"Albiniak, Teddy",Aff,28.2,28.3,28,28.1
+1516,csun,2,nov,Southwestern,Romero,Castillo,CSUN,Dighiera,Wong,"Eisenberg, Stephanie",Aff,27.8,27.2,27.4,27.5
+1516,csun,2,nov,CSUF,Krueger,Salgado,SFSU,Hay,Holtricher,"LoyJr., Robert",Aff,28,28.5,27.5,27
+1516,csun,1,nov,CSUF,Rizk,Tero,SDSU,Bunnell,Guzman,"alvarado, irvin",Aff,28.4,28.3,28.2,28.1
+1516,csun,1,nov,CSUN,Dighiera,Wong,CSUF,Krueger,Salgado,"Brownlow, Allison",Aff,28,27.8,27,27.3
+1516,csun,1,nov,SFSU,Hay,Holtricher,Fresno,Marroquin,Olmos,"Rajan, Romin",Aff,28.4,28.2,28,28.3
+1516,csun,1,nov,Southwestern,Beaird,Smiley,CSUN,Coto,Reinoso,"Eisenberg, Stephanie",Aff,27.7,28,27,27.2
+1516,csun,semis,open,Weber,Hall,Shoell,CSUF,ClarkVillanueva,Stolarski,"Albiniak, Teddy",Neg,-1,-1,-1,-1,"Holley, Sierra",Aff,-1,-1,-1,-1,"Symonds, Adam",Neg,-1,-1,-1,-1
+1516,csun,semis,open,WeberFresno,Levin,Sanchez,Weber,Raso,Veeder,BYE,-1,-1,-1,-1
+1516,csun,5,nov,Southwestern,Beaird,Smiley,CSUF,Rizk,Tero,"Iberri-Shea, Danny",Aff,28,30,24,22
+1516,csun,5,nov,Southwestern,Romero,Castillo,Fresno,Marroquin,Olmos,"Brownlow, Allison",Neg,27.5,26.4,27.7,26.5
+1516,csun,5,nov,CSUN,Dighiera,Wong,SFSU,Hay,Holtricher,"Thomas, Erika",Neg,27.3,27.4,27.8,27.9
+1516,csun,5,nov,CSUN,Coto,Reinoso,CSUF,Krueger,Salgado,"Perkins, Justin",Neg,25.5,26,27,29
+1516,csun,4,nov,SFSU,Hay,Holtricher,Southwestern,Romero,Castillo,"Abbasi, Calvin",Neg,28,26.5,27,28.5
+1516,csun,4,nov,CSUN,Coto,Reinoso,CSUF,Rizk,Tero,"Brownlow, Allison",Neg,27.8,28,28.3,28.5
+1516,csun,4,nov,SDSU,Bunnell,Guzman,CSUN,Marroquin,Olmos,"Garcia, Mariela",Neg,28.9,28.8,28.7,29.3
+1516,csun,4,nov,CSUF,Krueger,Salgado,Southwestern,Beaird,Smiley,"Symonds, Adam",Neg,28.3,28.6,28.4,28.5
+1516,csun,6,nov,CSUF,Rizk,Tero,Southwestern,Romero,Castillo,"LoyJr., Robert",Neg,28,27.5,29,28.5
+1516,csun,6,nov,SFSU,Hay,Holtricher,CSUN,Coto,Reinoso,"bugrov, max",Aff,28.1,28,27.8,27.9
+1516,csun,6,nov,Fresno,Marroquin,Olmos,CSUN,Dighiera,Wong,"Guevara, Omar",Aff,28,27.9,27.8,27.7
+1516,csun,6,nov,CSUF,Krueger,Salgado,SDSU,Bunnell,Guzmanbrid,"Barquin, Joseph",Neg,27,27.1,27.7,27.6
+1516,csun,5,open,SFSU,Shaheed,Murray,ASU,Machorro,Vinson,"Abbasi, Calvin",Neg,26.5,27.5,27,28.5
+1516,csun,5,open,Weber,Hall,Shoell,SDSU,Cureton,Kupersmid,"Garcia, Mariela",Aff,29.5,29.3,28.9,28.8
+1516,csun,5,open,WeberFresno,Levin,Sanchez,CSUF,ClarkVillanueva,Stolarski,"Albiniak, Teddy",Neg,28.8,28.6,28.5,28.9
+1516,csun,5,open,SFSU,Carey,Raiford,CSUF,Haney,Willett,"Doty, Kendra",Aff,27.9,27.4,27.7,27.6
+1516,csun,5,open,ASU,Hobbs,Quint,Weber,Raso,Veeder,"Rajan, Romin",Neg,28.7,28.6,28.9,28.5
+1516,csun,5,open,CSUF,Bugrova,Cabrera,Southwestern,Lopez,Stylez,"LoyJr., Robert",Aff,29,28.5,27.5,27
+1516,csun,5,open,SFSU,Grey,Haney,CSUN,Cable,Ramos,"Guevara, Omar",Aff,28.3,28.1,28.2,28
+1516,csun,5,open,SFSU,Guzman,Perez,ASU,Brody,Redman,"bugrov, max",Neg,27.8,27.9,28.1,28
+1516,csun,quarters,open,CSUF,ClarkVillanueva,Stolarski,SFSU,Carey,Raiford,"Doty, Kendra",Aff,-1,-1,-1,-1,"Guevara, Omar",Aff,-1,-1,-1,-1,"Symonds, Adam",Aff,-1,-1,-1,-1
+1516,csun,quarters,open,Weber,Hall,Shoell,ASU,Machorro,Vinson,"Brownlow, Allison",Aff,-1,-1,-1,-1,"Cooper, Deven",Aff,-1,-1,-1,-1,"LoyJr., Robert",Aff,-1,-1,-1,-1
+1516,csun,quarters,open,ASU,Brody,Redman,WeberFresno,Levin,Sanchez,"Albiniak, Teddy",Neg,-1,-1,-1,-1,"Iberri-Shea, Danny",Neg,-1,-1,-1,-1,"Thomas, Erika",Neg,-1,-1,-1,-1
+1516,csun,quarters,open,Weber,Raso,Veeder,ASU,Hobbs,Quint,"Barquin, Joseph",Aff,-1,-1,-1,-1,"bugrov, max",Aff,-1,-1,-1,-1,"Perkins, Justin",Neg,-1,-1,-1,-1
+1516,csun,4,open,ASU,Machorro,Vinson,WeberFresno,Levin,Sanchez,"Rajan, Romin",Neg,28.3,28.5,28.8,29
+1516,csun,4,open,Weber,Hall,Shoell,SFSU,Grey,Haney,"Doty, Kendra",Aff,28.8,28.6,28.7,28.5
+1516,csun,4,open,CSUN,Aceves,Barbalace,SFSU,Carey,Raiford,"Eisenberg, Stephanie",Neg,27,27.7,27.6,27.8
+1516,csun,4,open,CSUF,Haney,Willett,SDSU,Cureton,Kupersmid,"Albiniak, Teddy",Neg,28,28.2,28.1,28.3
+1516,csun,4,open,ASU,Hobbs,Quint,CSUF,ClarkVillanueva,Stolarski,"Guevara, Omar",Neg,28.4,28.3,28.5,28.9
+1516,csun,4,open,ASU,Brody,Redman,SFSU,Shaheed,Murray,"Cooper, Deven",Neg,28.2,28.1,28,28.7
+1516,csun,4,open,Weber,Raso,Veeder,Southwestern,Lopez,Stylez,"bugrov, max",Aff,28.2,28.3,27.8,27.9
+1516,csun,4,open,CSUN,Cable,Ramos,SFSU,Guzman,Perez,"Thach, Lee",Neg,28.1,28,29.5,27.5
+1516,csun,6,open,ASU,Machorro,Vinson,SFSU,Guzman,Perez,"Thomas, Erika",Aff,28.3,28.5,28.2,28.1
+1516,csun,6,open,CSUF,ClarkVillanueva,Stolarski,Weber,Hall,Shoell,"Brownlow, Allison",Neg,28,29,27.6,28.8
+1516,csun,6,open,CSUF,Haney,Willett,ASU,Hobbs,Quint,"Holley, Sierra",Neg,28.7,28.6,28.8,28.9
+1516,csun,6,open,SDSU,Cureton,Kupersmid,WeberFresno,Levin,Sanchez,"Doty, Kendra",Neg,27.9,28,28.4,28.6
+1516,csun,6,open,ASU,Brody,Redman,CSUN,Aceves,Barbalace,"Thach, Lee",Aff,27.7,28,27.8,28.2
+1516,csun,6,open,Southwestern,Lopez,Stylez,SFSU,Shaheed,Murray,"Garcia, Mariela",Aff,29.1,29.2,29.4,29.3
+1516,csun,6,open,Weber,Raso,Veeder,SFSU,Carey,Raiford,"Cooper, Deven",Neg,28.4,28.2,28.3,28.6
+1516,csun,6,open,CSUN,Cable,Ramos,CSUF,Bugrova,Cabrera,"Iberri-Shea, Danny",Aff,28,27,26,25
+1516,csun,3,open,SFSU,Grey,Haney,ASU,Machorro,Vinson,"bugrov, max",Neg,28,28.1,28.2,28.3
+1516,csun,3,open,SFSU,Carey,Raiford,Weber,Hall,Shoell,"Barquin, Joseph",Neg,28.2,28.3,28.4,28.5
+1516,csun,3,open,CSUF,ClarkVillanueva,Stolarski,CSUN,Cable,Ramos,"Symonds, Adam",Aff,28.5,28.6,28.4,28.3
+1516,csun,3,open,SFSU,Shaheed,Murray,CSUN,Aceves,Barbalace,"Guevara, Omar",Aff,28.1,28.2,28,27.9
+1516,csun,3,open,SFSU,Guzman,Perez,CSUF,Haney,Willett,"Abbasi, Calvin",Neg,28.5,27,28,27.5
+1516,csun,3,open,SDSU,Cureton,Kupersmid,ASU,Hobbs,Quint,"Brownlow, Allison",Neg,27.2,27,28.3,28
+1516,csun,3,open,CSUF,Bugrova,Cabrera,Weber,Raso,Veeder,"Albiniak, Teddy",Neg,28.4,28,28.5,28.3
+1516,csun,3,open,WeberFresno,Levin,Sanchez,ASU,Brody,Redman,"Eisenberg, Stephanie",Aff,29.5,29,27,27.3
+1516,csun,2,open,Southwestern,Lopez,Stylez,ASU,Brody,Redman,"Rajan, Romin",Neg,28.2,28.3,28.4,28.5
+1516,csun,2,open,CSUF,Haney,Willett,CSUN,Cable,Ramos,"Dunn, Izak",Aff,28.4,27.8,28.1,27.7
+1516,csun,2,open,ASU,Hobbs,Quint,SFSU,Guzman,Perez,"Cooper, Deven",Aff,28.4,28.5,28.2,28.3
+1516,csun,2,open,CSUF,Bugrova,Cabrera,ASU,Machorro,Vinson,"Brownlow, Allison",Neg,26.6,26.5,27,27.2
+1516,csun,2,open,Weber,Hall,Shoell,CSUN,Aceves,Barbalace,"bugrov, max",Aff,28.3,28.2,28.1,28
+1516,csun,2,open,SFSU,Shaheed,Murray,SDSU,Cureton,Kupersmid,"Thach, Lee",Neg,28.7,28.4,28.2,28.3
+1516,csun,2,open,Weber,Raso,Veeder,SFSU,Grey,Haney,"Symonds, Adam",Aff,28.5,28.4,28.7,28.3
+1516,csun,2,open,SFSU,Carey,Raiford,CSUF,ClarkVillanueva,Stolarski,"Holley, Sierra",Neg,29,29.1,28.9,29.3
+1516,csun,1,open,CSUN,Cable,Ramos,SFSU,Shaheed,Murray,"bugrov, max",Aff,28.1,28,27.8,27.9
+1516,csun,1,open,ASU,Machorro,Vinson,SFSU,Carey,Raiford,"Thach, Lee",Neg,28.3,28.5,28.2,28.4
+1516,csun,1,open,SFSU,Grey,Haney,CSUF,Bugrova,Cabrera,"Dunn, Izak",Aff,28.4,28.3,28,27.9
+1516,csun,1,open,ASU,Brody,Redman,Weber,Hall,Shoell,"Abbasi, Calvin",Aff,28.5,29,28,27.5
+1516,csun,1,open,SFSU,Guzman,Perez,Southwestern,Lopez,Stylez,"Guevara, Omar",Aff,28.1,28.3,28,28.2
+1516,csun,1,open,CSUN,Aceves,Barbalace,ASU,Hobbs,Quint,"Albiniak, Teddy",Neg,27.8,28,28.2,28.1
+1516,csun,1,open,WeberFresno,Levin,Sanchez,CSUF,Haney,Willett,"Symonds, Adam",Aff,28.4,28.5,28.2,28.1
+1516,csun,1,open,SDSU,Cureton,Kupersmid,Weber,Raso,Veeder,"Holley, Sierra",Aff,28.8,28.9,29,28.7
+1516,csun,finals,open,CSUF,ClarkVillanueva,Stolarski,WeberFresno,Levin,Sanchez,"Doty, Kendra",Aff,-1,-1,-1,-1,"Abbasi, Calvin",Neg,-1,-1,-1,-1,"Perkins, Justin",Neg,-1,-1,-1,-1
+1516,csun,quarters,nov,Fresno,Marroquin,Olmos,Southwestern,Romero,Castillo,"Abbasi, Calvin",Aff,-1,-1,-1,-1,"Garcia, Mariela",Neg,-1,-1,-1,-1,"Ruano, Raul",Neg,-1,-1,-1,-1
+1516,csun,quarters,nov,Southwestern,Beaird,Smiley,SDSU,Bunnell,Guzman,"Holley, Sierra",Aff,-1,-1,-1,-1,"Rajan, Romin",Neg,-1,-1,-1,-1,"Thach, Lee",Aff,-1,-1,-1,-1
