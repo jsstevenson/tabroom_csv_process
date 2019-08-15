@@ -4,9 +4,14 @@
 
 This project is a number of things. At its core, it is an open-source repository of debate metadata, culled from Tabroom and earlier archives. I'm also including the tools used to gather the info, in case anyone wants to check (or continue) the work. There are a number of tournaments with missing info, and I'm working to catch any data translation errors, so pull requests are welcome.
 
-## Data Omissions/Working
+## Data
 
-Generally, if I don't have complete data for a tournament division, I don't include it.
+### Cursory Notes
+
+* Generally, if I don't have complete data for a tournament division, I don't include it. If an individual debate's data appears impossible or corrupted in some way, I'll delete it and include the rest of the round's debates. 
+* I haven't been including byes when I catch them, and I haven't been including closeouts (which are inconsistently tracked, and weren't going to be informative for the things I wanted)
+* I'm not too familiar with the best way to deal with multi-word last names, but I've been simply removing the space. I'm hoping to avoid any kind of analysis that would take interest in individuals, and rather just want to look at aggregations, so this seemed like an okay way of keeping people distinct.
+* I'm only tracking last names. Including first names was often quite difficult and I didn't think it would get me much.
 
 ### 2017-2018 (Tabroom)
 * Kentucky: no speaker points for JV or novice.
@@ -50,7 +55,7 @@ Generally, if I don't have complete data for a tournament division, I don't incl
 * JV/novice nats WVU: no speaks
 * NJDDT: no novice speaks
 
-### 2015-2016
+### 2015-2016 (Tabroom)
 * UNI: no novice results
 * Weber: no JV finals
 * UCF: no results
@@ -60,10 +65,10 @@ Generally, if I don't have complete data for a tournament division, I don't incl
 * Navy: no round-by-round results/speaker points
 * Wichita: no JV speaks
 
-### 2013-2014
+### 2013-2014 (Tabroom)
 * NDT: There's some weirdness going on with some Indiana entries (I think drops?). I pulled those rounds out for now.
 
-## Ideas for running data
+## Research ideas
 * Most pref'd judges: gather round commitment data (eugh) and divide by rounds judged
 * 1st round voting stuff
 * ELO stuff
