@@ -1,0 +1,125 @@
+{
+    "1718": {
+        "sw": {
+            "open": {
+                "quarters": [
+                    {
+                        "aff": "Weber",
+                        "aff_1": "Thiede",
+                        "aff_2": "Wilson",
+                        "neg": "ASU",
+                        "neg_1": "Chowdhury",
+                        "neg_2": "Ram",
+                        "decisions": {
+                            "Barquin, Joseph": {
+                                "winner": "Neg",
+                                "aff_1_pts": "-1",
+                                "aff_2_pts": "-1",
+                                "neg_1_pts": "-1",
+                                "neg_2_pts": "-1"
+                            },
+                            "Carroll, Darrian": {
+                                "winner": "Neg",
+                                "aff_1_pts": "-1",
+                                "aff_2_pts": "-1",
+                                "neg_1_pts": "-1",
+                                "neg_2_pts": "-1"
+                            },
+                            "Rodriguez-Salcedo, Jeanette": {
+                                "winner": "Neg",
+                                "aff_1_pts": "-1",
+                                "aff_2_pts": "-1",
+                                "neg_1_pts": "-1",
+                                "neg_2_pts": "-1"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ndt": {
+            "open": {
+                "3": [
+                    {
+                        "aff": "Iowa",
+                        "aff_1": "Namakula",
+                        "aff_2": "Oberto-Besso",
+                        "neg": "GMU",
+                        "neg_1": "Howley",
+                        "neg_2": "Oliver",
+                        "decisions": {
+                            "Kelsie, Amber": {
+                                "winner": "Aff",
+                                "aff_1_pts": "28.7",
+                                "aff_2_pts": "28.8",
+                                "neg_1_pts": "28.6",
+                                "neg_2_pts": "28.5"
+                            },
+                            "Manchester, Jack": {
+                                "winner": "Neg",
+                                "aff_1_pts": "28.5",
+                                "aff_2_pts": "28.7",
+                                "neg_1_pts": "28.6",
+                                "neg_2_pts": "28.9"
+                            },
+                            "Ogbuli, Anthony": {
+                                "winner": "Neg",
+                                "aff_1_pts": "28.9",
+                                "aff_2_pts": "28.8",
+                                "neg_1_pts": "28.2",
+                                "neg_2_pts": "27.9"
+                            }
+                        }
+                    }
+                ],
+                "dubs": [
+                    {
+                        "aff": "Louisville",
+                        "aff_1": "Williams",
+                        "aff_2": "Yeargin",
+                        "neg": "Georgia",
+                        "neg_1": "Rice",
+                        "neg_2": "Stupek",
+                        "decisions": {
+                            "Chebrolu, Rishi": {
+                                "winner": "Aff",
+                                "aff_1_pts": "-1",
+                                "aff_2_pts": "-1",
+                                "neg_1_pts": "-1",
+                                "neg_2_pts": "-1"
+                            },
+                            "Crossan, Ben": {
+                                "winner": "Aff",
+                                "aff_1_pts": "-1",
+                                "aff_2_pts": "-1",
+                                "neg_1_pts": "-1",
+                                "neg_2_pts": "-1"
+                            },
+                            "Mathis, Erik": {
+                                "winner": "Aff",
+                                "aff_1_pts": "-1",
+                                "aff_2_pts": "-1",
+                                "neg_1_pts": "-1",
+                                "neg_2_pts": "-1"
+                            },
+                            "Moore, Matthew": {
+                                "winner": "Neg",
+                                "aff_1_pts": "-1",
+                                "aff_2_pts": "-1",
+                                "neg_1_pts": "-1",
+                                "neg_2_pts": "-1"
+                            },
+                            "Thomas, Michelle": {
+                                "winner": "Aff",
+                                "aff_1_pts": "-1",
+                                "aff_2_pts": "-1",
+                                "neg_1_pts": "-1",
+                                "neg_2_pts": "-1"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

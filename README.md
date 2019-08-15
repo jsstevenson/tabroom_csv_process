@@ -1,32 +1,29 @@
 # README
 
-## Usage
+## Overview
 
-Tabroom CSV --> ballots CSV
+This project is a number of things. At its core, it is an open-source repository of debate metadata, culled from Tabroom and earlier archives. I'm also including the tools used to gather the info, in case anyone wants to check (or continue) the work. There are a number of tournaments with missing info, and I'm working to catch any data translation errors, so pull requests are welcome.
 
-```bash
-$ python3 tabroom_csv_process [path-to-folder-to-process]
-```
+## Data Omissions/Working
 
-## Omissions/Working
+Generally, if I don't have complete data for a tournament division, I don't include it.
 
-### 2017-2018
-* Kentucky: no speaker points for JV or novice. Not included until that's dug up.
-* UCF: no round-by-round results (nor cumulatives?). Not included.
+### 2017-2018 (Tabroom)
+* Kentucky: no speaker points for JV or novice.
+* UCF: no round-by-round results (nor cumulatives?).
 * CSUF Fall: no results posted.
 * NW Fall Champs: novice speaks not posted
 * Cal Swing 1: Open finals missing 1 vote
-* Miami: Novice breakout finals results look wonky (judge decisions appear differently on each team's results page). Not included.
-* Pitt RR: Results posted to CEDA forums don't list sides -- waiting to include until that can be dug up. Would also appreciate a more digestable format.
+* Miami: Novice breakout finals results look wonky (judge decisions appear differently on each team's results page).
 * New School: Open finals don't list complete ballot results
-* D6: Results don't list speaks; holding off on adding them until that's filled in.
+* D6: No speaks.
 * D4: basically no results
-* D8: No speaks!
+* D8: No speaks.
 * ADA: No speaks in open and jv (but yes for novice?)
 
-### 2016-2017
-* Rochester: no speaker points, not included for now.
-* UNI: no speaker points, not included for now.
+### 2016-2017 (Tabroom)
+* Rochester: no speaker points
+* UNI: no speaker points
 * Rutgers: no speaker points
 * Golden Gate Opener: no speaker points
 * West Point: no speaker points
@@ -41,7 +38,7 @@ $ python3 tabroom_csv_process [path-to-folder-to-process]
 * West Georgia: no results
 * Southwestern: novice round 4 breaks me for some reason.
 * Indiana: novice prelim results aren't showing up under "results"
-* Gotham Scrikmmage: no speaks
+* Gotham Scrimmage: no speaks
 * Cornell: no speaks
 * MAC: no results (novice) or speaks (open)
 * D6: no speaks
@@ -60,15 +57,13 @@ $ python3 tabroom_csv_process [path-to-folder-to-process]
 * West Point: no speaks
 * Houston: no speaks
 * UNI novice: no results
-
+* Navy: no round-by-round results/speaker points
+* Wichita: no JV speaks
 
 ### 2013-2014
 * NDT: There's some weirdness going on with some Indiana entries (I think drops?). I pulled those rounds out for now.
 
-
-
 ## Ideas for running data
-
 * Most pref'd judges: gather round commitment data (eugh) and divide by rounds judged
 * 1st round voting stuff
 * ELO stuff
